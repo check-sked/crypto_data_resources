@@ -2,7 +2,7 @@
 
 ## Description
 
-Theis Python script pulls all of the active trading pairs on Bitstamp. The documentation for the Bitstamp API used can be found at https://www.bitstamp.net/api/.
+This Python script pulls all of the active trading pairs on Bitstamp. The documentation for the Bitstamp API used can be found at https://www.bitstamp.net/api/.
 
 ## Table of Contents
 
