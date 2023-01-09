@@ -1,0 +1,1 @@
+# Use this endpoint https://stablecoins.llama.fi/stablecoinprices to get historical value of all stablecoins
