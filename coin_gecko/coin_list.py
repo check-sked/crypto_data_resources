@@ -1,1 +1,0 @@
-# Use this enpoint https://api.coingecko.com/api/v3/coins/list?include_platform=true to get a list of all assets and their IDs
