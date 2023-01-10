@@ -50,3 +50,4 @@ df = df[["date", "volume", "close"]]
 # create Excel file that appears in root directory
 OUTPUT_FILENAME = "Coinbase_volume_by_pair_" + sym + ".xlsx"
 df.to_excel(OUTPUT_FILENAME, index=False)
+print("data written to Coinbase_volume_by_pair_" + sym + ".xlsx")
