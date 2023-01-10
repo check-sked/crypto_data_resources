@@ -2,8 +2,11 @@ import requests
 import csv
 import datetime
 
+# Input desired chain
+chain = "Solana"
+
 # Make a GET request to the endpoint
-response = requests.get('https://stablecoins.llama.fi/stablecoincharts/Ethereum')
+response = requests.get(f'https://stablecoins.llama.fi/stablecoincharts/{chain}')
 
 # Check the status code of the response
 if response.status_code == 200:
