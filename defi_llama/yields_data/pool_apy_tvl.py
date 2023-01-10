@@ -1,4 +1,21 @@
-# Endpoint https://yields.llama.fi/chart/747c1d2a-c668-4682-b9f9-296708a3dd90
-# Make ID dynamic input
-# Notice null values in JSON, write script to make null prev day values
-# Put in CSV
+import csv
+import requests
+
+response = requests.get("https://yields.llama.fi/chart/747c1d2a-c668-4682-b9f9-296708a3dd90")
+data = response.json()
+
+# Open the file in write mode
+with open('pool_tvl_apy.csv', mode='w', newline='') as file:
+    # Create a CSV writer
+    writer = csv.writer(file)
+
+    # Write the headers to the CSV file
+    writer.writerow(["timestamp", "tvlUSD", "apy"])
+
+    # Write the data to the CSV file
+    for item in data["data"]:
+        timestamp = item['timestamp']
+        tvlUSD = item['tvlUsd']
+        apy = round(item['apy']/100, 5)
+        writer.writerow([timestamp, tvlUSD, apy])
+    print("Data written to pool_tvl_apy.csv")
