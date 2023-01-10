@@ -6,7 +6,7 @@ import time
 
 # Link to CoinGecko Docs: https://www.coingecko.com/en/api/documentation
 
-# Input cryptocurrency to observe (spell out name like "bitcoin", "ethereum", "chainlink", etc.)
+# Input cryptocurrency ID (refer to coin glossary for IDs of all coins on CoinGecko)
 cryptocurrency = 'stellar'
 
 # Input Base Currency of Crypto Pair to Observe
