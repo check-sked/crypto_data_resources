@@ -2,8 +2,10 @@ import requests
 import csv
 import datetime
 
-url = "https://stablecoins.llama.fi/stablecoin/1"
-response = requests.get(url)
+# Input ID of stablecoin. IDs of each stablecoin can be found in stablecoin_dictionary.py
+ID = "1"
+
+response = requests.get(f'https://stablecoins.llama.fi/stablecoin/{ID}')
 data = response.json()
 
 if "chainBalances" in data:
