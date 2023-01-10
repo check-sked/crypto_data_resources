@@ -1,0 +1,1 @@
+# https://stablecoins.llama.fi/stablecoincharts/all
