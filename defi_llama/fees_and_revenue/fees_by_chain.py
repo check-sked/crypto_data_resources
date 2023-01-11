@@ -1,8 +1,9 @@
 import requests
 import pandas as pd
 
-url = "https://api.llama.fi/overview/fees/ethereum?excludeTotalDataChart=true&excludeTotalDataChartBreakdown=true&dataType=dailyFees"
-response = requests.get(url)
+Chain = "Ethereum"
+
+response = requests.get(f"https://api.llama.fi/overview/fees/{Chain}?excludeTotalDataChart=true&excludeTotalDataChartBreakdown=true&dataType=dailyFees")
 data = response.json()
 
 # Initialize an empty list to store the data
