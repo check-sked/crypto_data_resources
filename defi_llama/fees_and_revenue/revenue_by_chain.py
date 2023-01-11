@@ -3,9 +3,13 @@
 import requests
 import pandas as pd
 
+# Input chain to observe
 Chain = "Ethereum"
 
-response = requests.get(f"https://api.llama.fi/overview/fees/{Chain}?excludeTotalDataChart=true&excludeTotalDataChartBreakdown=true&dataType=dailyRevenue")
+#Time frame to observe (daily or weekly)
+Time = "daily"
+
+response = requests.get(f"https://api.llama.fi/overview/fees/{Chain}?excludeTotalDataChart=true&excludeTotalDataChartBreakdown=true&dataType={Time}Revenue")
 data = response.json()
 
 # Initialize an empty list to store the data
