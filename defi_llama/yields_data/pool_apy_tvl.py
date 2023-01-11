@@ -3,7 +3,7 @@ import requests
 import datetime
 
 # Input Pool ID (Pool IDs can be found in the Pool Glossary)
-Pool_ID = "747c1d2a-c668-4682-b9f9-296708a3dd90"
+Pool_ID = "f17b12f8-487e-4f1c-afa4-1e6fc0f47979"
 
 response = requests.get(f"https://yields.llama.fi/chart/{Pool_ID}")
 data = response.json()
