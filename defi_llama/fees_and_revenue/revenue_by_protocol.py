@@ -28,6 +28,7 @@ with open('protocol_revenue_by_chain.csv', mode='w', newline='') as csv_file:
     fieldnames = ['date'] + sorted([chain+'_'+version for chain in all_chains for version in all_versions]) + ['total_fees']
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
     writer.writeheader()
+    print("data written to protocol_revenue_by_chain.csv")
 
     for date, fees_by_chain in breakdown.items():
         row = {'date': date}
