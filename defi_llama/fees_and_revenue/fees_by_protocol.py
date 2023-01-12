@@ -24,7 +24,7 @@ for day in data['totalDataChartBreakdown']:
             all_versions.add(version)
             breakdown[date][chain+'_'+version] += fees
 
-with open('uniswap_fees_by_chain.csv', mode='w', newline='') as csv_file:
+with open('protocol_fees_by_chain.csv', mode='w', newline='') as csv_file:
     fieldnames = ['date'] + sorted([chain+'_'+version for chain in all_chains for version in all_versions]) + ['total_fees']
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
     writer.writeheader()
