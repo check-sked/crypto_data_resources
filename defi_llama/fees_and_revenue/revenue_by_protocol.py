@@ -6,7 +6,7 @@ from collections import defaultdict
 # Input protocol to observe. Reference protocols_list_fees.csv for available protocols.
 Protocol = "aave"
 
-# Input type (daily or total)
+# Input type (daily or total - no space and no caps)
 Type = "daily"
 
 response = requests.get(f"https://api.llama.fi/summary/fees/{Protocol}?dataType={Type}Revenue")
