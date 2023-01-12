@@ -1,7 +1,7 @@
 import csv
 import requests
 
-symbol_characters = input("Enter symbol characters to filter by: ")
+symbol_characters = input("Enter asset ticker you want opportunities for: ")
 
 response = requests.get('https://yields.llama.fi/pools')
 data = response.json()
