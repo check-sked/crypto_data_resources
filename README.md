@@ -1,8 +1,8 @@
-# crypto-data-tools
+# crypto-data-resources
 
 ## Description
 
-The crypto-data-tools repository contains Python scripts for accessing data across a number of crypto data platforms. The list currently includes:
+The crypto-data-resources repository contains Python scripts for accessing data across a number of crypto data platforms. The list currently includes:
 
 - [DefiLlama](https://defillama.com/)
 - [Blockchain.com](https://www.blockchain.com/)
