@@ -1,0 +1,16 @@
+Chain,Project,Symbol,Pool_ID,APY
+Arbitrum,uniswap-v3,WETH-RPL,3fa62db4-aa70-4365-81f3-8b2e9bf68af8,248.29045
+Ethereum,uniswap-v3,WETH-RPL,624dacc8-25ac-44b2-b68c-4f8d7eab1e1e,117.42009
+Ethereum,uniswap-v3,WETH-RPL,e3c78ab1-f1e3-4063-8715-2943cf7e6cf9,50.4632
+Ethereum,uniswap-v3,USDC-RPL,b80c862d-dc15-45bc-a036-1e20310f9da4,30.76262
+Ethereum,balancer,LUSD-LQTY-RETH-WETH-RPL,ede46628-b9fa-4c57-8a6d-74cbdabbce70,25.39816
+Ethereum,uniswap-v3,RPL-WETH,2d234c2b-c0aa-4ed2-8571-c72344e1fa86,7.88375
+Ethereum,aura,RETH-RPL,5fabcf4d-ae99-4ed8-89c9-9fb09af03179,6.88543
+Ethereum,balancer,RETH-RPL,e66d1ee3-825b-4a59-8362-e044e5fe926e,4.52353
+Ethereum,uniswap-v2,RPL-WETH,ac409494-2a52-4037-9998-1835d19d3055,3.83093
+Ethereum,balancer,RAI-FLX-RETH-WETH-RPL,4399e512-4ce8-44cd-97af-13fd893b9f71,3.69469
+Ethereum,bancor-v3,RPL,a72cf159-8355-41d0-83f3-396861098610,0.05862
+Ethereum,balancer,AAVE-BAL-RARE-ENS-RPL-GTC-HAUS-ROBOT,11870ede-a8fb-42b0-b10c-cf7d958c2fef,0.05374
+Ethereum,euler,RPL,ea443bbc-8f60-4cf3-86e1-93830da15835,0.03236
+Ethereum,uniswap-v3,RETH-RPL,612c378d-2f08-4f24-a1ad-58dacd6c73e9,0
+Ethereum,uniswap-v3,RPL-RPL,6d0c1274-fda4-49de-9288-4e0000b00005,0

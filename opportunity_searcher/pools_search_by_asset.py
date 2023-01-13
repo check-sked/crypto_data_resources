@@ -4,6 +4,7 @@ import requests
 symbol_characters = input("Enter asset ticker you want opportunities for: ")
 
 response = requests.get('https://yields.llama.fi/pools')
+response.raise_for_status()
 data = response.json()
 
 data = [item for item in data["data"] if symbol_characters in item["symbol"]]
