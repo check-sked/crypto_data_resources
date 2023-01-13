@@ -2,6 +2,7 @@ import csv # For csv file creation
 import requests # For get request
 import time  # For date parsing and formatting
 
+# Input chain name
 chain = "Ethereum"
 
 # Make a request to the endpoint
