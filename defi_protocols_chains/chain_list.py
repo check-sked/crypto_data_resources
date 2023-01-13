@@ -2,7 +2,7 @@ import csv
 import requests
 
 def write_to_csv(data):
-    with open('output.csv', mode='w') as csv_file:
+    with open('chains_list.csv', mode='w') as csv_file:
         fieldnames = ['name']
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
@@ -31,4 +31,4 @@ def get_data():
 data = get_data()
 data = sorted(data, key=lambda x: x['name'].lower())
 write_to_csv(data)
-print("CSV file 'output.csv' created successfully!")
+print("CSV file 'chains_list.csv' created successfully!")
