@@ -24,7 +24,7 @@ with open("total_stablecoins_all_chains.csv", "w", newline="") as csvfile:
     # Write the data rows
     for item in data:
         timestamp = int(item["date"])  # convert timestamp to integer
-        date = datetime.datetime.fromtimestamp(timestamp).strftime("%Y-%m-%d %H:%M:%S")  # format timestamp as human-readable date
+        date = datetime.datetime.fromtimestamp(timestamp).strftime("%Y-%m-%d")  # format timestamp as human-readable date
         peggedUSD = item["totalCirculating"]["peggedUSD"]
         peggedEUR = item["totalCirculating"]["peggedEUR"]
 
