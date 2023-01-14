@@ -2,18 +2,22 @@ import csv
 import requests
 
 # Input chain name
-chain = "binance"
+chain = "tezos"
 
 def write_to_csv(data):
     with open('dex_volume_by_chain.csv', mode='w') as csv_file:
-        fieldnames = ['name', 'total24h']
+        fieldnames = ['name', 'total24h','total7d','total30d']
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
         total24h = 0
+        total7d = 0
+        total30d = 0
         for item in data:
             total24h += item['total24h']
-            writer.writerow({'name': item['name'], 'total24h': item['total24h']})
-        writer.writerow({'name': 'Total', 'total24h': total24h})
+            total7d += item['total7d']
+            total30d += item['total30d']
+            writer.writerow({'name': item['name'], 'total24h': item['total24h'], 'total7d': item['total7d'], 'total30d': item['total30d']})
+        writer.writerow({'name': 'Total', 'total24h': total24h, 'total7d': total7d, 'total30d': total30d})
 
 def get_data():
     try:
@@ -22,7 +26,7 @@ def get_data():
         protocols = response.json()['protocols']
         data = []
         for protocol in protocols:
-            data.append({'name': protocol['name'], 'total24h': protocol['total24h']})
+            data.append({'name': protocol['name'], 'total24h': protocol['total24h'], 'total7d': protocol['total7d'], 'total30d': protocol['total30d']})
         return data
     except requests.exceptions.HTTPError as errh:
         print("Http Error:",errh)
