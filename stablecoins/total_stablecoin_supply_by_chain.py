@@ -3,7 +3,7 @@ import csv
 import datetime
 
 # Input desired chain
-chain = "Solana"
+chain = "tron"
 
 # Make a GET request to the endpoint
 response = requests.get(f'https://stablecoins.llama.fi/stablecoincharts/{chain}')
@@ -20,6 +20,7 @@ if response.status_code == 200:
 
         # Write the header row
         writer.writerow(['date', 'total_circulating_usd', 'total_minted_usd', 'total_bridged_to_usd'])
+        print('data written to stablecoin_supply.csv')
 
         # Loop through the elements of the data list
         for element in data:
