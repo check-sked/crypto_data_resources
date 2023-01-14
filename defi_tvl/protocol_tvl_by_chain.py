@@ -3,7 +3,7 @@ import requests
 import datetime
 
 # Input protocol to observe
-Protocol ="aave"
+Protocol = "aave"
 
 try:
     # Retrieve data from API
