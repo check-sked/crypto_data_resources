@@ -15,13 +15,14 @@ if not data:
 else:
     with open('pools_search_by_asset.csv.csv', mode='w', newline='') as file:
         writer = csv.writer(file)
-        writer.writerow(['Chain', 'Project', 'Symbol', 'Pool_ID', 'APY'])
+        writer.writerow(['Chain', 'Project', 'Symbol', 'Pool_ID', 'APY', 'TVL'])
         for item in data:
             project = item['project']
             symbol = item['symbol']
             pool = item['pool']
             chain = item['chain']
-            apy = item['apy']
-            writer.writerow([chain, project, symbol, pool, apy])
+            apy = "{:,.2%}".format(item['apy'])
+            tvl = "${:,.0f}".format(item['tvlUsd'])
+            writer.writerow([chain, project, symbol, pool, apy, tvl])
 
     print("Data written to pools_search_by_asset.csv")
