@@ -3,7 +3,11 @@ import requests
 import datetime
 
 # Input protocol to observe
-Protocol = "aave"
+Protocol = "frax"
+
+# Starting date for UNIX timestamps (in seconds)
+start_date = datetime.datetime(2021, 1, 1)
+start_timestamp = int((start_date - datetime.datetime(1970, 1, 1)).total_seconds())
 
 try:
     # Retrieve data from API
@@ -32,7 +36,7 @@ for chain, tvl_data in data['chainTvls'].items():
         continue
     header_row.append(chain)
     for tvl in tvl_data['tvl']:
-        date = datetime.datetime.fromtimestamp(tvl['date']/1000).strftime('%Y-%m-%d %H:%M:%S')
+        date = datetime.datetime.fromtimestamp(start_timestamp + tvl['date']/1000)
         found = False
         for row in data_rows:
             if row[0] == date:
@@ -50,4 +54,4 @@ with open('tvl_by_protocol_chain.csv', mode='w') as file:
     writer = csv.writer(file)
     writer.writerow(header_row)
     for row in data_rows:
-        writer.writerow(row)
+        writer.writerow([row[0].strftime('%Y-%m-%d %H:%M:%S'), row[1]])
