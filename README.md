@@ -1,48 +1,100 @@
 # crypto-data-resources
 
-## Description
-
-The crypto-data-resources repository contains Python scripts for accessing data across a number of crypto data platforms. The list currently includes:
-
-- [DefiLlama](https://defillama.com/)
-- [Blockchain.com](https://www.blockchain.com/)
-- [Coinbase_Exchange](https://www.coinbase.com/)
-- [Binance_Exchange](https://www.binance.com/en)
-- [Bitstamp_Exchange](https://www.bitstamp.net/)
-- [CoinMarketCap](https://coinmarketcap.com/)
-- [CoinGecko](https://www.coingecko.com/)
-
 ## Table of Contents
 
+- [Description](#description)
+- [Data](#data)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Have-Questions-or-Want-to-Conntect?](#questions)
+
+## Description
+
+The crypto-data-resources repository is a data resource for crypto analysts and those curious in understanding crypto on a more granular level. It offers easily manipulatable resources for observing and visualizing the most important facets of the blockchain world and the pieces of infrastructure that comrise it.
+
+The repository covers data on:
+
+1. Stablecoins
+2. Ethereum Layer2
+3. DeFi (including TVL of dapps and chains, liquidity pools and yields, lending and borrowing, application fee
+   generation and revenue, and more)
+4. Individual asset trading volumes
+5. The Bitcoin network (including hash, on-chain transfer volume, and more)
+
+Among a wide variety of other topics.
+
+## Data
+
+_The data is sourced from the most notable data platforms and exchanges._
+
+<a href="https://www.coinbase.com/"><img src="./assets/coinbase.webp" width="200"></a>
+
+<a href="https://defillama.com/"><img src="./assets/defi_llama.png" width="200"></a>
+
+<a href="https://www.blockchain.com/en/"><img src="./assets/blockchain.png" width="200"></a>
+
+<a href="https://www.coingecko.com/"><img src="./assets/CoinGecko.avif" width="200"></a>
+
+<a href="https://coinmarketcap.com/"><img src="./assets/cmc.png" width="200"></a>
+
+<a href="https://www.binance.com/en"><img src="./assets/binance.jpeg" width="200"></a>
+
+<a href="https://www.bitstamp.net/"><img src="./assets/bitstamp.jpeg" width="200"></a>
 
 ## Installation
 
 _Instructions for installation project and setting up the development environment:_
 
-Each script requires a unique set of libraries, modules, and packages to be installed. However, to best get yourself set up install the items from the following list:
+Take the following steps to get your environment up and running:
 
-1. Install Homebrew: `$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
+_Mac Users_
+
+1. Install Homebrew:
+   `$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
 2. Install Python: `$ brew install python`
 3. Confirm that Python was installed and check your version: `python --version`
 
-This will prepare you for the items that should be installed to properly run the scripts.
+_Linux Users_
+
+If you are using **Ubuntu 16.10 or newer**, open your command line prompt and run the following:
+
+1. `$ sudo apt-get update`
+2. `$ sudo apt-get install python3.6`
+
+If you are using **another version of Ubuntu**, open your command line prompt and run the following:
+
+1. `$ sudo apt-get install software-properties-common`
+2. `$ sudo add-apt-repository ppa:deadsnakes/ppa`
+3. `$ sudo apt-get update`
+4. `$ sudo apt-get install python3.8`
+
+If you are using **another Linux distrubution**, you likely already have Python pre-installed. If not, use your distribution’s package manager. For example on Fedora, you would use dnf in the command line:
+
+1. `$ sudo dnf install python3`
+
+_Windows Users_
+
+Windows users can refer to this **[link](https://www.dataquest.io/blog/installing-python-on-windows/)** for instructions on installing Python.
+
+_Libraries_
+
+Each script requires its own set of libraries that must be installed to successfully retreive the data. The most consistently used ones include:
+
+- [requests](https://pypi.org/project/requests/)
+- [datetime](https://docs.python.org/3/library/datetime.html)
+- [csv](https://docs.python.org/3/library/csv.html)
+- [json](https://docs.python.org/3/library/json.html)
+- [pandas](https://pandas.pydata.org/)
+
+To install the libraries above, or any of the required ones, run `pip install [LIBRARY NAME]` in your environment once it is up and running. If you are using Python3, run `pip3 install [LIBRARY NAME]`
 
 ## Usage
 
-_How to use the application:_
+_How to use the resources:_
 
-Consult the READMEs for each individual platform to use any of the scripts contained in this repository. Each script requires unique sets of libraries, modules, and packages. Once you have the script ready to go, simply run it to produce Excel or CSV files with the desired data.
+Consult the READMEs for each individual resource to use any of the scripts contained in this repository. Once you have the script ready to go, simply run it to produce Excel or CSV files with the desired data.
 
-Linked in each README is the documentation for corresponding API. Consult these links to use the scripts for your tailored needs.
-
-## Contributing
-
-_Take the following steps to contribute to the project._
-
-If you would like to make adjustments or enhancements to the script, clone the repository to your local machine and share with Sked.
+Linked in each README is the documentation for corresponding the API. Refer to these links to use the scripts for your tailored needs.
 
 ## Questions?
 
@@ -51,3 +103,9 @@ Got questions? Reach me through the following channels:
 GitHub: [@check-sked](https://api.github.com/users/check-sked)
 
 Twitter: [@Check-Sked](https://twitter.com/Check_Sked)
+
+Subscribe to my Newsletter: [Patreon](https://twitter.com/check_sked/status/1614726319216152576?s=46&t=IfbTee-kUksw0TUfwMbLxw)
+
+Free Content: [Medium](https://medium.com/@resarchtorus)
+
+<img src="./assets/pfp.png" alt="drawing" width="200"/>
