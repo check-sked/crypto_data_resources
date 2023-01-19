@@ -8,6 +8,8 @@
 - [Usage](#usage)
 - [Have-Questions-or-Want-to-Conntect?](#questions)
 
+---
+
 ## Description
 
 The crypto-data-resources repository is a data resource for crypto analysts and those curious in understanding crypto on a more granular level. It offers easily manipulatable resources for observing and visualizing the most important facets of the blockchain world and the pieces of infrastructure that comrise it.
@@ -22,6 +24,8 @@ The repository covers data on:
 5. The Bitcoin network (including hash, on-chain transfer volume, and more)
 
 Among a wide variety of other topics.
+
+---
 
 ## Data
 
@@ -40,6 +44,8 @@ _The data is sourced from the most notable data platforms and exchanges._
 <a href="https://www.binance.com/en"><img src="./assets/binance.jpeg" width="200"></a>
 
 <a href="https://www.bitstamp.net/"><img src="./assets/bitstamp.jpeg" width="200"></a>
+
+---
 
 ## Installation
 
@@ -88,6 +94,8 @@ Each script requires its own set of libraries that must be installed to successf
 
 To install the libraries above, or any of the required ones, run `pip install [LIBRARY NAME]` in your environment once it is up and running. If you are using Python3, run `pip3 install [LIBRARY NAME]`
 
+---
+
 ## Usage
 
 _How to use the resources:_
@@ -95,6 +103,8 @@ _How to use the resources:_
 Consult the READMEs for each individual resource to use any of the scripts contained in this repository. Once you have the script ready to go, simply run it to produce Excel or CSV files with the desired data.
 
 Linked in each README is the documentation for corresponding the API. Refer to these links to use the scripts for your tailored needs.
+
+---
 
 ## Questions?
 
