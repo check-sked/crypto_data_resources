@@ -98,7 +98,7 @@ Linked in each README is the documentation for corresponding the API. Refer to t
 
 ## Questions?
 
-Got questions? Reach me through the following channels:
+Got questions or want to connect? Reach me through the following channels:
 
 GitHub: [@check-sked](https://api.github.com/users/check-sked)
 
