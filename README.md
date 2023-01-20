@@ -31,13 +31,15 @@ Among a wide variety of other topics.
 
 ## Data
 
-_The data is sourced from the most notable data platforms and exchanges._
+_The data is sourced from the most notable data platforms, DeFi protocols, and exchanges._
 
 <a href="https://www.coinbase.com/"><img src="./assets/coinbase.webp" width="200"></a>
 
 <a href="https://defillama.com/"><img src="./assets/defi_llama.png" width="200"></a>
 
 <a href="https://www.blockchain.com/en/"><img src="./assets/blockchain.png" width="200"></a>
+
+<a href="https://frax.finance/"><img src="./assets/frax.png" width="200"></a>
 
 <a href="https://www.coingecko.com/"><img src="./assets/CoinGecko.avif" width="200"></a>
 
