@@ -3,7 +3,7 @@ import requests
 import datetime
 
 # Input protocol to observe
-Protocol = "frax"
+Protocol = "uniswap"
 
 # Starting date for UNIX timestamps (in seconds)
 start_date = datetime.datetime(2021, 1, 1)
