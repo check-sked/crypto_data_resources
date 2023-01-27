@@ -1,57 +1,57 @@
-import csv
 import requests
-import datetime
+import csv
+from datetime import datetime
 
 # Input protocol to observe
-Protocol = "uniswap"
+Protocol = "Aave"
 
-# Starting date for UNIX timestamps (in seconds)
-start_date = datetime.datetime(2021, 1, 1)
-start_timestamp = int((start_date - datetime.datetime(1970, 1, 1)).total_seconds())
-
+# Make a request to the endpoint
 try:
-    # Retrieve data from API
+    # Send GET request to endpoint
     response = requests.get(f"https://api.llama.fi/protocol/{Protocol}")
-    response.raise_for_status()
+
+    # Check for status code
+    if response.status_code != 200:
+        raise Exception(f"Error: Received status code {response.status_code}")
+
+    # Parse JSON data from response
     data = response.json()
-except requests.exceptions.HTTPError as errh:
-    print ("HTTP Error:",errh)
-except requests.exceptions.ConnectionError as errc:
-    print ("Error Connecting:",errc)
-except requests.exceptions.Timeout as errt:
-    print ("Timeout Error:",errt)
-except requests.exceptions.RequestException as err:
-    print ("Something went wrong:",err)
 
+    # Get list of chains
+    chains = list(data["chainTvls"].keys())
 
-# Create a list to hold the header row
-header_row = ['Date']
+    # Initialize empty list to store rows of data
+    rows = []
 
-# Create a list to hold the rows of data
-data_rows = []
+    # Loop through each date in tvl_data
+    for tvl in data["chainTvls"][chains[0]]["tvl"]:
+        # Get date and totalLiquidityUSD
+        date = tvl["date"]
+        date_string = datetime.fromtimestamp(date).strftime("%Y-%m-%d %H:%M:%S")
+        # Create dictionary with date
+        row = {
+            "date": date_string
+        }
+        # Add dictionary with tvl to row
+        for chain in chains:
+            # loop through the tvl of the current chain
+            for chain_tvl in data["chainTvls"][chain]["tvl"]:
+                # check if date matches
+                if chain_tvl["date"] == date:
+                    # if date matches, add totalLiquidityUSD
+                    row[chain] = chain_tvl["totalLiquidityUSD"]
+                    break
+        # Add dictionary to rows list
+        rows.append(row)
 
-# Iterate through the chainTvls data
-for chain, tvl_data in data['chainTvls'].items():
-    if 'borrowed' in chain or 'staking' in chain or chain == 'pool2':
-        continue
-    header_row.append(chain)
-    for tvl in tvl_data['tvl']:
-        date = datetime.datetime.fromtimestamp(start_timestamp + tvl['date']/1000)
-        found = False
-        for row in data_rows:
-            if row[0] == date:
-                row.append(tvl['totalLiquidityUSD'])
-                found = True
-                break
-        if not found:
-            data_rows.append([date, tvl['totalLiquidityUSD']])
+    # Write rows to CSV file
+    with open("protocol_tvl_data.csv", "w") as csvfile:
+        fieldnames = ["date"] + chains
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
 
-# Sort the data by date
-data_rows = sorted(data_rows, key=lambda x: x[0])
+    print("TVL data written to protoco_tvl_data.csv")
 
-# Write the data to a CSV file
-with open('tvl_by_protocol_chain.csv', mode='w') as file:
-    writer = csv.writer(file)
-    writer.writerow(header_row)
-    for row in data_rows:
-        writer.writerow([row[0].strftime('%Y-%m-%d %H:%M:%S'), row[1]])
+except Exception as e:
+    print(f"Error: {e}")
