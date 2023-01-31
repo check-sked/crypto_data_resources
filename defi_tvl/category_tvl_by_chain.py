@@ -15,6 +15,8 @@ def get_protocols(category, chain):
 def get_tvl(protocol_name, chain):
     response = requests.get(f'https://api.llama.fi/protocol/{protocol_name}')
     data = response.json()
+    if 'chainTvls' not in data or chain not in data['chainTvls']:
+        return []
     tvl = []
     for item in data['chainTvls'][chain]['tvl']:
         date = datetime.fromtimestamp(item['date']).strftime('%Y-%m-%d')
