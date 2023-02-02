@@ -20,9 +20,8 @@ The repository covers data on:
 
 1. Stablecoins
 2. Ethereum Layer2
-3. DeFi (including TVL of dapps and chains, liquidity pools and yields, lending and borrowing, application fee
-   generation and revenue, and more)
-4. Individual asset trading volumes
+3. DeFi (including TVL of dapps and chains, liquidity pools and yields, lending and borrowing, application and protocol level fees and revenues, and more)
+4. Asset level trading volumes, prices and market caps
 5. The Bitcoin network (including hash, on-chain transfer volume, and more)
 
 Among a wide variety of other topics.
