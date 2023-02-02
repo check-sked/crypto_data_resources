@@ -1,10 +1,10 @@
 import requests
 import pandas as pd
 
-# get the custom value
+# input chain (check chain_list.py for all chains)
 chain = input("Enter chain (Ethereum, Optimism, Aptos, etc.): ")
 
-# Input protocol name
+# input protocol name (check protocols_list.py for all protocols)
 Protocol_Name = input("Enter lending protocol (Aave, Compound, Venus, etc.): ")
 
 # make a GET request to the API endpoint
