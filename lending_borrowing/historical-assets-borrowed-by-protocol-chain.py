@@ -2,10 +2,10 @@ import requests
 import pandas as pd
 
 # get the custom value
-chain = input("Enter chain: ")
+chain = input("Enter chain (Ethereum, Optimism, Aptos, etc.): ")
 
 # Input protocol name
-Protocol_Name = input("Enter lending protocol: ")
+Protocol_Name = input("Enter lending protocol (Aave, Compound, Venus, etc.): ")
 
 # make a GET request to the API endpoint
 response = requests.get(f"https://api.llama.fi/protocol/{Protocol_Name}")
