@@ -21,7 +21,7 @@ else:
             symbol = item['symbol']
             pool = item['pool']
             chain = item['chain']
-            apy = "{:,.2%}".format(item['apy'])
+            apy = (item['apy'])
             tvl = "${:,.0f}".format(item['tvlUsd'])
             writer.writerow([chain, project, symbol, pool, apy, tvl])
 
