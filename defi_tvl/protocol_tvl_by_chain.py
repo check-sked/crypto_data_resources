@@ -27,7 +27,7 @@ try:
     for tvl in data["chainTvls"][chains[0]]["tvl"]:
         # Get date and totalLiquidityUSD
         date = tvl["date"]
-        date_string = datetime.fromtimestamp(date).strftime("%Y-%m-%d %H:%M:%S")
+        date_string = datetime.fromtimestamp(date).strftime("%Y-%m-%d")
         # Create dictionary with date
         row = {
             "date": date_string
@@ -45,13 +45,13 @@ try:
         rows.append(row)
 
     # Write rows to CSV file
-    with open("protocol_tvl_data.csv", "w") as csvfile:
+    with open(f"{Protocol}_tvl_data.csv", "w") as csvfile:
         fieldnames = ["date"] + chains
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
 
-    print("TVL data written to protoco_tvl_data.csv")
+    print(f"TVL data written to {Protocol}_tvl_data.csv")
 
 except Exception as e:
     print(f"Error: {e}")
