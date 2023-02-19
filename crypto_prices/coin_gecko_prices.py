@@ -27,7 +27,7 @@ price_dict = {}
 
 try:
     # Open a CSV file for writing
-    with open("asset_prices.csv", "w", newline="") as csvfile:
+    with open(f"{cryptocurrency_ids}_prices.csv", "w", newline="") as csvfile:
         # Create a CSV writer
         writer = csv.writer(csvfile)
 
@@ -59,7 +59,7 @@ try:
             writer.writerow(row)
 
         # Data successfully written message
-        print("data written to asset_prices.csv")
+        print(f"data written to {cryptocurrency_ids}_prices.csv")
 
 except requests.exceptions.RequestException as e:
     print("An error occurred while making the API request:", e)
