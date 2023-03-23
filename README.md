@@ -117,6 +117,6 @@ GitHub: [@check-sked](https://api.github.com/users/check-sked)
 
 Twitter: [@Check-Sked](https://twitter.com/Check_Sked)
 
-Newsletter and other Content: [Medium](https://medium.com/@resarchtorus)
+Newsletter and Other Content: [Medium](https://medium.com/@torusresearch)
 
 <img src="./assets/pfp.png" alt="drawing" width="200"/>
