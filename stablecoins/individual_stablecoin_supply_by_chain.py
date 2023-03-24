@@ -3,23 +3,55 @@ import csv
 import datetime
 
 # Input ID of stablecoin. IDs of each stablecoin can be found in stablecoin_dictionary.py
-ID = "1"
+ID = input("Enter the stablecoin ID: ")
+
+# Choose between 'Circulating' and 'Minted'
+value_type = ""
+while value_type.lower() not in ["circulating", "minted"]:
+    value_type = input("Choose between 'Circulating' and 'Minted': ")
 
 response = requests.get(f'https://stablecoins.llama.fi/stablecoin/{ID}')
 data = response.json()
 
 if "chainBalances" in data:
-    print("data written to stablecoin_supply_by_chain.csv")
-    with open('stablecoin_supply_by_chain.csv', 'w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(["Chain", "Date", "Circulating", "Minted"])
+    print(f"data written to stablecoin_{value_type.lower()}_by_chain.csv")
+    with open(f'stablecoin_{value_type.lower()}_by_chain.csv', 'w', newline='') as file:
+
+        # Create a list of unique chain names to use as headers
+        chain_names = list(data["chainBalances"].keys())
+        header = ["Date"] + [f"{chain_name}_{value_type}" for chain_name in chain_names]
+        
+        # Write the header to the CSV file
+        writer = csv.DictWriter(file, fieldnames=header)
+        writer.writeheader()
+
+        # Collect unique dates
+        unique_dates = set()
         for chain_name, chain_data in data["chainBalances"].items():
             for date_data in chain_data["tokens"]:
                 date = datetime.datetime.fromtimestamp(date_data["date"]).strftime("%Y-%m-%d %H:%M:%S")
-                circulating = date_data["circulating"]["peggedUSD"]
-                minted = date_data["minted"]["peggedUSD"]
+                unique_dates.add(date)
 
-                writer.writerow([chain_name, date, circulating, minted])
+        # Initialize an empty dictionary with default values for each chain's selected value type
+        combined_data = {}
+        for date in unique_dates:
+            combined_data[date] = {"Date": date}
+            for chain_name in chain_names:
+                combined_data[date].update({f"{chain_name}_{value_type}": 0})
+
+        # Update the values in the dictionary with the data
+        for chain_name, chain_data in data["chainBalances"].items():
+            for date_data in chain_data["tokens"]:
+                date = datetime.datetime.fromtimestamp(date_data["date"]).strftime("%Y-%m-%d %H:%M:%S")
+                value = date_data[value_type.lower()]["peggedUSD"]
+                
+                combined_data[date].update({f"{chain_name}_{value_type}": value})
+
+        # Sort the combined data by date
+        sorted_data = sorted(combined_data.values(), key=lambda x: x["Date"])
+
+        # Write the sorted data to the CSV file
+        for row in sorted_data:
+            writer.writerow(row)
 else:
     print("ChainBalances field not found in the JSON response")
-
