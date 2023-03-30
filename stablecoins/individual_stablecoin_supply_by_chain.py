@@ -14,8 +14,9 @@ response = requests.get(f'https://stablecoins.llama.fi/stablecoin/{ID}')
 data = response.json()
 
 if "chainBalances" in data:
-    print(f"data written to stablecoin_{value_type.lower()}_by_chain.csv")
-    with open(f'stablecoin_{value_type.lower()}_by_chain.csv', 'w', newline='') as file:
+    symbol = data["symbol"]
+    print(f"data written to stablecoin_{symbol}_{value_type.lower()}_by_chain.csv")
+    with open(f'stablecoin_{symbol}_{value_type.lower()}_by_chain.csv', 'w', newline='') as file:
 
         # Create a list of unique chain names to use as headers
         chain_names = list(data["chainBalances"].keys())
