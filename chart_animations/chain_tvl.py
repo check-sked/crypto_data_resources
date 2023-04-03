@@ -54,7 +54,7 @@ def animate(i):
     ax.plot(dates[:i+1], liquidity[:i+1], color="blue", linewidth=2)
 
 # Create the animation
-ani = FuncAnimation(fig, animate, frames=len(dates), interval=25)
+ani = FuncAnimation(fig, animate, frames=len(dates), interval=1)
 
 # Add Twitter handle tag
 twitter_tag = r"$\bf{@Check\_Sked}$"
