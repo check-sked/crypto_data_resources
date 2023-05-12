@@ -3,13 +3,15 @@ import csv
 from datetime import datetime
 
 # Input chain to observe
-Chain = 'Ethereum'
+Chain = "Ethereum"
 
 # Input ID of stablecoin. IDs of each stablecoin can be found in stablecoin_dictionary.py
-ID = '1'
+ID = "1"
 
 # Make requests to the endpoints
-response1 = requests.get(f"https://stablecoins.llama.fi/stablecoincharts/{Chain}?stablecoin={ID}")
+response1 = requests.get(
+    f"https://stablecoins.llama.fi/stablecoincharts/{Chain}?stablecoin={ID}"
+)
 response2 = requests.get(f"https://stablecoins.llama.fi/stablecoincharts/{Chain}")
 
 # Parse the JSON data
@@ -21,7 +23,7 @@ rows = []
 
 # Loop through the data and append the "peggedUSD" and date to the list
 for item in data1:
-    date = datetime.fromtimestamp(int(item['date'])).strftime('%Y-%m-%d %H:%M:%S')
+    date = datetime.fromtimestamp(int(item["date"])).strftime("%Y-%m-%d %H:%M:%S")
     peggedUSD = item["totalCirculating"].get("peggedUSD")
     if not peggedUSD:
         peggedUSD = item["totalCirculating"].get("peggedEUR")
@@ -29,7 +31,7 @@ for item in data1:
         rows.append([date, peggedUSD, ""])
 
 for item in data2:
-    date = datetime.fromtimestamp(int(item['date'])).strftime('%Y-%m-%d %H:%M:%S')
+    date = datetime.fromtimestamp(int(item["date"])).strftime("%Y-%m-%d %H:%M:%S")
     peggedUSD = item["totalCirculating"].get("peggedUSD")
     if not peggedUSD:
         peggedUSD = item["totalCirculating"].get("peggedEUR")
@@ -47,8 +49,15 @@ for row in rows:
         row.append("N/A")
 
 # Write the data to a CSV file
-with open('stablecoin_supply_dominance_by_chain.csv', 'w', newline='') as csvfile:
+with open("stablecoin_supply_dominance_by_chain.csv", "w", newline="") as csvfile:
     writer = csv.writer(csvfile)
-    writer.writerow(['Date', 'Individual_Stablecoin_Supply', 'Total_Chain_Supply', 'stablecoin_dominance'])
-    print('data written to stablecoin_supply_dominance_by_chain.csv')
+    writer.writerow(
+        [
+            "Date",
+            "Individual_Stablecoin_Supply",
+            "Total_Chain_Supply",
+            "stablecoin_dominance",
+        ]
+    )
+    print("data written to stablecoin_supply_dominance_by_chain.csv")
     writer.writerows(rows)
