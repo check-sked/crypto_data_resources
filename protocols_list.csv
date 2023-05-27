@@ -1,0 +1,4947 @@
+Name,Chain,Category
+0.exchange,Avalanche,Dexes
+0.exchange,Binance,Dexes
+0.exchange,Polygon,Dexes
+01,Solana,Dexes
+0vix,Polygon,Lending
+0vix,Polygon zkEVM,Lending
+0x,Ethereum,Dexes
+0x NODES,Avalanche,Yield Aggregator
+0x NODES,Binance,Yield Aggregator
+0x NODES,Ethereum,Yield Aggregator
+0x NODES,Fantom,Yield Aggregator
+0x NODES,Metis,Yield Aggregator
+0x NODES,Polygon,Yield Aggregator
+0xAcid,Arbitrum,Liquid Staking
+0xDAO,Fantom,Yield
+0xLend,Kucoin,Lending
+10KSwap,Starknet,Dexes
+1BCH,smartBCH,Dexes
+1Beam,Moonbeam,Dexes
+1Pulse,Pulse,Dexes
+1Swap,Moonriver,Dexes
+1inch Network,Binance,Dexes
+1inch Network,Ethereum,Dexes
+2Doge Finance,Fantom,Algo-Stables
+2Pi Network,Avalanche,Yield
+2Pi Network,Binance,Yield
+2Pi Network,Optimism,Yield
+2Pi Network,Polygon,Yield
+2omb Finance,Fantom,Algo-Stables
+3xcalibur,Arbitrum,Dexes
+4Swap,Mixin,Dexes
+88mph,Avalanche,Lending
+88mph,Ethereum,Lending
+88mph,Fantom,Lending
+88mph,Polygon,Lending
+8ightDAO,Harmony,Reserve Currency
+AAVE V1,Ethereum,Lending
+AAVE V2,Avalanche,Lending
+AAVE V2,Ethereum,Lending
+AAVE V2,Polygon,Lending
+AAVE V3,Arbitrum,Lending
+AAVE V3,Avalanche,Lending
+AAVE V3,Ethereum,Lending
+AAVE V3,Fantom,Lending
+AAVE V3,Harmony,Lending
+AAVE V3,Metis,Lending
+AAVE V3,Optimism,Lending
+AAVE V3,Polygon,Lending
+ABC Pool,Conflux,Staking Pool
+ABEL Finance,Aptos,Lending
+ABcDeFX,Echelon,Dexes
+ABcDeFX,Fantom,Dexes
+ABcDeFX,Kava,Dexes
+ABcDeFX,Kucoin,Dexes
+ABcDeFX,MultiVAC,Dexes
+ACoconut,Binance,Yield
+ACoconut,Ethereum,Yield
+ACryptoS,Arbitrum,Yield Aggregator
+ACryptoS,Astar,Yield Aggregator
+ACryptoS,Avalanche,Yield Aggregator
+ACryptoS,Binance,Yield Aggregator
+ACryptoS,Canto,Yield Aggregator
+ACryptoS,Cronos,Yield Aggregator
+ACryptoS,Ethereum,Yield Aggregator
+ACryptoS,Fantom,Yield Aggregator
+ACryptoS,Harmony,Yield Aggregator
+ACryptoS,Kava,Yield Aggregator
+ACryptoS,Moonbeam,Yield Aggregator
+ACryptoS,Moonriver,Yield Aggregator
+ACryptoS,Optimism,Yield Aggregator
+ACryptoS,Polygon,Yield Aggregator
+ACryptoS,xDai,Yield Aggregator
+ADAO,Astar,Yield
+ADAX Pro,Cardano,Dexes
+AGS Finance,Astar,Dexes
+ALEX,Stacks,Dexes
+API3,Ethereum,Oracle
+APWine,Ethereum,Yield Aggregator
+APWine,Polygon,Yield Aggregator
+APY Finance,Ethereum,Yield
+ARCx,Ethereum,Insurance
+AUX Exchange,Aptos,Dexes
+Aada,Cardano,Lending
+Aave Arc,Ethereum,Lending
+Aavegotchi,Ethereum,Gaming
+Aavegotchi,Polygon,Gaming
+Aboard Exchange,Arbitrum,Derivatives
+Aboard Exchange,Avalanche,Derivatives
+Abracadabra,Arbitrum,CDP
+Abracadabra,Avalanche,CDP
+Abracadabra,Ethereum,CDP
+Abracadabra,Fantom,CDP
+Acala,Acala,Chain
+Acala Dollar,Acala,CDP
+Acala LCDOT,Acala,Liquid Staking
+Acala Liquid-Staking,Acala,Liquid Staking
+Acala Swap,Acala,Dexes
+Across,Ethereum,Cross Chain
+Acumen,Solana,Lending
+Ad-Astra Bridge,Ethereum,Bridge
+AdaSwap,Milkomeda,Dexes
+Adamant Finance,Arbitrum,Yield
+Adamant Finance,Cronos,Yield
+Adamant Finance,Polygon,Yield
+Adena Finance,Harmony,Dexes
+Aelin,Ethereum,Services
+Aelin,Optimism,Services
+Aequinox,Binance,Dexes
+Aevo,Ethereum,Options
+Affine DeFi,Ethereum,Yield Aggregator
+Affine DeFi,Polygon,Yield Aggregator
+AfraSwap,Binance,Dexes
+AgarthaDAO,Avalanche,Reserve Currency
+Agave,xDai,Lending
+Agile Finance,Cronos,Lending
+Agility LSD,Ethereum,Indexes
+Agora,Metis,Lending
+AirSwap,Ethereum,Dexes
+Ajira Pay Finance,Arbitrum,Payments
+Ajira Pay Finance,Binance,Payments
+Ajira Pay Finance,Kava,Payments
+Ajira Pay Finance,Polygon,Payments
+Akiba Finance,Kava,Algo-Stables
+Aktionariat,Ethereum,RWA
+Aktionariat,Optimism,RWA
+Aladdin DAO,Ethereum,Yield Aggregator
+Alchemist,Ethereum,Yield
+Alchemix,Ethereum,Synthetics
+Alchemix,Fantom,Synthetics
+Alchemix,Optimism,Synthetics
+Alcor Exchange,EOS,Dexes
+Alcor Exchange,Wax,Dexes
+Aldrin,Solana,Dexes
+Algebra DEX,Polygon,Dexes
+Algem,Astar,Liquid Staking
+Algo Liquid Governance,Algorand,Liquid Staking
+AlgoBlocks,Binance,Services
+AlgoRai Finance,Algorand,Options Vault
+Algodex,Algorand,Dexes
+Algofi Lend,Algorand,Lending
+Algofi Swap,Algorand,Dexes
+Algomint,Algorand,Algo-Stables
+AlienFi,Arbitrum,Dexes
+AliensFarm,Tezos,Dexes
+Alita Finance,Binance,Dexes
+Alium Swap,Binance,Dexes
+Alkemi,Ethereum,Lending
+Allbridge,Aurora,Bridge
+Allbridge,Avalanche,Bridge
+Allbridge,Binance,Bridge
+Allbridge,Celo,Bridge
+Allbridge,Ethereum,Bridge
+Allbridge,Fantom,Bridge
+Allbridge,Fuse,Bridge
+Allbridge,Harmony,Bridge
+Allbridge,Heco,Bridge
+Allbridge,Near,Bridge
+Allbridge,Polygon,Bridge
+Allbridge,Solana,Bridge
+Allbridge,Terra,Bridge
+Alligator,Avalanche,Dexes
+Allinx,Binance,Yield
+Almond,Solana,Yield
+Alongside,Ethereum,Indexes
+Alpaca City,Binance,Yield
+Alpaca City,Ethereum,Yield
+Alpaca Finance 2.0,Binance,Lending
+Alpaca Lending,Binance,Lending
+Alpaca Lending,Fantom,Lending
+Alpaca Leveraged Yield Farming,Binance,Leveraged Farming
+Alpaca Leveraged Yield Farming,Fantom,Leveraged Farming
+Alpaca Perpetual Futures Exchange,Binance,Derivatives
+Alphadex,Kava,Dexes
+Alphadex,Moonriver,Dexes
+Alyx finance,Binance,Reserve Currency
+Amaterasu Finance,Aurora,Dexes
+Ambire Wallet,Ethereum,Services
+AmesDefi,Binance,Algo-Stables
+Amogus DAO,Avalanche,Reserve Currency
+Ampere,Fuse,Algo-Stables
+AmpleSwap,Binance,Dexes
+Amulet Liquidity Staking,Solana,Liquid Staking
+Amulet Protocol,Solana,Insurance
+Amun,Ethereum,Indexes
+Amun,Polygon,Indexes
+Amun,Solana,Indexes
+Amy Finance,Arbitrum,Lending
+Anchor,Avalanche,Lending
+Anchor,Terra,Lending
+AnchorSwap,Binance,Dexes
+Anedak,Kadena,Dexes
+Angel Protocol,Terra,Services
+Angle,Arbitrum,CDP
+Angle,Avalanche,CDP
+Angle,Ethereum,CDP
+Angle,Optimism,CDP
+Angle,Polygon,CDP
+Animal Farm V1,Binance,Farm
+Animal Farm V2,Binance,Yield
+AnimeSwap,Aptos,Dexes
+AnimeSwap,Sui,Dexes
+Ankr,Avalanche,Liquid Staking
+Ankr,Binance,Liquid Staking
+Ankr,Ethereum,Liquid Staking
+Ankr,Fantom,Liquid Staking
+Ankr,Kusama,Liquid Staking
+Ankr,Polkadot,Liquid Staking
+Ankr,xDai,Liquid Staking
+Annex,Binance,Lending
+Annex,Cronos,Lending
+Annex,Kava,Lending
+Ante Finance,Arbitrum,Insurance
+Ante Finance,Aurora,Insurance
+Ante Finance,Avalanche,Insurance
+Ante Finance,Binance,Insurance
+Ante Finance,Ethereum,Insurance
+Ante Finance,Fantom,Insurance
+Ante Finance,Optimism,Insurance
+Ante Finance,Polygon,Insurance
+Antex,Binance,Launchpad
+Antfarm finance,Arbitrum,Liquidity manager
+Antfarm finance,Ethereum,Liquidity manager
+Antfarm finance,Polygon zkEVM,Liquidity manager
+Antimatter,Arbitrum,Options
+Antimatter,Avalanche,Options
+Antimatter,Binance,Options
+Antimatter,Ethereum,Options
+Antimatter,Kava,Options
+AnyHedge,Bitcoincash,Derivatives
+Ape Finance,Ethereum,Lending
+ApeCoin,Ethereum,Yield
+ApeDAO,Fantom,Farm
+ApeRocket,Binance,Yield
+ApeSwap AMM,Arbitrum,Dexes
+ApeSwap AMM,Binance,Dexes
+ApeSwap AMM,Ethereum,Dexes
+ApeSwap AMM,Polygon,Dexes
+ApeSwap AMM,Telos,Dexes
+ApeSwap Lending,Binance,Lending
+ApeX Protocol,Arbitrum,Derivatives
+ApeX Protocol,Ethereum,Derivatives
+Aperture Finance,Avalanche,Leveraged Farming
+Aperture Finance,Terra,Leveraged Farming
+ApexSwap,Avalanche,Dexes
+ApolloDAO,Terra,Yield
+ApolloX,Arbitrum,Derivatives
+ApolloX,Binance,Derivatives
+ApolloX,Ethereum,Derivatives
+Apricot Finance,Solana,Lending
+Aptin Finance,Aptos,Lending
+Aptos,Aptos,Chain
+Aptoswap,Aptos,Dexes
+Aquarius,Fantom,CDP
+Ara Finance,Avalanche,Reserve Currency
+Arable Protocol,Avalanche,Synthetics
+Aragon,Ethereum,Services
+Arbi's Finance,Arbitrum,Yield
+ArbiCheems,Arbitrum,Yield
+ArbiNYAN,Arbitrum,Farm
+ArbiRise Finance,Arbitrum,Yield
+ArbiSwap,Arbitrum,Dexes
+ArbiTen,Arbitrum,Algo-Stables
+Arbitrum,Arbitrum,Chain
+Arbitrum DAO,Arbitrum,Services
+Arbitrum Exchange V2,Arbitrum,Dexes
+Arbitrum Exchange V3,Arbitrum,Dexes
+Arbor Finance,Ethereum,Lending
+Arbswap AMM,Arbitrum,Dexes
+Arbswap AMM,Arbitrum Nova,Dexes
+Arbswap StableSwap,Arbitrum,Dexes
+Arbswap StableSwap,Arbitrum Nova,Dexes
+Arc Swap,Ethereum,Services
+Arcade xyz,Ethereum,NFT Lending
+Arch Ethereum Web3,Ethereum,Indexes
+ArcherSwap,CORE,Dexes
+Archi Finance,Arbitrum,Leveraged Farming
+Archimedes Finance,Ethereum,Leveraged Farming
+Archly Finance,Arbitrum,Dexes
+Archly Finance,Arbitrum Nova,Dexes
+Archly Finance,Binance,Dexes
+Archly Finance,Fantom,Dexes
+Archly Finance,Kava,Dexes
+Archly Finance,Optimism,Dexes
+Archly Finance,Polygon,Dexes
+Archly Finance,Telos,Dexes
+Arctic,Aurora,Dexes
+ArenaSwap,Binance,Dexes
+Argano,Polygon,Synthetics
+Argo,Aptos,CDP
+Argo Finance,Cronos,Liquid Staking
+Aries Markets,Aptos,Lending
+Arkadiko,Stacks,CDP
+Armor,Ethereum,Insurance
+Arrakis V1,Ethereum,Liquidity manager
+Arrakis V1,Optimism,Liquidity manager
+Arrakis V1,Polygon,Liquidity manager
+Arrakis V2,Arbitrum,Liquidity manager
+Arrakis V2,Ethereum,Liquidity manager
+Arrakis V2,Optimism,Liquidity manager
+Arrakis V2,Polygon,Liquidity manager
+Array,Arbitrum,Farm
+Arrow,Solana,Yield
+Artemis Protocol,Harmony,Yield
+ArthSwap,Astar,Dexes
+Asgard Dao,Binance,Reserve Currency
+Asgard Finance,Ethereum,Yield
+Ashswap,Elrond,Dexes
+Astar Exchange V2,Astar,Dexes
+Astar Exchange V3,Astar,Dexes
+AstarFarm,Astar,Gaming
+Astarnova,Astar,Dexes
+Astra DAO,Ethereum,Indexes
+Astral Farm,Fantom,Farm
+Astral Financial,Fantom,Yield
+AstridDAO,Astar,CDP
+AstroFi,Ethereum,Dexes
+AstroSwap,Velas,Dexes
+Astroport,Injective,Dexes
+Astroport,Terra,Dexes
+Astroport,Terra2,Dexes
+Astrowar Finance,Harmony,Services
+Asymetrix Protocol,Ethereum,Yield
+Asymmetry Finance,Ethereum,Indexes
+Athena Money,Moonriver,Algo-Stables
+Athos Finance,Moonbeam,Derivatives
+Atlantis Loans,Avalanche,Lending
+Atlantis Loans,Binance,Lending
+Atlantis Loans,Dogechain,Lending
+Atlantis Loans,Polygon,Lending
+Atlas Aggregator,Arbitrum,Yield Aggregator
+Atlas USV,Polygon,Reserve Currency
+Atlendis,Polygon,Uncollateralized Lending
+AtmosSoft,Binance,Gaming
+AtmosSoft,Fantom,Gaming
+AtoDEX,Aptos,Dexes
+AtomicHub,EOS,Dexes
+AtomicHub,Wax,Dexes
+Atrix,Solana,Dexes
+Auctus,Ethereum,Options
+Augmented Finance,Avalanche,Lending
+Augmented Finance,Binance,Lending
+Augmented Finance,Ethereum,Lending
+Augmented Finance,xDai,Lending
+Augur,Ethereum,Prediction Market
+Augury Finance,Polygon,Yield
+Aura,Ethereum,Yield
+AuraSwap,Polygon,Dexes
+Auragi Finance,Arbitrum,Dexes
+Aurigami,Aurora,Lending
+Aurora Plus,Aurora,Services
+AuroraSwap,Aurora,Dexes
+Auto Core,CORE,Yield Aggregator
+AutoBark,Dogechain,Yield Aggregator
+AutoShark,Binance,Dexes
+Autoearn Finance,Arbitrum,Yield Aggregator
+Autofarm,Aurora,Yield Aggregator
+Autofarm,Avalanche,Yield Aggregator
+Autofarm,Binance,Yield Aggregator
+Autofarm,Boba,Yield Aggregator
+Autofarm,Celo,Yield Aggregator
+Autofarm,Cronos,Yield Aggregator
+Autofarm,Evmos,Yield Aggregator
+Autofarm,Fantom,Yield Aggregator
+Autofarm,Harmony,Yield Aggregator
+Autofarm,Heco,Yield Aggregator
+Autofarm,Kucoin,Yield Aggregator
+Autofarm,Moonriver,Yield Aggregator
+Autofarm,OKExChain,Yield Aggregator
+Autofarm,Oasis,Yield Aggregator
+Autofarm,Polygon,Yield Aggregator
+Autofarm,Velas,Yield Aggregator
+Autofarm,Wanchain,Yield Aggregator
+Autofarm,xDai,Yield Aggregator
+AvaViking,Avalanche,Yield
+Avalaunch,Avalanche,Dexes
+Avalps,Avalanche,Reserve Currency
+Avatr,Ethereum,Yield
+Avault,Astar,Yield Aggregator
+Avaware,Avalanche,Yield
+Avely Staking,Zilliqa,Liquid Staking
+Avely Swap,Zilliqa,Dexes
+AxeDAO,Ethereum,Reserve Currency
+Axelar,Arbitrum,Bridge
+Axelar,Aurora,Bridge
+Axelar,Avalanche,Bridge
+Axelar,Binance,Bridge
+Axelar,Carbon,Bridge
+Axelar,Celo,Bridge
+Axelar,Comdex,Bridge
+Axelar,Cosmos,Bridge
+Axelar,Crescent,Bridge
+Axelar,Evmos,Bridge
+Axelar,Fantom,Bridge
+Axelar,Injective,Bridge
+Axelar,Juno,Bridge
+Axelar,Kava,Bridge
+Axelar,Kujira,Bridge
+Axelar,Moonbeam,Bridge
+Axelar,Osmosis,Bridge
+Axelar,Persistence,Bridge
+Axelar,Polygon,Bridge
+Axelar,Secret,Bridge
+Axelar,Stargaze,Bridge
+Axelar,Terra2,Bridge
+Axelar,Umee,Bridge
+Axia Protocol,Ethereum,Indexes
+Axia Protocol,Polygon,Indexes
+Axial,Avalanche,Dexes
+Axion,Polygon,Yield
+Axl Inu,Binance,Launchpad
+Axl Inu,Ethereum,Launchpad
+Aztec,Ethereum,Privacy
+Azuro,Polygon,Prediction Market
+Azuro,xDai,Prediction Market
+B.Protocol,Arbitrum,Lending
+B.Protocol,Ethereum,Lending
+B.Protocol,Fantom,Lending
+B.Protocol,Polygon,Lending
+BAO Ballast,Ethereum,CDP
+BAO Baskets,Ethereum,Leveraged Farming
+BAO Markets,Ethereum,Lending
+BAO Swap,xDai,Dexes
+BCHPad,smartBCH,Launchpad
+BFX Finance,Binance,Derivatives
+BFly Finance,Starcoin,Lending
+BITPIF,Ethereum,Dexes
+BNBMiner Finance,Binance,Services
+BNPL Pay,Ethereum,Lending
+BSCStation,Binance,Dexes
+BSCSwap,Binance,Dexes
+BT.Finance,Ethereum,Yield Aggregator
+BTCST,Binance,Yield
+BXH,Avalanche,Dexes
+BXH,Binance,Dexes
+BXH,Ethereum,Dexes
+BXH,Heco,Dexes
+BXH,OKExChain,Dexes
+BabelFish,RSK,Yield
+Babena,Kadena,CDP
+BabyDogeSwap,Binance,Dexes
+BabyPig Finance,Fantom,Yield
+BabySwap,Binance,Dexes
+Babylon Finance,Ethereum,Indexes
+Back Finance,Heco,Yield
+Backed,Ethereum,NFT Lending
+BaconDAO,Binance,Yield
+BaconDAO,Ethereum,Yield
+Badger DAO,Arbitrum,Yield Aggregator
+Badger DAO,Binance,Yield Aggregator
+Badger DAO,Ethereum,Yield Aggregator
+Badger DAO,Fantom,Yield Aggregator
+Badger DAO,Polygon,Yield Aggregator
+Bagels Finance,Binance,Yield
+Baguette,Avalanche,Dexes
+BakedPotatoes,Dogechain,Yield
+Baker Guild,Fantom,Yield
+BakerySwap,Binance,Dexes
+BaksDAO,Binance,Lending
+Balanced,Icon,Dexes
+Balancer V1,Ethereum,Dexes
+Balancer V2,Arbitrum,Dexes
+Balancer V2,Ethereum,Dexes
+Balancer V2,Polygon,Dexes
+Balancer V2,xDai,Dexes
+BambooDeFi,Binance,Yield
+BambooDeFi,Ethereum,Yield
+BambooDeFi,Polygon,Yield
+BambooDeFi,Velas,Yield
+BananaFarm,Boba,Yield
+Banano,Binance,Yield
+Banano,Polygon,Yield
+Bancor V2.1,Ethereum,Dexes
+Bancor V3,Ethereum,Dexes
+Bank of Chain,Ethereum,Yield Aggregator
+Bank of Cronos Loans,Cronos,Lending
+Bank of Cronos OHM,Cronos,Reserve Currency
+Bankless,Ethereum,Services
+Banksy Farm,Avalanche,Yield
+Bao Masterchef V1,Ethereum,Farm
+Bao Masterchef V1,xDai,Farm
+BaptSwap,Aptos,Dexes
+BarnBridge,Arbitrum,Yield Aggregator
+BarnBridge,Ethereum,Yield Aggregator
+BarnBridge,Optimism,Yield Aggregator
+BarnSwap,MUUCHAIN,Dexes
+Baryon Network,Binance,Dexes
+Base Protocol,Ethereum,Indexes
+Based Next Generation,Fantom,Yield
+Based V1,Fantom,Algo-Stables
+Basis Cash,Ethereum,Algo-Stables
+Basis Markets,Solana,Dexes
+BasketDAO,Ethereum,Indexes
+BastilleDeLaBouje,Fantom,Yield
+Bastion,Aurora,Lending
+BayMax,Avalanche,Derivatives
+BeGlobal Finance,Binance,Dexes
+BeamSwap Classic,Moonbeam,Dexes
+BeamSwap Stable AMM,Moonbeam,Dexes
+Beamer Bridge,Arbitrum,Bridge
+Beamer Bridge,Optimism,Bridge
+Beanstalk,Ethereum,Algo-Stables
+Bear Finance,Fantom,Yield
+Bearn,Binance,Yield
+BecoSwap,Kardia,Dexes
+BeefStake,Vite,Yield
+Beefy,Arbitrum,Yield Aggregator
+Beefy,Aurora,Yield Aggregator
+Beefy,Avalanche,Yield Aggregator
+Beefy,Binance,Yield Aggregator
+Beefy,Canto,Yield Aggregator
+Beefy,Celo,Yield Aggregator
+Beefy,Cronos,Yield Aggregator
+Beefy,Ethereum,Yield Aggregator
+Beefy,Fantom,Yield Aggregator
+Beefy,Fuse,Yield Aggregator
+Beefy,Harmony,Yield Aggregator
+Beefy,Heco,Yield Aggregator
+Beefy,Kava,Yield Aggregator
+Beefy,Metis,Yield Aggregator
+Beefy,Moonbeam,Yield Aggregator
+Beefy,Moonriver,Yield Aggregator
+Beefy,Oasis,Yield Aggregator
+Beefy,Optimism,Yield Aggregator
+Beefy,Polygon,Yield Aggregator
+Beekava,Kava,Yield
+Beethoven X,Fantom,Dexes
+Beethoven X,Optimism,Dexes
+Behodler,Ethereum,Dexes
+Bella Protocol,Ethereum,Yield
+Belt Finance,Binance,Yield
+Belt Finance,Heco,Yield
+Belt Finance,Klaytn,Yield
+Beluga,Fantom,Yield
+Beluga,Polygon,Yield
+Beluga Dex,Arbitrum,Dexes
+Beluga Protocol,Solana,Dexes
+BenSwap,Binance,Dexes
+BenSwap,smartBCH,Dexes
+BencuFi,Metis,Lending
+BendDAO APE Staking,Ethereum,Yield
+BendDAO Lending,Ethereum,NFT Lending
+Benqi Lending,Avalanche,Lending
+Benqi Staked Avax,Avalanche,Liquid Staking
+Bent Finance,Ethereum,Yield
+Bepro Network,Ethereum,Services
+Bepro Network,Moonbeam,Services
+Bepro Network,Moonriver,Services
+Bepswap,Binance,Dexes
+BetHash,EOS,Prediction Market
+BetSwirl,Binance,Prediction Market
+Beta Finance,Avalanche,Lending
+Beta Finance,Ethereum,Lending
+Bhavish Finance,Polygon,Dexes
+BiFi,Avalanche,Lending
+BiFi,Binance,Lending
+BiFi,Bitcoin,Lending
+BiFi,Ethereum,Lending
+BiFi,Klaytn,Lending
+BiShares,Binance,Indexes
+BiShares,Fantom,Indexes
+BiSwap,Binance,Dexes
+Bifrost Dex,Bifrost,Dexes
+Bifrost Liquid Crowdloan,Bifrost,Liquid Staking
+Bifrost Liquid Staking,Bifrost,Liquid Staking
+Bifrost Liquid Staking,Ethereum,Liquid Staking
+Bifrost Liquid Staking,Filecoin,Liquid Staking
+Bifrost Liquid Staking,Moonbeam,Liquid Staking
+Bifrost Liquid Staking,Moonriver,Liquid Staking
+Big Data Protocol,Ethereum,Yield
+Billion Happiness,Binance,Yield
+Billion Happiness,EthereumPoW,Yield
+Binance CEX,Arbitrum,CEX
+Binance CEX,Avalanche,CEX
+Binance CEX,Binance,CEX
+Binance CEX,Bitcoin,CEX
+Binance CEX,Ethereum,CEX
+Binance CEX,Litecoin,CEX
+Binance CEX,Optimism,CEX
+Binance CEX,Polkadot,CEX
+Binance CEX,Polygon,CEX
+Binance CEX,Ripple,CEX
+Binance CEX,Solana,CEX
+Binance CEX,Tron,CEX
+Binance Multi Chain Capital,Binance,Services
+Binance US,Ethereum,CEX
+Binance staked ETH,Binance,Liquid Staking
+Binance staked ETH,Ethereum,Liquid Staking
+Bisq,Bitcoin,Dexes
+BitANT,Optimism,Yield
+BitDAO,Ethereum,Services
+BitVenus,Binance,CEX
+BitVenus,Bitcoin,CEX
+BitVenus,Ethereum,CEX
+BitVenus,Tron,CEX
+Bitcoin,Bitcoin,Chain
+Bitfinex,Algorand,CEX
+Bitfinex,Aptos,CEX
+Bitfinex,Avalanche,CEX
+Bitfinex,Bitcoin,CEX
+Bitfinex,Cardano,CEX
+Bitfinex,Cosmos,CEX
+Bitfinex,EOS,CEX
+Bitfinex,Elrond,CEX
+Bitfinex,Ethereum,CEX
+Bitfinex,EthereumClassic,CEX
+Bitfinex,Fantom,CEX
+Bitfinex,Litecoin,CEX
+Bitfinex,Near,CEX
+Bitfinex,Polkadot,CEX
+Bitfinex,Polygon,CEX
+Bitfinex,Solana,CEX
+Bitfinex,Tezos,CEX
+Bitfinex,Tron,CEX
+Bitfinex,Zilliqa,CEX
+Bitgert,Binance,Yield
+Bitgert,Bitgert,Yield
+Bitgert Swap,Bitgert,Dexes
+Bitget,Arbitrum,CEX
+Bitget,Avalanche,CEX
+Bitget,Binance,CEX
+Bitget,Bitcoin,CEX
+Bitget,Cronos,CEX
+Bitget,Ethereum,CEX
+Bitget,Fantom,CEX
+Bitget,Optimism,CEX
+Bitget,Polygon,CEX
+Bitget,Ripple,CEX
+Bitget,Solana,CEX
+Bitget,Tron,CEX
+Bitindi Dex,Bitindi,Dexes
+Bitindi Staking,Binance,Liquid Staking
+Bitindi Staking,Bitindi,Liquid Staking
+Bitlend,Bittorrent,Lending
+Bitmex,Bitcoin,CEX
+Bitmex,Ethereum,CEX
+Black Whale,Kujira,Yield
+BlackBird Finance,Cronos,Yield
+BlackPool,Ethereum,Indexes
+BlackPool,Polygon,Indexes
+Blast API,Ethereum,Services
+BlazeStake,Solana,Liquid Staking
+Blindex,RSK,Algo-Stables
+Blitz Labs,Binance,Services
+Blizz Finance,Avalanche,Lending
+Blizzard,Avalanche,Yield
+BloXmove,Binance,Services
+BloXmove,Ethereum,Services
+BlockNG,smartBCH,Dexes
+Blue Planet,Binance,Dexes
+BlueBit,Aurora,Yield Aggregator
+BlueMove DEX,Sui,Dexes
+BlueMove Staking,Aptos,NFT Marketplace
+Bluefin,Arbitrum,Derivatives
+Blueshift,Kava,Dexes
+Blueshift,Milkomeda,Dexes
+Blueshift,Milkomeda A1,Dexes
+Blur Bids,Ethereum,NFT Marketplace
+Blur Finance,Binance,Yield Aggregator
+Blur Lending,Ethereum,NFT Lending
+Bodh Finance,Boba,Lending
+Bogged Finance,Binance,Dexes
+Bolide,Binance,Yield Aggregator
+Bolide,Polygon,Yield Aggregator
+Bomb Finance,Fantom,Dexes
+Bomb Money,Binance,Algo-Stables
+Bond Protocol,Arbitrum,Services
+Bond Protocol,Ethereum,Services
+BondAppetit,Ethereum,Lending
+BoneSwap,Dogechain,Farm
+BoneSwap Bonerium,Bone,Dexes
+Bonkswap,Solana,Dexes
+BonqDAO,Polygon,Lending
+Bonsai Strike,Binance,Options Vault
+BooFinance,Avalanche,Yield
+Bored Candy City,Cronos,Dexes
+BorgSwap,Binance,Yield
+BorgSwap,Fantom,Yield
+BoringDAO,Arbitrum,Cross Chain
+BoringDAO,Aurora,Cross Chain
+BoringDAO,Avalanche,Cross Chain
+BoringDAO,Binance,Cross Chain
+BoringDAO,Bitcoin,Cross Chain
+BoringDAO,Boba,Cross Chain
+BoringDAO,Doge,Cross Chain
+BoringDAO,Ethereum,Cross Chain
+BoringDAO,Fantom,Cross Chain
+BoringDAO,Harmony,Cross Chain
+BoringDAO,Heco,Cross Chain
+BoringDAO,IoTeX,Cross Chain
+BoringDAO,Kucoin,Cross Chain
+BoringDAO,Litecoin,Cross Chain
+BoringDAO,Metis,Cross Chain
+BoringDAO,OKExChain,Cross Chain
+BoringDAO,Oasis,Cross Chain
+BoringDAO,Optimism,Cross Chain
+BoringDAO,Polygon,Cross Chain
+BoringDAO,xDai,Cross Chain
+BossSwap,Harmony,Dexes
+Bouje Finance,Fantom,Yield
+Bourbon DAO,Binance,Reserve Currency
+Bourbon Defi,Dogechain,Dexes
+Bow,Kujira,Yield
+Brahma,Ethereum,Yield
+Brahma,Polygon,Yield
+BrainDAO,Ethereum,Services
+Brainiac Finance,GodwokenV1,Lending
+Brewlabs,Binance,Yield
+Brewlabs,Ethereum,Yield
+Brewlabs,Polygon,Yield
+Bridge Mutual,Binance,Insurance
+Bridge Mutual,Ethereum,Insurance
+Bridge Mutual,Polygon,Insurance
+BridgeKek,Ethereum,Bridge
+BridgeKek,Kekchain,Bridge
+Bright Union,Ethereum,Insurance
+BrightSide,Milkomeda A1,Dexes
+Brinc Finance,Arbitrum,Yield
+Bring.Finance,Binance,Yield
+Bring.Finance,Ethereum,Yield
+Bring.Finance,Harmony,Yield
+Brise Swap,Bitgert,Dexes
+Brokkr Finance,Avalanche,Indexes
+Brokoli Network,Binance,Dexes
+Brokoli Network,Ethereum,Dexes
+BtnGroup,Secret,Yield
+Bubbleswap V1,Hedera,Dexes
+Bubbleswap V2,Hedera,Dexes
+Buffaloswap,Binance,Yield
+Buffer Finance,Arbitrum,Options
+Buffer Finance,Polygon,Options
+BullionFX,Ethereum,Dexes
+Bumper Finance,Ethereum,Options
+Bunicorn,Binance,Dexes
+Bunni,Arbitrum,Liquidity manager
+Bunni,Ethereum,Liquidity manager
+Bunni,Optimism,Liquidity manager
+Bunni,Polygon,Liquidity manager
+Bunny,Binance,Yield
+Bunny,Polygon,Yield
+BunnyPark,Binance,Dexes
+BurgerSwap,Binance,Dexes
+Burrow,Near,Lending
+BusinessBuildersNFTs,Meter,Gaming
+BusinessBuildersNFTs,Polygon,Gaming
+Butter Network,Binance,Bridge
+Butter Network,Ethereum,Bridge
+Butter Network,Map,Bridge
+Butter Network,Near,Bridge
+Butter Network,Polygon,Bridge
+ButterSwap,Binance,Dexes
+ButterSwap,Heco,Dexes
+Bwatch,Mixin,Indexes
+Bybit,Arbitrum,CEX
+Bybit,Avalanche,CEX
+Bybit,Binance,CEX
+Bybit,Bitcoin,CEX
+Bybit,Ethereum,CEX
+Bybit,Optimism,CEX
+Bybit,Polygon,CEX
+Bybit,Ripple,CEX
+Bybit,Tron,CEX
+CACHE.Gold,Ethereum,RWA
+CALC,Kujira,Services
+CENNZnet Bridge,Ethereum,Bridge
+CGO Finance,Cronos,Yield Aggregator
+CGX Finance,Cronos,Dexes
+CHFRY Finance,Ethereum,Lending
+CIAN,Avalanche,Services
+CIAN,Ethereum,Services
+CIAN,Polygon,Services
+CLever,Ethereum,Yield
+COTI Treasury,Coti,Yield
+CREAM Lending,Arbitrum,Lending
+CREAM Lending,Binance,Lending
+CREAM Lending,Ethereum,Lending
+CREAM Lending,Polygon,Lending
+CRETH2,Ethereum,Liquid Staking
+CVI Finance,Arbitrum,Synthetics
+CVI Finance,Ethereum,Synthetics
+CVI Finance,Polygon,Synthetics
+CZODIAC,Binance,Yield
+CafeSwap,Binance,Dexes
+CafeSwap,Polygon,Dexes
+Cake DeFi,Bitcoin,CEX
+Cake DeFi,Ethereum,CEX
+Cake DeFi,Litecoin,CEX
+Cake Monster,Binance,Yield
+CakeDAO,Avalanche,Reserve Currency
+CakeTomb,Binance,Algo-Stables
+CakeWSwap,EthereumPoW,Dexes
+Camel Farm,Arbitrum,Farm
+Camelot V2,Arbitrum,Dexes
+Camelot V3,Arbitrum,Dexes
+Canary,Avalanche,Yield Aggregator
+Candle,Ethereum,Dexes
+Canto,Canto,Chain
+Canto Dex,Canto,Dexes
+Canto Lending,Canto,Lending
+CantoSwap,Canto,Dexes
+Cap,Arbitrum,Derivatives
+Cap V4,Arbitrum,Derivatives
+Capital DAO,Ethereum,Services
+CapitalDEX,Ethereum,Dexes
+Capricorn Finance,Cube,Dexes
+Carbon Defi,Ethereum,Dexes
+Carbon Finance,Arbitrum,Farm
+CarbonSwap,EnergyWeb,Dexes
+Cardstarter,Ethereum,Launchpad
+Caribou Finance,Fantom,Yield
+CashCow Finance,Binance,Lending
+CashCow Protocol,Binance,Yield
+Cashio,Solana,CDP
+Cat in a Box,Ethereum,Lending
+CatsApes,Kava,Gaming
+CatsLuck,smartBCH,Prediction Market
+Caviar V1,Ethereum,NFT Marketplace
+Caviar V2,Ethereum,NFT Marketplace
+Cega,Ethereum,Options
+Cega,Solana,Options
+Celerycash,smartBCH,Services
+Cells Finance,Arbitrum,Yield Aggregator
+Cells Finance,Binance,Yield Aggregator
+Cemetery Finance,Fantom,Farm
+Centrifuge,Ethereum,RWA Lending
+CerberusDAO,Ethereum,Reserve Currency
+Ceres Demeter,Sora,Yield
+Cesta Finance,Avalanche,Reserve Currency
+Cetus,Aptos,Dexes
+Cetus,Sui,Dexes
+CexDex,Kava,Yield
+Chad Finance,Fantom,Yield
+ChainPort,Arbitrum,Bridge
+ChainPort,Avalanche,Bridge
+ChainPort,Binance,Bridge
+ChainPort,Ethereum,Bridge
+ChainPort,Fantom,Bridge
+ChainPort,Milkomeda,Bridge
+ChainPort,Optimism,Bridge
+ChainPort,Polygon,Bridge
+Chainge Finance,Fusion,Dexes
+Chainlink,Ethereum,Oracle
+ChampagneSwap,Binance,Dexes
+Champion Finance,Avalanche,Algo-Stables
+Changex,Ethereum,Yield
+Changex,Hydra,Yield
+Channels Finance,Arbitrum,Lending
+Channels Finance,Binance,Lending
+Channels Finance,Heco,Lending
+Chaotic Finance,Moonriver,Derivatives
+ChargeDeFi,Binance,Algo-Stables
+Charm Finance,Ethereum,Liquidity manager
+Chee Finance,Binance,Lending
+Chee Finance,Celo,Lending
+Chee Finance,Meter,Lending
+CheeseDAO,Harmony,Reserve Currency
+CherrySwap,OKExChain,Dexes
+Chest Finance,Solana,Options Vault
+ChickenSwap,Ethereum,Dexes
+Chikn Farm,Avalanche,Services
+Chintai,EOS,Lending
+Chocodoge,Dogechain,Algo-Stables
+Chronicle,Aurora,Services
+Chronos,Arbitrum,Dexes
+CitaDAO,Ethereum,RWA
+Citrus,Solana,NFT Lending
+CityCoins,Stacks,Yield
+CivFund,Ethereum,Yield
+ClaimSwap,Klaytn,Dexes
+ClayStack,Ethereum,Liquid Staking
+ClaySwap,Binance,Farm
+Clearpool,Ethereum,Uncollateralized Lending
+Clearpool,Polygon,Uncollateralized Lending
+Cleopatra DAO,Avalanche,Yield Aggregator
+Clever Protocol,Dogechain,Dexes
+Clipper,Arbitrum,Dexes
+Clipper,Ethereum,Dexes
+Clipper,Moonbeam,Dexes
+Clipper,Optimism,Dexes
+Clipper,Polygon,Dexes
+Clober,Arbitrum,Dexes
+Clober,Ethereum,Dexes
+Clober,Polygon,Dexes
+Clober,Polygon zkEVM,Dexes
+CoFiX,Ethereum,Dexes
+CoW Swap,Ethereum,Dexes
+CobraSwap,Binance,Dexes
+Code 7 Finance,Fantom,Algo-Stables
+Coffin Finance,Fantom,Algo-Stables
+CoinDCX,Binance,CEX
+CoinDCX,Bitcoin,CEX
+CoinDCX,Cardano,CEX
+CoinDCX,Ethereum,CEX
+CoinDCX,Ripple,CEX
+CoinDCX,Solana,CEX
+CoinDCX,Tron,CEX
+CoinFLEX,smartBCH,Yield
+Coinbase Wrapped Staked ETH,Ethereum,Liquid Staking
+Coinsquare,Avalanche,CEX
+Coinsquare,Bitcoin,CEX
+Coinsquare,Cardano,CEX
+Coinsquare,Cosmos,CEX
+Coinsquare,Ethereum,CEX
+Coinsquare,Litecoin,CEX
+Coinsquare,Ripple,CEX
+Coinsquare,Solana,CEX
+Coinswap Space,Binance,Dexes
+Coinwind,Binance,Yield
+Coinwind,Ethereum,Yield
+Coinwind,Heco,Yield
+Collection.xyz,Ethereum,NFT Marketplace
+Colony,Avalanche,Services
+Comb Financial,Fantom,Yield
+Comet Finance,Fantom,Algo-Stables
+Cometa,Algorand,Yield
+Cometh,Polygon,Dexes
+Comfy Money,Harmony,Algo-Stables
+Commodo,Comdex,Lending
+CompliFi,Ethereum,Derivatives
+CompliFi,Polygon,Derivatives
+Complus Network,Avalanche,Dexes
+Complus Network,Binance,Dexes
+Complus Network,Heco,Dexes
+Complus Network,Polygon,Dexes
+Component,Binance,Dexes
+Component,Ethereum,Dexes
+Component,xDai,Dexes
+Component Swap,Pulse,Dexes
+Composable Finance,Arbitrum,Cross Chain
+Composable Finance,Ethereum,Cross Chain
+Composable Finance,Polygon,Cross Chain
+Compound,Ethereum,Lending
+Compound V3,Arbitrum,Lending
+Compound V3,Ethereum,Lending
+Compound V3,Polygon,Lending
+Concave,Ethereum,Services
+Concentrator,Ethereum,Yield
+Cone,Binance,Dexes
+Conic Finance,Ethereum,Yield
+Connext,Arbitrum,Cross Chain
+Connext,Avalanche,Cross Chain
+Connext,Binance,Cross Chain
+Connext,Boba,Cross Chain
+Connext,Cronos,Cross Chain
+Connext,Ethereum,Cross Chain
+Connext,Evmos,Cross Chain
+Connext,Fantom,Cross Chain
+Connext,Fuse,Cross Chain
+Connext,Harmony,Cross Chain
+Connext,Milkomeda,Cross Chain
+Connext,Moonbeam,Cross Chain
+Connext,Moonriver,Cross Chain
+Connext,Optimism,Cross Chain
+Connext,Polygon,Cross Chain
+Connext,xDai,Cross Chain
+Contango,Arbitrum,Derivatives
+Contango,Ethereum,Derivatives
+Convergence,Ethereum,Dexes
+Convergence,Moonbeam,Dexes
+Convex Finance,Arbitrum,Yield
+Convex Finance,Ethereum,Yield
+Convex Finance,Polygon,Yield
+Cook Finance,Avalanche,Indexes
+Cook Finance,Binance,Indexes
+Cook Finance,Ethereum,Indexes
+Cook Finance,Heco,Indexes
+CoreSwap,CORE,Dexes
+Corgi Finance,Dogechain,Yield Aggregator
+CorgiSwap,Binance,Dexes
+CortexDAO,Ethereum,Indexes
+Coslend,Evmos,Lending
+CougarSwap,Arbitrum,Yield
+CougarSwap,Avalanche,Yield
+CougarSwap,Binance,Yield
+CougarSwap,Cronos,Yield
+CougarSwap,Fantom,Yield
+CougarSwap,Harmony,Yield
+CougarSwap,Moonbeam,Yield
+CougarSwap,Polygon,Yield
+Counterstake,Binance,Cross Chain
+Counterstake,Ethereum,Cross Chain
+Counterstake,Kava,Cross Chain
+Counterstake,Obyte,Cross Chain
+Counterstake,Polygon,Cross Chain
+Coup Farm,Avalanche,Yield
+Cover Protocol,Ethereum,Insurance
+Covo V1,Polygon,Derivatives
+Covo V2,Polygon,Derivatives
+CowSwap smartBCH,smartBCH,Dexes
+Cowaii Cash,Dogechain,Algo-Stables
+Cozy V1,Ethereum,Insurance
+Cozy V2,Optimism,Insurance
+Crabada,Avalanche,Gaming
+Crafting Finance,Aurora,Synthetics
+Crafting Finance,Ethereum,Synthetics
+Cranium Exchange,Fantom,Derivatives
+CreamSwap,Ethereum,Dexes
+Creditum,Fantom,Algo-Stables
+Credix,Solana,RWA Lending
+Crema Finance,Solana,Dexes
+Crescent Dex,Crescent,Dexes
+CroLend Finance,Cronos,Lending
+CroSwap,Arbitrum,Dexes
+CroSwap,Cronos,Dexes
+Croblanc,Cronos,Yield
+Crodex,Cronos,Dexes
+Croissant Games,Cronos,Prediction Market
+Cron Finance,Ethereum,Dexes
+CronaSwap,Cronos,Dexes
+Cronofi Finance,Cronos,Yield
+Cronus Finance,Evmos,Dexes
+Cropper,Solana,Dexes
+CrossChain Bridge,Avalanche,Cross Chain
+CrossChain Bridge,Binance,Cross Chain
+CrossChain Bridge,Ethereum,Cross Chain
+CrossChain Bridge,Fantom,Cross Chain
+CrossChain Bridge,Polygon,Cross Chain
+Crow Finance,Cronos,Dexes
+Crown Finance,Cronos,Yield Aggregator
+Crunchy Network,Tezos,Services
+CryptEx Locker,Binance,Services
+Cryptex Finance,Ethereum,Indexes
+Cryptex Finance,Optimism,Indexes
+Crypto Lottery,Avalanche,Prediction Market
+Crypto Lottery,Binance,Prediction Market
+Crypto Lottery,CSC,Prediction Market
+Crypto Lottery,Celo,Prediction Market
+Crypto Lottery,Kucoin,Prediction Market
+Crypto Lottery,Polygon,Prediction Market
+Crypto-com,Arbitrum,CEX
+Crypto-com,Avalanche,CEX
+Crypto-com,Binance,CEX
+Crypto-com,Bitcoin,CEX
+Crypto-com,Ethereum,CEX
+Crypto-com,Fantom,CEX
+Crypto-com,Optimism,CEX
+Crypto-com,Polygon,CEX
+CryptoBlades,Aurora,Gaming
+CryptoBlades,Avalanche,Gaming
+CryptoBlades,Binance,Gaming
+CryptoBlades,Heco,Gaming
+CryptoBlades,Kava,Gaming
+CryptoBlades,OKExChain,Gaming
+CryptoBlades,Polygon,Gaming
+CryptoSwap,Binance,Dexes
+CryptoYieldFocus,Avalanche,Farm
+Crystalvale,DFK,Dexes
+Crystl Finance,Binance,Yield
+Crystl Finance,Cronos,Yield
+Crystl Finance,Polygon,Yield
+Cthulhu.Finance,Optimism,Yield Aggregator
+Cub Finance,Binance,Farm
+Cubo,Polygon,Yield
+Cupid Farm,Fantom,Yield
+Curve DEX,Arbitrum,Dexes
+Curve DEX,Aurora,Dexes
+Curve DEX,Avalanche,Dexes
+Curve DEX,Celo,Dexes
+Curve DEX,Ethereum,Dexes
+Curve DEX,Fantom,Dexes
+Curve DEX,Harmony,Dexes
+Curve DEX,Kava,Dexes
+Curve DEX,Moonbeam,Dexes
+Curve DEX,Optimism,Dexes
+Curve DEX,Polygon,Dexes
+Curve DEX,xDai,Dexes
+Cyber Dog,Cronos,Yield
+CyberFantasyFembots,Polygon,Yield
+CyberTime,Binance,Services
+CyborgSwap,Cronos,Dexes
+Cycle Finance,Avalanche,Yield Aggregator
+Cyclone,Binance,Yield
+Cyclone,Ethereum,Yield
+Cyclone,IoTeX,Yield
+Cyclone,Polygon,Yield
+Cykura,Solana,Dexes
+Cypher,Solana,Derivatives
+DAM Finance,Ethereum,CDP
+DAMX,Fantom,Derivatives
+DAO Maker Vesting,Binance,Services
+DAO Maker Vesting,Celo,Services
+DAO Maker Vesting,Ethereum,Services
+DAO Maker Vesting,Fantom,Services
+DAO Maker Vesting,Polygon,Services
+DAO Maker Vesting,Step,Services
+DAO Swap,Binance,Dexes
+DAOventures,Ethereum,Yield
+DDDX,Binance,Dexes
+DDEX,Ethereum,Dexes
+DELV,Ethereum,Yield
+DEUS Finance,Ethereum,CDP
+DEUS Finance,Fantom,CDP
+DEUS Finance,Polygon,CDP
+DFX Finance,Ethereum,Dexes
+DFX Finance,Polygon,Dexes
+DMD Finance,EOS,Yield
+DNA Dollar,Cronos,Algo-Stables
+DODO,Arbitrum,Dexes
+DODO,Aurora,Dexes
+DODO,Binance,Dexes
+DODO,Ethereum,Dexes
+DODO,Polygon,Dexes
+DOOAR,Binance,Dexes
+DOOAR,Solana,Dexes
+DPEX,Polygon,Derivatives
+DSU Money,Arbitrum,CDP
+DSU Money,Ethereum,CDP
+DXDao,Ethereum,Services
+Dapp Account DAO,EOS,Yield
+Dark Matter,Fantom,Farm
+DarkAuto,Cronos,Yield Aggregator
+DarkAuto,Dogechain,Yield Aggregator
+DarkCrypto,Cronos,Algo-Stables
+DarkSwap,Dogechain,Dexes
+Darkness,Cronos,Dexes
+DarumaDAO,Godwoken,Reserve Currency
+Davos Protocol,Polygon,CDP
+Dawn Star Finance,Polygon,Algo-Stables
+DeDust,TON,Dexes
+DeFIL,Binance,Lending
+DeFIL,Ethereum,Lending
+DeFi Franc,Ethereum,CDP
+DeFiner,Ethereum,Lending
+DeFiner,OKExChain,Lending
+DeFiner,Polygon,Lending
+DeFis Network,EOS,Dexes
+DeHive,Binance,Indexes
+DeHive,Ethereum,Indexes
+DeHive,Polygon,Indexes
+DeHive,xDai,Indexes
+Debets,Fantom,Prediction Market
+Debets,Polygon,Prediction Market
+DebtDAO,Ethereum,Lending
+Decryption,Tlchain,Dexes
+Decubate,Binance,Launchpad
+DeepLock,Binance,Launchpad
+DeepSeaDAO,Avalanche,Reserve Currency
+DeerFi,Ethereum,Lending
+Defender Finance,Binance,Algo-Stables
+Defi Halal,Polygon,CDP
+Defi Kingdoms,Harmony,Dexes
+Defi Kingdoms,Klaytn,Dexes
+Defi Master,Arbitrum,Yield
+Defi Swap,Ethereum,Dexes
+Defi Yield Protocol,Avalanche,Yield
+Defi Yield Protocol,Binance,Yield
+Defi Yield Protocol,Ethereum,Yield
+DefiBox,Binance,Dexes
+DefiBox,EOS,Dexes
+DefiBox,Wax,Dexes
+DefiChain DEX,DefiChain,Dexes
+DefiChain Loans,DefiChain,Synthetics
+DefiCurrent,Arbitrum,Yield Aggregator
+DefiCurrent,Avalanche,Yield Aggregator
+DefiCurrent,Ethereum,Yield Aggregator
+DefiDollar DAO,Ethereum,Algo-Stables
+DefiEdge,Arbitrum,Liquidity manager
+DefiEdge,Binance,Liquidity manager
+DefiEdge,Ethereum,Liquidity manager
+DefiEdge,Optimism,Liquidity manager
+DefiEdge,Polygon,Liquidity manager
+DefiPlaza,Ethereum,Dexes
+DefiSaver,Ethereum,Services
+Defily,Binance,Yield
+Defily,Harmony,Yield
+Defily,Kardia,Yield
+Definix,Binance,Dexes
+Definix,Klaytn,Dexes
+Defirex,Ethereum,Yield
+Deflex,Algorand,Dexes
+Defrost,Avalanche,CDP
+DefySwap,Echelon,Dexes
+DefySwap,Fantom,Dexes
+Degen Haus,Fantom,Dexes
+Delta Financial,Ethereum,Options
+DeltaPrime,Avalanche,Leveraged Farming
+DeltaTheta,Binance,Options
+DeltaTheta,Polygon,Options
+Demeter,Binance,Lending
+Demeter,Heco,Lending
+Demex,Carbon,Dexes
+Demodyfi,Binance,Dexes
+Demodyfi,Ethereum,Dexes
+Demodyfi,Moonbeam,Dexes
+Depth,Binance,Dexes
+Depth,Heco,Dexes
+Deri Protocol,Arbitrum,Options
+Deri Protocol,Binance,Options
+Deri Protocol,Polygon,Options
+Deri Protocol,zkSync Era,Options
+Deribit,Bitcoin,CEX
+Deribit,Ethereum,CEX
+Deribit,EthereumPoW,CEX
+Deribit,Solana,CEX
+Deridex,Algorand,Derivatives
+Derify Protocol,Binance,Dexes
+DerivaDEX,Ethereum,Derivatives
+Dev Protocol,Ethereum,Yield
+Devil Finance,Fantom,Yield
+Dex Finance,Binance,Yield Aggregator
+DexPad,Avalanche,Launchpad
+DexPad,Cronos,Launchpad
+DexPad,Kava,Launchpad
+DexPad,Polygon,Launchpad
+Dexalot,Avalanche,Dexes
+Dexible V2,Ethereum,Dexes
+Dexioprotocol,Kava,Gaming
+Dexioprotocol,Polygon,Gaming
+Dexit Finance Swap,Dexit,Dexes
+Dexter,Persistence,Dexes
+Dfyn Network,Fantom,Dexes
+Dfyn Network,OKExChain,Dexes
+Dfyn Network,Polygon,Dexes
+Diamond Coin,Fantom,Gaming
+Diamond Protocol,Arbitrum,Yield
+Diamond Protocol,Ethereum,Yield
+Diamond Protocol,Optimism,Yield
+Dibs Money,Binance,Algo-Stables
+Diffusion Finance,Evmos,Dexes
+Dino.Exchange,Binance,Dexes
+DinoPool,Cronos,Algo-Stables
+DinoSwap,Polygon,Dexes
+Dinosaur Eggs,Binance,Dexes
+Dinosaur.Finance,Arbitrum,Yield Aggregator
+Dios Finance,Binance,Reserve Currency
+Direct Exchange,Kava,Dexes
+Ditto,Aptos,Liquid Staking
+Djed Stablecoin,Cardano,CDP
+DogMoney,Dogechain,Dexes
+Doge Compounder,Dogechain,Yield Aggregator
+Doge Shrek,Dogechain,Dexes
+DogeClaw,OKExChain,Gaming
+DogeMuskSwap,Dogechain,Dexes
+DogePup,Dogechain,Farm
+DogeSwapOrg,Dogechain,Dexes
+Dogeswap,Ethereum,Services
+Dogewhale,Binance,Reserve Currency
+Dogium Farm,Dogechain,Dexes
+Doglands Swap,Dogechain,Dexes
+Dogs of Elon,Arbitrum,Farm
+Dogs of Elon,Ethereum,Farm
+Doki Doki Finance,Ethereum,Yield
+Doki Doki Finance,Polygon,Yield
+Dolomite,Arbitrum,Lending
+DolphinSwap,EOS,Dexes
+Domani Protocol,Avalanche,Yield
+Domani Protocol,Ethereum,Yield
+Domani Protocol,zkSync Era,Yield
+Domination Finance,Boba,Synthetics
+Domination Finance,Ethereum,Synthetics
+Domination Finance,Polygon,Synthetics
+Doora Inu,Arbitrum,Yield
+Dopex,Arbitrum,Options
+Dopex,Avalanche,Options
+Dopex,Binance,Options
+Dopex,Ethereum,Options
+Dopple Finance,Binance,Algo-Stables
+Dopple Finance,Fantom,Algo-Stables
+Dopple Finance,Harmony,Algo-Stables
+Dot Dot Finance,Binance,Yield
+DotOracle,Avalanche,Bridge
+DotOracle,Binance,Bridge
+DotOracle,Ethereum,Bridge
+DotOracle,Moonbeam,Bridge
+DotOracle,OKExChain,Bridge
+Double Club,Binance,Yield Aggregator
+Dove Swap V2,Polygon zkEVM,Dexes
+Dove Swap V3,Polygon zkEVM,Dexes
+Drachma,Metis,Dexes
+Drachma Exchange,Solana,Dexes
+Draco Finance,Fantom,Algo-Stables
+Draco Force,Fantom,Yield Aggregator
+Dracula,Ethereum,Yield Aggregator
+Dragonfruit Protocol,Dogechain,Farm
+Drift,Solana,Derivatives
+Drip,Binance,Yield
+Droplit Protocol,Binance,Algo-Stables
+Drops,Ethereum,NFT Lending
+Dual Finance,Solana,Options Vault
+DuckyDeFi,Cronos,Dexes
+Duet Protocol,Arbitrum,Synthetics
+Duet Protocol,Binance,Synthetics
+DuneSwap,Oasis,Dexes
+DungeonSwap,Binance,Yield
+DxSale,Arbitrum,Launchpad
+DxSale,Avalanche,Launchpad
+DxSale,Binance,Launchpad
+DxSale,Bitgert,Launchpad
+DxSale,CORE,Launchpad
+DxSale,Celo,Launchpad
+DxSale,Cronos,Launchpad
+DxSale,Dexit,Launchpad
+DxSale,Dogechain,Launchpad
+DxSale,Ethereum,Launchpad
+DxSale,Fantom,Launchpad
+DxSale,Harmony,Launchpad
+DxSale,Heco,Launchpad
+DxSale,Kucoin,Launchpad
+DxSale,Milkomeda,Launchpad
+DxSale,Moonriver,Launchpad
+DxSale,OKExChain,Launchpad
+DxSale,Polygon,Launchpad
+DxSale,smartBCH,Launchpad
+DxSale,xDai,Launchpad
+DynastySwap,Pulse,Dexes
+Dypius,Avalanche,Yield
+Dypius,Binance,Yield
+Dypius,Ethereum,Yield
+Dyson,Arbitrum,Liquidity manager
+Dyson,Binance,Liquidity manager
+Dyson,Optimism,Liquidity manager
+Dyson,Polygon,Liquidity manager
+Dystopia,Polygon,Dexes
+E3,Fantom,Dexes
+ECHSWAP,Echelon,Dexes
+ELYFI,Binance,RWA
+ELYFI,Ethereum,RWA
+EMDX,Avalanche,Derivatives
+ENS,Ethereum,Services
+EOS REX,EOS,Lending
+EOSWAP Finance,EOS EVM,Dexes
+EPNS,Ethereum,Services
+ETCswap,EthereumClassic,Dexes
+ETHA Lend,Avalanche,Yield
+ETHA Lend,Polygon,Yield
+Earnifty,Velas,Yield Aggregator
+Earnmos,Evmos,Yield Aggregator
+Earnmos,Kava,Yield Aggregator
+Ease.org,Ethereum,Insurance
+Echidna Finance,Avalanche,Yield
+EcoDeFi,Binance,Lending
+Edge Protocol,Terra,Lending
+EggTartSwap,Harmony,Dexes
+Eklipse Finance,Klaytn,Dexes
+El Dorado Exchange,Arbitrum,Derivatives
+El Dorado Exchange,Binance,Derivatives
+ElasticSwap,Avalanche,Dexes
+ElasticSwap,Ethereum,Dexes
+Electrik Finance,Klaytn,Yield Aggregator
+Elephant Money,Binance,Yield
+Elephantdex,Harmony,Dexes
+Elf Finance,Fantom,Algo-Stables
+Elk,Arbitrum,Dexes
+Elk,Avalanche,Dexes
+Elk,Binance,Dexes
+Elk,Bittorrent,Dexes
+Elk,Cronos,Dexes
+Elk,Elastos,Dexes
+Elk,Ethereum,Dexes
+Elk,Fantom,Dexes
+Elk,Fuse,Dexes
+Elk,Harmony,Dexes
+Elk,Heco,Dexes
+Elk,Hoo,Dexes
+Elk,IoTeX,Dexes
+Elk,Kava,Dexes
+Elk,Kucoin,Dexes
+Elk,Moonriver,Dexes
+Elk,OKExChain,Dexes
+Elk,Optimism,Dexes
+Elk,Polygon,Dexes
+Elk,Telos,Dexes
+Elk,xDai,Dexes
+Ellipsis Finance,Binance,Dexes
+ElonSwap,Dogechain,Dexes
+EmberSwap,smartBCH,Dexes
+Embr Finance,Avalanche,Dexes
+Emerald Swap,Binance,Yield
+EmiSwap,Astar,Dexes
+EmiSwap,Aurora,Dexes
+EmiSwap,Avalanche,Dexes
+EmiSwap,Ethereum,Dexes
+EmiSwap,Kucoin,Dexes
+EmiSwap,Polygon,Dexes
+EmiSwap,Shiden,Dexes
+Emp Money,Binance,Algo-Stables
+EmpireDEX,Avalanche,Dexes
+EmpireDEX,Binance,Dexes
+EmpireDEX,Cronos,Dexes
+EmpireDEX,Empire,Dexes
+EmpireDEX,Ethereum,Dexes
+EmpireDEX,Fantom,Dexes
+EmpireDEX,Kava,Dexes
+EmpireDEX,Polygon,Dexes
+EmpireDEX,xDai,Dexes
+Empyreal,Arbitrum,Yield
+Empyrean DAO,Aurora,Reserve Currency
+Energiswap,Energi,Dexes
+Energyfi,Moonbeam,Dexes
+Enosys Bridge,XDC,Bridge
+Ensuro,Polygon,Insurance
+EnterDAO,Ethereum,Services
+Entropyfi,Polygon,Prediction Market
+Enzyme Finance,Ethereum,Indexes
+Epsylon Finance,Fantom,Yield Aggregator
+Equalizer Exchange,Fantom,Dexes
+Equilibre,Kava,Dexes
+Equilibrium,Equilibrium,CDP
+Eralend,zkSync Era,Lending
+Erasure,Ethereum,Derivatives
+ErgoPad,Ergo,Launchpad
+Eris Protocol,Juno,Liquid Staking
+Eris Protocol,Kujira,Liquid Staking
+Eris Protocol,Migaloo,Liquid Staking
+Eris Protocol,Terra,Liquid Staking
+Eris Protocol,Terra2,Liquid Staking
+EsdtMarket,Elrond,Dexes
+Ester Finance,Fantom,Yield
+Eternal Finance,Aptos,Yield
+Etherberry Finance,Arbitrum,Indexes
+Ethereum Foundation,Ethereum,Services
+Ethernity Chain,Ethereum,Yield
+EthicHub,Celo,Lending
+EthicHub,Ethereum,Lending
+Ethos Reserve,Optimism,CDP
+EthwSwap,EthereumPoW,Dexes
+Euler,Ethereum,Lending
+Euphoria,Harmony,Reserve Currency
+EverRise,Avalanche,Services
+EverRise,Binance,Services
+EverRise,Ethereum,Services
+EverRise,Fantom,Services
+EverRise,Polygon,Services
+EverestDAO,Avalanche,Options
+Everlend,Solana,Lending
+Eversol,Solana,Liquid Staking
+EvmoSwap,Evmos,Dexes
+Evolve,Cronos,Lending
+Exactly,Ethereum,Lending
+Exactly,Optimism,Lending
+Excalibur,Fantom,Dexes
+ExinPool,Mixin,Liquid Staking
+ExinSwap,Mixin,Dexes
+Exodia,Fantom,Reserve Currency
+Extra Finance,Optimism,Yield
+FATExFi,Polygon,Dexes
+FATFIRE DEFI,Fantom,Yield
+FDoge Finance,Fantom,Algo-Stables
+FIAT DAO,Ethereum,Yield
+FIN,Kujira,Dexes
+FLRFarm,Songbird,Yield
+FLRLoans,Songbird,CDP
+FLRX,Songbird,Dexes
+FNDZ,Binance,Dexes
+FODL Finance,Binance,Options
+FODL Finance,Ethereum,Options
+FODL Finance,Polygon,Options
+FORTH DAO,Ethereum,Services
+FRAKT,Solana,NFT Lending
+FTM Frens,Fantom,Yield
+FX Swap,FunctionX,Dexes
+Fabric,Solana,Yield
+Factor,Arbitrum,Indexes
+FairFi,Binance,Yield Aggregator
+FairFi,Ethereum,Yield Aggregator
+FairFi,Kava,Yield Aggregator
+FairFi,Polygon,Yield Aggregator
+FairySwap V1,Findora,Dexes
+FairySwap V2,Findora,Dexes
+Fantasm,Fantom,Algo-Stables
+Fantohm,Binance,Reserve Currency
+Fantohm,Boba,Reserve Currency
+Fantohm,Ethereum,Reserve Currency
+Fantohm,Fantom,Reserve Currency
+Fantohm,Moonriver,Reserve Currency
+FantomPup,Fantom,Yield
+Farm Hero,Binance,Gaming
+Farm Hero,OKExChain,Gaming
+Farm Hero,Polygon,Gaming
+Farmtom,Fantom,Yield
+Fastyield Finance,Fantom,Yield Aggregator
+Feeder Finance,Binance,Yield
+Feeder Finance,Fantom,Yield
+Fegex,Binance,Services
+Fegex,Ethereum,Services
+Fei Protocol,Ethereum,Algo-Stables
+FemboyDAO,Ethereum,Services
+Fenrir Finance,Binance,Lending
+Ferro,Cronos,Dexes
+Ferrum,Ethereum,Services
+Ferrum,Polygon,Services
+FilDA,Arbitrum,Lending
+FilDA,Binance,Lending
+FilDA,Bittorrent,Lending
+FilDA,Elastos,Lending
+FilDA,Heco,Lending
+FilDA,IoTeX,Lending
+FilDA,Kava,Lending
+FilDA,Polygon,Lending
+FilDA,REI,Lending
+Filet Finance,Filecoin,Staking Pool
+FinNexus,Binance,Options
+FinNexus,Ethereum,Options
+FinNexus,Wanchain,Options
+Finext Finance,Arbitrum,Algo-Stables
+FireBot,Polygon,Yield
+FireDAO,Ethereum,Yield
+Firebird,Polygon,Dexes
+Firi,Bitcoin,CEX
+Firi,Cardano,CEX
+Firi,Ethereum,CEX
+Firi,Ripple,CEX
+Firi,Solana,CEX
+Flair Dex,Avalanche,Dexes
+Flame DeFi,Tezos,Yield
+Flamincome,Ethereum,Yield Aggregator
+Flamingo Finance,NEO,Dexes
+FlashLiquidity,Polygon,Dexes
+FlashLiquidity,Polygon zkEVM,Dexes
+Flashstake,Arbitrum,Yield
+Flashstake,Ethereum,Yield
+Flashstake,Optimism,Yield
+Flashstake OLD,Ethereum,Yield
+FlatCoin DEX,Tron,Farm
+FlatQube,Everscale,Dexes
+Flexa,Ethereum,Payments
+Fliperino,EthereumPoW,Prediction Market
+Float,Avalanche,Derivatives
+Float,Polygon,Derivatives
+Float Protocol,Ethereum,Yield
+FlokiFi Locker,Arbitrum,Launchpad
+FlokiFi Locker,Avalanche,Launchpad
+FlokiFi Locker,Binance,Launchpad
+FlokiFi Locker,Cronos,Launchpad
+FlokiFi Locker,Dogechain,Launchpad
+FlokiFi Locker,Ethereum,Launchpad
+FlokiFi Locker,Evmos,Launchpad
+FlokiFi Locker,Fantom,Launchpad
+FlokiFi Locker,Kucoin,Launchpad
+FlokiFi Locker,OKExChain,Launchpad
+FlokiFi Locker,Optimism,Launchpad
+FlokiFi Locker,Polygon,Launchpad
+Floor Dao,Ethereum,Reserve Currency
+FluidTokens,Cardano,Lending
+Fluidity Money,Arbitrum,CDP
+Fluidity Money,Ethereum,CDP
+Fluity,Binance,CDP
+Flux Exchange,Fantom,Derivatives
+Flux Exchange,zkSync Era,Derivatives
+Flux Finance,Ethereum,Lending
+Flux Protocol,Arbitrum,Lending
+Flux Protocol,Binance,Lending
+Flux Protocol,Conflux,Lending
+Flux Protocol,Ethereum,Lending
+Flux Protocol,OKExChain,Lending
+Flux Protocol,Polygon,Lending
+Folks Finance Lending,Algorand,Lending
+Foodcourt,Binance,Dexes
+Foodcourt,REIchain,Dexes
+FootballManager,Arbitrum,Gaming
+ForTube,Binance,Lending
+ForTube,Ethereum,Lending
+ForTube,IoTeX,Lending
+ForTube,OKExChain,Lending
+ForTube,Polygon,Lending
+Forge,Evmos,Dexes
+Forge SX Ovens,Arbitrum,Synthetics
+Forge SX Trade,Arbitrum,Dexes
+Forta,Polygon,Services
+Forteswap,Canto,Dexes
+Forthewin Network,NEO,Dexes
+Fortress,Avalanche,Reserve Currency
+Fortress Loans,Binance,Lending
+Fortune DAO,Cronos,Reserve Currency
+Fountain Protocol,Oasis,Lending
+FoxSwap,Harmony,Yield
+Fractal Protocol,Avalanche,Yield
+Fractal Protocol,Ethereum,Yield
+Fractal Protocol,Moonriver,Yield
+Fractal Protocol,Polygon,Yield
+Fractional Art,Ethereum,Indexes
+Francium,Solana,Yield
+Frax,Ethereum,Algo-Stables
+Frax Ether,Ethereum,Liquid Staking
+Frax FPI,Ethereum,Algo-Stables
+Frax Swap,Arbitrum,Dexes
+Frax Swap,Avalanche,Dexes
+Frax Swap,Binance,Dexes
+Frax Swap,Dogechain,Dexes
+Frax Swap,Ethereum,Dexes
+Frax Swap,Fantom,Dexes
+Frax Swap,Moonbeam,Dexes
+Frax Swap,Polygon,Dexes
+Fraxlend,Ethereum,Lending
+FreeLiquid,Ethereum,Lending
+FreeRiver,Moonriver,Dexes
+Freebie Life Finance,Avalanche,Prediction Market
+Friends With Benefits,Ethereum,Services
+Frigg.eco,Ethereum,RWA
+Friktion,Solana,Options Vault
+Fringe,Ethereum,Lending
+Frog Nation Farm,Fantom,Farm
+Frog Swap,Kekchain,Dexes
+Frogge.Finance,EOS EVM,Dexes
+Frost Finance,Avalanche,Yield
+Frozen Walrus Finance,Avalanche,Algo-Stables
+Fruits of Ryoshi,Dogechain,Farm
+FstSwap,Binance,Dexes
+Fuji Finance,Arbitrum,Lending
+Fuji Finance,Ethereum,Lending
+Fuji Finance,Fantom,Lending
+Fuji Finance,Optimism,Lending
+Fuji Finance,Polygon,Lending
+Fulcrom,Cronos,Derivatives
+FunBear,Kava,Services
+FunBeast,Astar,Dexes
+FunDex,Arbitrum,Dexes
+FunDex,Kava,Dexes
+FunDex,Optimism,Dexes
+Furucombo,Polygon,Yield
+FuryLabs Finance,Fantom,Farm
+Fusion Dex,EthereumClassic,Dexes
+Fusion Dex,Fantom,Dexes
+Fusion Dex,Nova Network,Dexes
+Future Swap,Findora,Dexes
+FutureSwap,Arbitrum,Derivatives
+FutureSwap,Avalanche,Derivatives
+FutureSwap,Ethereum,Derivatives
+Fuzz Finance,Harmony,Dexes
+GARD,Algorand,CDP
+GET Protocol,Ethereum,Services
+GETH,Ethereum,Liquid Staking
+GIBXSwap,Binance,Dexes
+GLIF Infinity Pool,Filecoin,Staking Pool
+GMD Protocol,Arbitrum,Yield Aggregator
+GMX,Arbitrum,Derivatives
+GMX,Avalanche,Derivatives
+GND Protocol,Arbitrum,Yield
+GOGOcoin,Polygon,Yield
+GTON Capital,Fantom,Reserve Currency
+Gaia DAO,Avalanche,Reserve Currency
+Gains Network,Arbitrum,Derivatives
+Gains Network,Polygon,Derivatives
+Gaj Finance,Avalanche,Yield
+Gaj Finance,Polygon,Yield
+Galatea Cash,Cronos,Algo-Stables
+GalaxyGoogle DAO,Avalanche,Reserve Currency
+GalaxyGoogle DAO,Binance,Reserve Currency
+Gale,Binance,Yield
+Gamblefi,Cronos,Reserve Currency
+Game Theory,Fantom,Algo-Stables
+Gamma,Arbitrum,Liquidity manager
+Gamma,Binance,Liquidity manager
+Gamma,Celo,Liquidity manager
+Gamma,Ethereum,Liquidity manager
+Gamma,Optimism,Liquidity manager
+Gamma,Polygon,Liquidity manager
+Gamma,Polygon zkEVM,Liquidity manager
+Gamut Exchange,Kava,Dexes
+Garbi Protocol,Arbitrum,Yield
+Garble.Money,Tron,Privacy
+Gardens DAO,xDai,Services
+Gate-io,Arbitrum,CEX
+Gate-io,Avalanche,CEX
+Gate-io,Binance,CEX
+Gate-io,Bitcoin,CEX
+Gate-io,Cardano,CEX
+Gate-io,Ethereum,CEX
+Gate-io,Fantom,CEX
+Gate-io,Optimism,CEX
+Gate-io,Polygon,CEX
+Gate-io,Ripple,CEX
+Gate-io,Solana,CEX
+Gate-io,Tron,CEX
+Gaur Money,Cronos,Algo-Stables
+Gearbox,Ethereum,Leveraged Farming
+Geist Finance,Fantom,Lending
+GemKeeper,Oasis,Dexes
+GemMine,Fantom,Yield
+GemSwap,zkSync Era,Dexes
+Genesis Finance,Cronos,Dexes
+Genesys,Fantom,Yield
+Genius,Avalanche,Liquid Staking
+Genius,Binance,Liquid Staking
+Genius,Ethereum,Liquid Staking
+Genius,Polygon,Liquid Staking
+Genius Yield,Cardano,Dexes
+Genshiro,Genshiro,Lending
+Gensokishi,Polygon,Gaming
+Geode,Avalanche,Liquid Staking
+Geyser,Ethereum,Yield
+Geyser,Polygon,Yield
+Ghost,Kujira,Lending
+GhostMarket,NEO,Liquid Staking
+Gin Finance,Boba,Dexes
+Gitcoin,Ethereum,Services
+Giveth,Ethereum,Yield
+Giveth,xDai,Yield
+Giza DAO,Fantom,Reserve Currency
+Glacier Finance,Avalanche,Dexes
+Glide Finance,Elastos,Dexes
+Glitter Finance,Algorand,Bridge
+Glitter Finance,Solana,Bridge
+Globiance,XDC,Dexes
+GmCash,Arbitrum,Algo-Stables
+Gnosis DAO,Ethereum,Services
+Gnosis Protocol v1,Ethereum,Prediction Market
+GoSwap,GoChain,Dexes
+Goat Swap,Solana,Dexes
+Goblin FTM,Fantom,Yield
+GoblinGold,Solana,Yield
+Goblins Cash,smartBCH,Reserve Currency
+Goldbank Finance,Arbitrum,Lending
+Goldfinch,Ethereum,RWA Lending
+Goledo,Conflux,Lending
+Golff Protocol,Binance,Yield
+Golff Protocol,Ethereum,Yield
+Golff Protocol,Heco,Yield
+Gondola Finance,Avalanche,Dexes
+Goober,Ethereum,Yield
+GoodDollar,Ethereum,Yield
+GoodDollar,Fuse,Yield
+GoodEntry,Arbitrum,Derivatives
+Goose Finance,Binance,Farm
+GooseFX,Solana,Dexes
+GotchiVault,Polygon,CDP
+Governor DAO,Ethereum,Yield
+Granary Finance,Arbitrum,Lending
+Granary Finance,Avalanche,Lending
+Granary Finance,Binance,Lending
+Granary Finance,Ethereum,Lending
+Granary Finance,Fantom,Lending
+Granary Finance,Metis,Lending
+Granary Finance,Optimism,Lending
+Grape Finance,Avalanche,Algo-Stables
+Grappa Finance,Ethereum,Options
+GrassLand Finance,Polygon,Yield
+Grave Finance,Avalanche,Algo-Stables
+Gravis Finance,Binance,Dexes
+Gravis Finance,Heco,Dexes
+Gravis Finance,Polygon,Dexes
+Gravita Protocol,Ethereum,CDP
+Gravity Finance,Polygon,Dexes
+Green Planet,Binance,Lending
+Greenhouse,Polygon,Dexes
+Gridex,Arbitrum,Dexes
+Grim Finance,Arbitrum,Yield
+Grim Finance,Avalanche,Yield
+Grim Finance,Fantom,Yield
+Grim Finance,Kava,Yield
+Grim Finance,Polygon,Yield
+GrizzlyFi,Binance,Yield
+Gro,Avalanche,Yield
+Gro,Ethereum,Yield
+GroveCoin,Binance,Farm
+GroveCoin,Ethereum,Farm
+GroveCoin,Grove,Farm
+Growth DeFi,Avalanche,Yield
+Growth DeFi,Binance,Yield
+Growth DeFi,Fantom,Yield
+Guard-Helmet,Binance,Insurance
+Guard-Helmet,Polygon,Insurance
+GumBall Protocol,Arbitrum,NFT Marketplace
+Guru Network,Arbitrum,Yield
+Guru Network,Avalanche,Yield
+Guru Network,Binance,Yield
+Guru Network,Echelon,Yield
+Guru Network,Fantom,Yield
+Guru Network,Kucoin,Yield
+Guru Network,Metis,Yield
+Guru Network,MultiVAC,Yield
+GxyPad,zkSync Era,Dexes
+Gyro,Binance,Reserve Currency
+Gyroscope Protocol,Polygon,Dexes
+H2Odata,Ethereum,CDP
+HFIone,Heco,Yield
+HSwap,Heco,Dexes
+HXRO Network,Solana,Derivatives
+Hades Money,Metis,Algo-Stables
+Hades Swap,Polis,Dexes
+Hadouken AMM,GodwokenV1,Dexes
+Hadouken Lend,GodwokenV1,Lending
+Hakka Finance,Binance,Derivatives
+Hakka Finance,Ethereum,Derivatives
+HakuSwap,Avalanche,Dexes
+HaloDAO,Arbitrum,Yield
+HaloDAO,Ethereum,Yield
+HaloDAO,Polygon,Yield
+HaloFi,Celo,Services
+HaloFi,Polygon,Services
+Hamburger Finance,Arbitrum,Dexes
+Harbor Protocol,Comdex,CDP
+Harvest Finance,Arbitrum,Yield Aggregator
+Harvest Finance,Ethereum,Yield Aggregator
+Harvest Finance,Polygon,Yield Aggregator
+HashDAO Finance,Arbitrum,Derivatives
+Hashflow,Arbitrum,Dexes
+Hashflow,Avalanche,Dexes
+Hashflow,Binance,Dexes
+Hashflow,Ethereum,Dexes
+Hashflow,Optimism,Dexes
+Hashflow,Polygon,Dexes
+Hats.Finance,Ethereum,Services
+Hawksight,Solana,Yield Aggregator
+HebeSwap,EthereumClassic,Dexes
+Hectagon,Binance,Services
+Hector Lending,Fantom,Lending
+Hector Treasury,Binance,Reserve Currency
+Hector Treasury,Ethereum,Reserve Currency
+Hector Treasury,Fantom,Reserve Currency
+Hedge,Solana,CDP
+HedgeFarm,Avalanche,Yield
+Hedgehog,Ethereum,Liquidity manager
+Hegic,Arbitrum,Options
+Hegic,Ethereum,Options
+HeliSwap,Hedera,Dexes
+Helio Protocol,Binance,CDP
+Helios Prime,Ethereum,Indexes
+Helix,Injective,Dexes
+Hera Finance,Metis,Dexes
+Hermes Defi,Harmony,Yield
+Hermes Finance,Avalanche,Algo-Stables
+Hermes Protocol,Metis,Dexes
+Hex,Ethereum,Yield
+Hexal,Binance,Reserve Currency
+HipPoWSwap,EthereumPoW,Dexes
+HiveSwap,Map,Dexes
+Hodl Fox,Mixin,Services
+Hodltree,Ethereum,Lending
+Hodltree,Polygon,Lending
+HoldStation DeFutures,zkSync Era,Derivatives
+Holdr,Aurora,Dexes
+HomeCoin,Ethereum,CDP
+Homora V2,Avalanche,Yield
+Homora V2,Binance,Yield
+Homora V2,Ethereum,Yield
+Homora V2,Fantom,Yield
+Homora V2,Optimism,Yield
+HoneyFarm,Avalanche,Yield
+HoneyFarm,Binance,Yield
+Honeyswap,Polygon,Dexes
+Honeyswap,xDai,Dexes
+HonkSwap,smartBCH,Dexes
+Hop Protocol,Arbitrum,Cross Chain
+Hop Protocol,Ethereum,Cross Chain
+Hop Protocol,Optimism,Cross Chain
+Hop Protocol,Polygon,Cross Chain
+Hop Protocol,xDai,Cross Chain
+HopSwap,Cronos,Dexes
+Hord,Ethereum,Liquid Staking
+Horizon Protocol,Binance,Derivatives
+Hotbit,Arbitrum,CEX
+Hotbit,Avalanche,CEX
+Hotbit,Binance,CEX
+Hotbit,Bitcoin,CEX
+Hotbit,Cronos,CEX
+Hotbit,EOS,CEX
+Hotbit,Ethereum,CEX
+Hotbit,Fantom,CEX
+Hotbit,Optimism,CEX
+Hotbit,Polygon,CEX
+Hotbit,Ripple,CEX
+Hotbit,Tron,CEX
+Hotfriescoin,Binance,Reserve Currency
+Hotpot Finance,Binance,Yield
+Houses of Rome,Moonriver,Reserve Currency
+HoustonSwap,Aptos,Dexes
+Hpdex,HPB,Dexes
+Hubble,Solana,CDP
+Hubble Exchange,Avalanche,Derivatives
+Huckleberry AMM,CLV,Dexes
+Huckleberry AMM,Moonriver,Dexes
+Huckleberry Lending,Moonriver,Lending
+Humble Defi,Algorand,Dexes
+Hummus Exchange,Metis,Dexes
+Hundred Finance,Arbitrum,Lending
+Hundred Finance,Ethereum,Lending
+Hundred Finance,Fantom,Lending
+Hundred Finance,Harmony,Lending
+Hundred Finance,Moonriver,Lending
+Hundred Finance,Optimism,Lending
+Hundred Finance,Polygon,Lending
+Hundred Finance,xDai,Lending
+Hunny Finance,Binance,Yield
+HunnySwap,Avalanche,Dexes
+Huobi,Algorand,CEX
+Huobi,Avalanche,CEX
+Huobi,Bitcoin,CEX
+Huobi,EOS,CEX
+Huobi,Ethereum,CEX
+Huobi,Litecoin,CEX
+Huobi,Polygon,CEX
+Huobi,Solana,CEX
+Huobi,Tron,CEX
+HurricaneSwap,Avalanche,Dexes
+Hydradex V2,Hydra,Dexes
+Hydradex V3,Hydra,Dexes
+Hyper Finance,Binance,Yield
+HyperJump,Binance,Dexes
+HyperJump,Fantom,Dexes
+HyperJump,Metis,Dexes
+Hyperliquid,Arbitrum,Derivatives
+Hyphen,Arbitrum,Bridge
+Hyphen,Avalanche,Bridge
+Hyphen,Binance,Bridge
+Hyphen,Ethereum,Bridge
+Hyphen,Optimism,Bridge
+Hyphen,Polygon,Bridge
+ICHI,Ethereum,Liquidity manager
+ICHI,Polygon,Liquidity manager
+IDEX,Ethereum,Dexes
+IDEX,Polygon,Dexes
+IFPool,CSC,Liquid Staking
+IFSwap,CSC,Dexes
+INK Protocol,Terra,Yield
+ION DAO,Osmosis,Synthetics
+IPOR,Ethereum,Derivatives
+IQ,Ethereum,Services
+Ice Colony,Polygon,Yield
+Ice DAO,Avalanche,Reserve Currency
+IceCream Finance,Avalanche,Algo-Stables
+IcecreamSwap,Bitgert,Dexes
+IcecreamSwap,CORE,Dexes
+IcecreamSwap,Dogechain,Dexes
+IcecreamSwap,Fuse,Dexes
+IcecreamSwap,XDC,Dexes
+Ideamarket,Arbitrum,Derivatives
+Idle,Ethereum,Yield Aggregator
+Idle,Polygon,Yield Aggregator
+Ignite Finance,Klaytn,Reserve Currency
+Illuminate,Ethereum,Lending
+Illuvium,Ethereum,Gaming
+Immortal,Celo,Reserve Currency
+ImpactMarket,Celo,Yield
+Impermax Finance,Arbitrum,Yield
+Impermax Finance,Avalanche,Yield
+Impermax Finance,Ethereum,Yield
+Impermax Finance,Fantom,Yield
+Impermax Finance,Moonriver,Yield
+Impermax Finance,Polygon,Yield
+Impossible Finance,Aurora,Launchpad
+Impossible Finance,Avalanche,Launchpad
+Impossible Finance,Binance,Launchpad
+Impossible Finance,Boba,Launchpad
+Impossible Finance,Kava,Launchpad
+Impossible Finance,Moonbeam,Launchpad
+Impossible Finance,OKExChain,Launchpad
+InVar Finance,Ethereum,RWA
+Inbuilt Finance,Kava,Yield
+Increment Lending,Flow,Lending
+Increment Liquid Staking,Flow,Liquid Staking
+Increment Swap,Flow,Dexes
+Index Coop,Ethereum,Indexes
+Indexed Finance,Ethereum,Indexes
+India Covid Relief Fund,Ethereum,Services
+Indigo,Cardano,CDP
+InfiniTORR,Bittorrent,Dexes
+Infinity Pad,Binance,Launchpad
+Infinity Pad,Celo,Launchpad
+Infinity Pad,Fuse,Launchpad
+Infy Protocol,Kava,NFT Lending
+Infy Protocol,Polygon,NFT Lending
+Injective Bridge,Ethereum,Bridge
+Instadapp,Ethereum,Services
+Instrumental Finance,Ethereum,Yield
+InsurAce,Avalanche,Insurance
+InsurAce,Binance,Insurance
+InsurAce,Ethereum,Insurance
+InsurAce,Polygon,Insurance
+InsureDAO,Arbitrum,Insurance
+InsureDAO,Astar,Insurance
+InsureDAO,Ethereum,Insurance
+InsureDAO,Optimism,Insurance
+Integral,Arbitrum,Dexes
+Integral,Ethereum,Dexes
+Intercroneswap,Binance,Dexes
+Intercroneswap,Bittorrent,Dexes
+Intercroneswap,Tron,Dexes
+Interest Protocol,Ethereum,CDP
+Interest Protocol-SUI,Sui,Dexes
+Interlay BTC,Interlay,Bridge
+Interlay Collateral,Interlay,Cross Chain
+Interlay Staking,Interlay,Liquid Staking
+Interport Finance,Arbitrum,Cross Chain
+Interport Finance,Avalanche,Cross Chain
+Interport Finance,Binance,Cross Chain
+Interport Finance,Ethereum,Cross Chain
+Interport Finance,Fantom,Cross Chain
+Interport Finance,Polygon,Cross Chain
+Inuswap,Dogechain,Dexes
+Invariant,Solana,Dexes
+Inverse Finance FiRM,Ethereum,CDP
+Inverse Finance Frontier,Ethereum,CDP
+Investin,Solana,Indexes
+InvictusDAO,Solana,Reserve Currency
+IoTeX Monster Go,IoTeX,Gaming
+Iron Bank,Avalanche,Lending
+Iron Bank,Ethereum,Lending
+Iron Bank,Fantom,Lending
+Iron Bank,Optimism,Lending
+Iron Finance,Avalanche,CDP
+Iron Finance,Fantom,CDP
+Iron Finance,Polygon,CDP
+JBC.Finance,Arbitrum,Leveraged Farming
+JLSwap,EOS EVM,Dexes
+JOJO,Binance,Derivatives
+JPEG'd,Ethereum,NFT Lending
+JPool,Solana,Liquid Staking
+JSwap,OKExChain,Dexes
+Jade Protocol,Ethereum,Reserve Currency
+JaguarSwap,Arbitrum,Yield
+Jarvis Network,Arbitrum,Derivatives
+Jarvis Network,Avalanche,Derivatives
+Jarvis Network,Binance,Derivatives
+Jarvis Network,Optimism,Derivatives
+Jarvis Network,Polygon,Derivatives
+Jarvis Network,xDai,Derivatives
+JediSwap,Starknet,Dexes
+Jelly,Ethereum,Yield
+Jet,Solana,Lending
+JetFuel Finance,Binance,Yield
+JetMine DAO,Fantom,Yield
+JetSwap,Binance,Dexes
+JetSwap,Fantom,Dexes
+JetSwap,Polygon,Dexes
+Jexchange,Elrond,Dexes
+JioSwap,Ethereum,Dexes
+JioSwap,GodwokenV1,Dexes
+JioSwap,Meter,Dexes
+Jito,Solana,Liquid Staking
+Joe V2,Arbitrum,Dexes
+Joe V2,Avalanche,Dexes
+Joe V2,Binance,Dexes
+Joe V2.1,Arbitrum,Dexes
+Joe V2.1,Avalanche,Dexes
+Joe V2.1,Binance,Dexes
+Jones DAO,Arbitrum,Options Vault
+Jones DAO,Ethereum,Options Vault
+Joystick Club,smartBCH,Gaming
+Juggler Red,Optimism,Dexes
+Juicebox V1,Ethereum,Launchpad
+Juicebox V2,Ethereum,Launchpad
+Juicebox V3,Ethereum,Launchpad
+Jujube Finance,Aptos,Dexes
+JulSwap,Binance,Dexes
+Jumbo Exchange,Near,Dexes
+Junoswap,Juno,Dexes
+Jupiter Aggregator,Solana,Dexes
+Jupiter Swap,Kava,Dexes
+Just Yield,Arbitrum,Yield Aggregator
+JustCryptos,Tron,Bridge
+JustLend,Tron,Lending
+JustMoney,Binance,Dexes
+JustMoney,Bittorrent,Dexes
+JustMoney,Ethereum,Dexes
+JustMoney,Polygon,Dexes
+JustMoney,Tron,Dexes
+JustStables,Tron,CDP
+KACO Finance,Binance,Dexes
+KACO Finance,Shiden,Dexes
+KDLaunch,Kadena,Launchpad
+KDSwap,Kadena,Dexes
+KDex,Kava,Dexes
+KEEP Network,Ethereum,Cross Chain
+KLAYstation,Klaytn,Liquid Staking
+KLEX Finance,Klaytn,Dexes
+KLend,Binance,Lending
+KLend,OKExChain,Lending
+KMex,Kava,Derivatives
+KPerp Exchange,Kava,Derivatives
+KSwap,Kava,Dexes
+KSwap Finance,OKExChain,Dexes
+KTX.Finance,Binance,Derivatives
+Kafe Finance,Cronos,Yield
+Kafe Finance,Moonriver,Yield
+KafiDAO,Kava,Farm
+Kagla Finance,Astar,Dexes
+Kaidex,Kardia,Dexes
+Kalata,Binance,Synthetics
+Kalmy App,Avalanche,Yield
+Kalmy App,Binance,Yield
+Kalmy App,Fantom,Yield
+Kamino,Solana,Liquidity manager
+Kandyland Finance,Avalanche,Reserve Currency
+Kanvas,Kava,NFT Marketplace
+KapaSwap,Kava,Dexes
+Karma DAO,Avalanche,Reserve Currency
+Karura Dollar (kUSD),Karura,Lending
+Karura Liquid-Staking,Karura,Liquid Staking
+Karura Swap,Karura,Dexes
+Kasava Dex,Kava,Dexes
+Kassandra DAO,Avalanche,Indexes
+Katana,Solana,Options Vault
+Katana DEX,Ronin,Dexes
+Kava Boost,Kava,Farm
+Kava Earn,Kava,Yield Aggregator
+Kava Football Club,Kava,Prediction Market
+Kava Lend,Kava,Lending
+Kava Liquid,Kava,Liquid Staking
+Kava Mint,Kava,CDP
+Kava Swap,Kava,Dexes
+Kavacave,Kava,Yield
+Kavastarter,Kava,Launchpad
+KawaiiSwap,Binance,Yield
+Kebab Finance,Binance,Dexes
+Keep3r Network,Ethereum,Derivatives
+KefirSwap,Kava,Dexes
+Kei Finance,Ethereum,Yield
+KekSwap,Kekchain,Dexes
+Ketchup Finance,Binance,Yield
+KibbleSwap,Dogechain,Dexes
+KillSwitch,Aurora,Yield Aggregator
+KillSwitch,Binance,Yield Aggregator
+KillSwitch,CLV,Yield Aggregator
+KillSwitch,Kucoin,Yield Aggregator
+Kimberlite,Arbitrum,Yield
+Kimberlite,Binance,Yield
+Kimberlite,CORE,Yield
+Kimberlite,Dogechain,Yield
+Kimberlite,Ethereum,Yield
+Kimberlite,Kava,Yield
+Kimberlite,Metis,Yield
+Kimberlite,Polygon,Yield
+Kimberlite,Polygon zkEVM,Yield
+Kimochi,Binance,Services
+Kine Finance,Avalanche,Yield
+Kine Finance,Binance,Yield
+Kine Finance,Ethereum,Yield
+Kine Finance,Polygon,Yield
+Kinesis Labs,Evmos,Dexes
+King Finance,Binance,Services
+KingDefi,Binance,Yield
+KingDefi,Polygon,Yield
+Kintsugi,Kintsugi,Cross Chain
+Kitty Finance,Avalanche,Algo-Stables
+Kitty Finance,Polygon,Algo-Stables
+Kivach,Obyte,Payments
+Klap,Klaytn,Lending
+KlayBank,Klaytn,Lending
+KlaySwap,Klaytn,Dexes
+Klaylend Finance,Klaytn,Farm
+Klayportal,Klaytn,Staking Pool
+Kleros,Ethereum,Services
+Kleros,xDai,Services
+Kleva Farm,Klaytn,Leveraged Farming
+Kleva Lend,Klaytn,Lending
+Klima DAO,Polygon,Reserve Currency
+Klondike Finance,Ethereum,Synthetics
+KnightSwap Finance,Binance,Dexes
+KnightSwap Finance,Fantom,Dexes
+Knights of Fantom,Fantom,Farm
+Knit Finance,Avalanche,Bridge
+Knit Finance,Binance,Bridge
+Knit Finance,Bitgert,Bridge
+Knit Finance,Ethereum,Bridge
+Knit Finance,Fantom,Bridge
+Knit Finance,Harmony,Bridge
+Knit Finance,Heco,Bridge
+Knit Finance,Kava,Bridge
+Knit Finance,Kucoin,Bridge
+Knit Finance,Milkomeda,Bridge
+Knit Finance,Moonbeam,Bridge
+Knit Finance,Moonriver,Bridge
+Knit Finance,OKExChain,Bridge
+Knit Finance,Polygon,Bridge
+Knit Finance,Reef,Bridge
+Knit Finance,Syscoin,Bridge
+Knit Finance,Telos,Bridge
+Knit Finance,xDai,Bridge
+Know-To-Earn,IoTeX,Services
+Koala Defi,Binance,Farm
+Koala Defi,Polygon,Farm
+KoffeeSwap,Kucoin,Dexes
+Kogefarm,Fantom,Yield
+Kogefarm,Kava,Yield
+Kogefarm,Moonriver,Yield
+Kogefarm,Polygon,Yield
+Kokoa Finance,Klaytn,CDP
+Kokomo Finance,Arbitrum,Lending
+Kokomo Finance,Optimism,Lending
+KokomoSwap,Binance,Dexes
+Kokonut Swap,Klaytn,Dexes
+Kolibri,Tezos,CDP
+Kommunitas,Polygon,Launchpad
+Korbit,Bitcoin,CEX
+Korbit,Ethereum,CEX
+Korbit,Ripple,CEX
+KordFi,Tezos,Yield
+Koyo Finance,Boba,Dexes
+KriyaDEX,Sui,Dexes
+Kromatika,Arbitrum,Dexes
+Kromatika,Ethereum,Dexes
+Kromatika,Optimism,Dexes
+Kronos DAO,Klaytn,Reserve Currency
+KronosDAO,Binance,Reserve Currency
+KryptoDex,Cronos,Dexes
+KuSwap,Kucoin,Dexes
+Kucoin,Algorand,CEX
+Kucoin,Arbitrum,CEX
+Kucoin,Bitcoin,CEX
+Kucoin,EOS,CEX
+Kucoin,Ethereum,CEX
+Kucoin,Kucoin,CEX
+Kucoin,Optimism,CEX
+Kucoin,Tron,CEX
+Kujira Orca,Kujira,Services
+Kumu Finance,Klaytn,Yield
+KungFuu,Fantom,Yield
+Kuu Finance,Avalanche,Dexes
+Kwenta,Optimism,Derivatives
+KwikSwap,Binance,Dexes
+KwikSwap,Ethereum,Dexes
+KwikSwap,Polygon,Dexes
+KwikSwap,Shiden,Dexes
+KyberSwap Classic,Arbitrum,Dexes
+KyberSwap Classic,Aurora,Dexes
+KyberSwap Classic,Avalanche,Dexes
+KyberSwap Classic,Binance,Dexes
+KyberSwap Classic,Bittorrent,Dexes
+KyberSwap Classic,Cronos,Dexes
+KyberSwap Classic,Ethereum,Dexes
+KyberSwap Classic,Fantom,Dexes
+KyberSwap Classic,Oasis,Dexes
+KyberSwap Classic,Optimism,Dexes
+KyberSwap Classic,Polygon,Dexes
+KyberSwap Classic,Velas,Dexes
+KyberSwap Elastic,Arbitrum,Dexes
+KyberSwap Elastic,Avalanche,Dexes
+KyberSwap Elastic,Binance,Dexes
+KyberSwap Elastic,Cronos,Dexes
+KyberSwap Elastic,Ethereum,Dexes
+KyberSwap Elastic,Fantom,Dexes
+KyberSwap Elastic,Optimism,Dexes
+KyberSwap Elastic,Polygon,Dexes
+Kyborg Exchange,Arbitrum,Dexes
+KyotoSwap,Binance,Dexes
+Kyrios Finance,Fantom,Yield
+LFGSwap Arbitrum,Arbitrum,Dexes
+LFGSwap Core,CORE,Dexes
+LFGSwap EthereumPoW,EthereumPoW,Dexes
+LIFE,Fantom,Farm
+LNS,smartBCH,Dexes
+LSDx ETHx,Ethereum,Indexes
+LSDx Farm,Ethereum,Farm
+LUSD ChickenBonds,Ethereum,Yield Aggregator
+LaDAO Xocolatl,Binance,CDP
+LaDAO Xocolatl,Polygon,CDP
+Lachain Yield Market,Lachain,Yield
+Ladex Exchange,Lachain,Dexes
+Lago Bridge,Ethereum,Bridge
+Landshare,Binance,RWA
+LanternSwap,Kava,Dexes
+Larix,Solana,Lending
+LaserSwap,ThunderCore,Dexes
+Latoken,Algorand,CEX
+Latoken,Avalanche,CEX
+Latoken,Binance,CEX
+Latoken,Bitcoin,CEX
+Latoken,Cardano,CEX
+Latoken,Cosmos,CEX
+Latoken,EOS,CEX
+Latoken,Elrond,CEX
+Latoken,Ethereum,CEX
+Latoken,EthereumClassic,CEX
+Latoken,Optimism,CEX
+Latoken,Polkadot,CEX
+Latoken,Polygon,CEX
+Latoken,Solana,CEX
+Latoken,Terra,CEX
+Latoken,Terra2,CEX
+Latoken,Tezos,CEX
+Latoken,Tron,CEX
+Latoken,Zilliqa,CEX
+LatteSwap,Binance,Dexes
+Lavafall,Fantom,Yield
+Layer2 Finance,Ethereum,Yield
+LazyFi,Near,Gaming
+LeagueDAO,Ethereum,Reserve Currency
+LeetSwap,Canto,Dexes
+LeetSwap,Polygon zkEVM,Dexes
+Lemma,Optimism,Derivatives
+LemonSwap,Binance,Yield
+Lemuria Finance,Milkomeda,Yield Aggregator
+LendFlare,Ethereum,Lending
+LendHub,Heco,Lending
+LendeXe Finance,Ethereum,Lending
+Lending Pond,Cardano,Lending
+Lenen,Vision,Lending
+LeonicornSwap,Binance,Dexes
+Level Finance,Binance,Derivatives
+Levinswap,xDai,Dexes
+LiNEAR Protocol,Near,Liquid Staking
+Libero Financial,Binance,Yield
+Libre Swap,Libre,Dexes
+Lido,Ethereum,Liquid Staking
+Lido,Moonbeam,Liquid Staking
+Lido,Moonriver,Liquid Staking
+Lido,Solana,Liquid Staking
+Lido,Terra,Liquid Staking
+Lien,Ethereum,Options
+Lif3 Swap,Binance,Dexes
+Lif3 Swap,Polygon,Dexes
+Lif3 Swap,Tombchain,Dexes
+Lif3 Trade,Binance,Derivatives
+Lif3 Trade,Fantom,Derivatives
+Life DAO,Avalanche,Reserve Currency
+Lifinity,Solana,Dexes
+Lighter,Arbitrum,Dexes
+Lightning Network,Bitcoin,Payments
+Linear Finance,Binance,Derivatives
+Lion Commerce,Kava,Services
+LionDEX,Arbitrum,Derivatives
+Liqee,Binance,Lending
+Liqee,Ethereum,Lending
+Liquid Bolt,Arbitrum,Yield
+Liquid Bolt,Binance,Yield
+Liquid Bolt,Fantom,Yield
+Liquid Bolt,Polygon,Yield
+Liquid Driver,Binance,Yield
+Liquid Driver,Fantom,Yield
+Liquid Finance,Arbitrum,Yield
+LiquidSwap,Aptos,Dexes
+Liquidity Finance,Kava,Dexes
+Liquidrium,Arbitrum,Yield
+Liquidrium,Ethereum,Yield
+Liquidrium,Polygon,Yield
+Liquify,CORE,Dexes
+Liquity,Ethereum,CDP
+Liqwid,Cardano,Lending
+Lixir Finance,Ethereum,Liquidity manager
+Lizard,Oasis,Dexes
+Llama Airforce,Ethereum,Yield
+LlamaPay,Arbitrum,Payments
+LlamaPay,Avalanche,Payments
+LlamaPay,Binance,Payments
+LlamaPay,Ethereum,Payments
+LlamaPay,Fantom,Payments
+LlamaPay,Meter,Payments
+LlamaPay,Metis,Payments
+LlamaPay,Optimism,Payments
+LlamaPay,Polygon,Payments
+LlamaPay,xDai,Payments
+Llamalend,Ethereum,NFT Lending
+LoTerra,Terra,Prediction Market
+Lobis,Ethereum,Reserve Currency
+Lockless Protocol,Echelon,Liquid Staking
+Lockless Protocol,Kava,Liquid Staking
+Lodestar Finance,Arbitrum,Lending
+Lofty,Algorand,RWA
+Logium,Ethereum,Derivatives
+Longdrink,Binance,Indexes
+LooksRare,Ethereum,NFT Marketplace
+Loop Finance,Juno,Dexes
+Loop Finance,Terra,Dexes
+Loopring,Ethereum,Dexes
+LootSwap,Harmony,Dexes
+Louverture,Avalanche,Yield
+LowcostSwap,Binance,Yield
+LuaSwap,Ethereum,Dexes
+LuaSwap,TomoChain,Dexes
+Luchadores,Polygon,Gaming
+LuckyChip,Binance,Prediction Market
+LumenSwap,Stellar,Dexes
+Luminous Finance,Tron,Dexes
+LunaFi,Polygon,Prediction Market
+Lunagens,Lung,Dexes
+Luxor Money,Fantom,Reserve Currency
+LuxsFi,Arbitrum,Yield Aggregator
+LuxsFi,Binance,Yield Aggregator
+LuxsFi,Optimism,Yield Aggregator
+LuxsFi,Polygon,Yield Aggregator
+Lybra Finance,Ethereum,CDP
+Lydia,Avalanche,Dexes
+Lympo,Polygon,Gaming
+Lyra,Arbitrum,Options
+Lyra,Ethereum,Options
+Lyra,Optimism,Options
+MANTRA DAO,Binance,Lending
+MANTRA DAO,Ethereum,Lending
+MANTRA DAO,Polygon,Lending
+MCDEX,Arbitrum,Dexes
+MCDEX,Binance,Dexes
+MCDEX,Ethereum,Dexes
+MDEX,Binance,Dexes
+MDEX,Bittorrent,Dexes
+MDEX,Heco,Dexes
+MERLIN DEX,zkSync Era,Dexes
+METF Finance,Cronos,Yield
+MFIL Protocol,Filecoin,Liquid Staking
+MFinance,Ethereum,Yield
+MIND Games,Arbitrum,Dexes
+MM Finance Arbitrum,Arbitrum,Dexes
+MM Finance Arbitrum V3,Arbitrum,Dexes
+MM Finance Cronos,Cronos,Dexes
+MM Finance Polygon,Polygon,Dexes
+MM Optimizer,Cronos,Yield Aggregator
+MM Optimizer Polygon,Polygon,Yield Aggregator
+MM Stableswap,Cronos,Dexes
+MM Stableswap Polygon,Polygon,Dexes
+MMO Finance,Ethereum,NFT Lending
+MOBOX,Binance,Gaming
+MUX Protocol,Arbitrum,Derivatives
+MUX Protocol,Avalanche,Derivatives
+MUX Protocol,Binance,Derivatives
+MUX Protocol,Fantom,Derivatives
+MUX Protocol,Optimism,Derivatives
+MYSO,Arbitrum,Lending
+MYSO,Ethereum,Lending
+MacaronSwap,Binance,Dexes
+MacaronSwap,Polygon,Dexes
+Madmex,Polygon,Derivatives
+Maestro,Ethereum,Services
+Magic Land,Arbitrum,Yield
+Magic Land,IoTeX,Yield
+Magik Farm,Aurora,Yield Aggregator
+Magik Farm,Avalanche,Yield Aggregator
+Magik Farm,Binance,Yield Aggregator
+Magik Farm,Cronos,Yield Aggregator
+Magik Farm,Fantom,Yield Aggregator
+Magik Finance AlgoStable,Fantom,Algo-Stables
+Magnet DAO,Avalanche,Algo-Stables
+Magpie,Arbitrum,Yield
+Magpie,Binance,Yield
+MahaDAO Arth,Binance,CDP
+MahaDAO Arth,Ethereum,CDP
+MahaDAO Arth,Polygon,CDP
+MahaLend,Arbitrum,Lending
+MahaLend,Ethereum,Lending
+Maia DAO,Metis,Reserve Currency
+Maia V3,Metis,Dexes
+MakerDAO,Ethereum,CDP
+MakiSwap,Heco,Dexes
+Mama DAO,Polygon,Reserve Currency
+Manarium,Binance,Gaming
+Mango Markets,Solana,Lending
+Manhattan,Moonbeam,Yield
+Manhattan,Polygon,Yield
+Manifest,Ethereum,Services
+Manifesto,Canto,Reserve Currency
+MantisSwap,Polygon,Dexes
+Maple,Ethereum,Uncollateralized Lending
+Maple,Solana,Uncollateralized Lending
+MapleDeFi,Binance,Yield
+Mare Finance,Kava,Lending
+MarginSwap,Avalanche,Dexes
+MarginSwap,Binance,Dexes
+MarginSwap,Ethereum,Dexes
+MarginSwap,Polygon,Dexes
+Marinade Finance,Solana,Liquid Staking
+Market,Fantom,Lending
+Market,Polygon,Lending
+Mars Ecosystem,Binance,CDP
+Mars Poolin,Ethereum,Yield
+Mars Protocol,Osmosis,Lending
+Mars Protocol,Terra,Lending
+MarshmallowDeFi,Binance,Yield
+MaskEX,Binance,CEX
+MaskEX,Ethereum,CEX
+MaskEX,Tron,CEX
+Matrix Farm,Arbitrum,Yield Aggregator
+Matrix Farm,Binance,Yield Aggregator
+Matrix Farm,Dogechain,Yield Aggregator
+Matrix Farm,Fantom,Yield Aggregator
+Matrix Farm,Optimism,Yield Aggregator
+MatrixDock,Ethereum,RWA
+Matter Defi,Tezos,Yield
+Maverick Protocol,Ethereum,Dexes
+Maverick Protocol,zkSync Era,Dexes
+Maximizer,Avalanche,Reserve Currency
+Mayfair Fund,Arbitrum,Farm
+Mean Finance,Arbitrum,Services
+Mean Finance,Binance,Services
+Mean Finance,Ethereum,Services
+Mean Finance,Optimism,Services
+Mean Finance,Polygon,Services
+Megaton Finance,TON,Dexes
+Meld,Cardano,Lending
+Meld Gold,Algorand,RWA
+Mellow Protocol,Ethereum,Yield Aggregator
+Mellow Protocol,Polygon,Yield Aggregator
+Meme Dollar,Ethereum,Algo-Stables
+MemeDex,Conflux,Dexes
+Mensa Protocol,Fantom,Lending
+Mento,Bitcoin,Algo-Stables
+Mento,Celo,Algo-Stables
+Mento,Ethereum,Algo-Stables
+MeowSwapFi,Cardano,Dexes
+Meowswap,Binance,Yield
+Mercurity,Ethereum,Dexes
+Merit Circle,Ethereum,Launchpad
+Merkl,Arbitrum,Yield
+Merkl,Ethereum,Yield
+Merkl,Optimism,Yield
+Merkl,Polygon,Yield
+Merlin,Binance,Yield
+Mero,Ethereum,Yield
+Mesher,Ethereum,Lending
+Mesher,Klaytn,Lending
+Meshswap,Polygon,Dexes
+Meso Finance,Fantom,Yield
+MessinaOne,Algorand,Cross Chain
+MessinaOne,Cronos,Cross Chain
+MessinaOne,Ethereum,Cross Chain
+MessinaOne,Polygon,Cross Chain
+Meta Pool,Aurora,Liquid Staking
+Meta Pool,Near,Liquid Staking
+MetaCoin Swap,Binance,Dexes
+MetaCrono,Cronos,Yield Aggregator
+MetaID,Kava,Staking Pool
+MetaMask,Ethereum,Services
+MetaReserve,Binance,Reserve Currency
+MetaStreet,Ethereum,Lending
+MetaSwap,EOS EVM,Dexes
+MetaTdex,Binance,Dexes
+MetaTdex,Heco,Dexes
+MetaTdex,Polygon,Dexes
+MetalSwap,Binance,Derivatives
+MetalSwap,Ethereum,Derivatives
+MetalSwap,Polygon,Derivatives
+Metapoly,Ethereum,Lending
+Metapoly,Kava,Lending
+Metavault Binary Options,Polygon,Options
+Metavault DAO,Ethereum,Services
+Metavault DAO,Polygon,Services
+Metavault.Trade,Polygon,Derivatives
+Metaversepro,Binance,Reserve Currency
+Metavisor,Arbitrum,Liquidity manager
+Metavisor,Binance,Liquidity manager
+Metavisor,Ethereum,Liquidity manager
+Metavisor,Optimism,Liquidity manager
+Metavisor,Polygon,Liquidity manager
+Meteora pools,Solana,Dexes
+Meteora vaults,Solana,Yield Aggregator
+Meter Passport,Avalanche,Bridge
+Meter Passport,Binance,Bridge
+Meter Passport,Ethereum,Bridge
+Meter Passport,Meter,Bridge
+Meter Passport,Moonbeam,Bridge
+Meter Passport,Moonriver,Bridge
+Meter Passport,Polygon,Bridge
+Meter Passport,Theta,Bridge
+Metronome Synth,Ethereum,Synthetics
+Metronome V1,Ethereum,Services
+Metropolis,Fantom,Dexes
+Midas Capital,Arbitrum,Lending
+Midas Capital,Binance,Lending
+Midas Capital,Moonbeam,Lending
+Midas Capital,Polygon,Lending
+MidasDAO,Avalanche,Reserve Currency
+Milko Farm,Milkomeda,Farm
+Milkomeda-C1 Djed,Milkomeda,CDP
+Milky Cow,Milkomeda,Algo-Stables
+MilkySwap,Milkomeda,Dexes
+MilkyWay,Milkomeda,Lending
+Milkydex,Milkomeda,Dexes
+Mimas Finance,Cronos,Lending
+Mimo,IoTeX,Dexes
+Mimo Protocol,Ethereum,CDP
+Mimo Protocol,Fantom,CDP
+Mimo Protocol,Polygon,CDP
+MinMax Finance,IoTeX,Dexes
+MinerSwap,EthereumPoW,Dexes
+MiniPanther DAO,Fantom,Reserve Currency
+MiniSwap,Ethereum,Dexes
+MiniVerse Finance,Fantom,Algo-Stables
+Minimax,Binance,Yield Aggregator
+MiningTycoon,Binance,Gaming
+Minotaur Money,Cronos,Reserve Currency
+Minswap,Cardano,Dexes
+Mint Club,Binance,Launchpad
+MintSwap,Avalanche,Services
+Minto,Binance,Yield
+Minto,Heco,Yield
+Mirai,Polygon,Yield
+Mirror,Terra,Derivatives
+MistSwap,smartBCH,Dexes
+MixSwap Finance,Binance,Farm
+Mobius Finance,Polygon,Synthetics
+Mobius Money,Celo,Dexes
+MochiFi,Ethereum,Lending
+MochiSwap,Binance,Dexes
+MochiSwap,Harmony,Dexes
+Mockingbird,Fantom,Farm
+MojitoSwap,Kucoin,Dexes
+Mole,Aptos,Yield
+Mole,Sui,Yield
+MoneyOnChain,RSK,Lending
+Moneyrain Finance,Fantom,Yield
+MonoX,Ethereum,Dexes
+MonoX,Polygon,Dexes
+Monoceros,Kava,Yield
+Monolith,Ethereum,Yield Aggregator
+Monopoly Finance,Arbitrum,Farm
+Monster,Fantom,Gaming
+Moola Market,Celo,Lending
+Moon Flower Farmers,Aurora,Yield
+Moon Swap,Conflux,Dexes
+MoonDao,Moonriver,Reserve Currency
+MoonFarm,Avalanche,Yield
+MoonFarm,Binance,Yield
+MoonFarm,Ethereum,Yield
+MoonFarm,Fantom,Yield
+MoonFarm,Kava,Yield
+MoonFarm,Polygon,Yield
+MoonFarm,Solana,Yield
+MoonFarm,Terra,Yield
+MoonLift,Binance,Dexes
+Moonbase Alpha,Arbitrum,Dexes
+Moonbeam,Moonbeam,Chain
+MooniSwap,Ethereum,Dexes
+Moonpot,Binance,Yield
+Moonpot,Fantom,Yield
+Moonswap,Moonriver,Dexes
+Moonwell Apollo,Moonriver,Lending
+Moonwell Artemis,Moonbeam,Lending
+Moremoney,Avalanche,Lending
+Moret,Polygon,Options
+Morpheus Swap,Fantom,Dexes
+Morphex,Fantom,Derivatives
+Morpho Aave,Ethereum,Lending
+Morpho AaveV3,Ethereum,Lending
+Morpho Compound,Ethereum,Lending
+Mosquitos Finance,Aptos,Yield
+Mover,Ethereum,Yield
+Mover,Polygon,Yield
+MuesliSwap,Cardano,Dexes
+MuesliSwap,Milkomeda,Dexes
+Muffin,Ethereum,Dexes
+MugenFinance,Arbitrum,Yield Aggregator
+Multi-Chain Miner,Avalanche,Yield
+Multi-Chain Miner,Binance,Yield
+Multi-Chain Miner,Fantom,Yield
+Multi-Chain Miner,Polygon,Yield
+Multialt,Kava,Yield
+Multichain,Arbitrum,Bridge
+Multichain,Arbitrum Nova,Bridge
+Multichain,Astar,Bridge
+Multichain,Aurora,Bridge
+Multichain,Avalanche,Bridge
+Multichain,Binance,Bridge
+Multichain,Bitgert,Bridge
+Multichain,Bittorrent,Bridge
+Multichain,Boba,Bridge
+Multichain,CLV,Bridge
+Multichain,Celo,Bridge
+Multichain,Conflux,Bridge
+Multichain,Cronos,Bridge
+Multichain,Cube,Bridge
+Multichain,DFK,Bridge
+Multichain,Dogechain,Bridge
+Multichain,Ethereum,Bridge
+Multichain,EthereumClassic,Bridge
+Multichain,EthereumPoW,Bridge
+Multichain,Evmos,Bridge
+Multichain,Fantom,Bridge
+Multichain,Fuse,Bridge
+Multichain,Fusion,Bridge
+Multichain,GodwokenV1,Bridge
+Multichain,Harmony,Bridge
+Multichain,Heco,Bridge
+Multichain,Hoo,Bridge
+Multichain,IoTeX,Bridge
+Multichain,Kardia,Bridge
+Multichain,Kava,Bridge
+Multichain,Klaytn,Bridge
+Multichain,Kucoin,Bridge
+Multichain,Metis,Bridge
+Multichain,Milkomeda,Bridge
+Multichain,Milkomeda A1,Bridge
+Multichain,Moonbeam,Bridge
+Multichain,Moonriver,Bridge
+Multichain,OKExChain,Bridge
+Multichain,Oasis,Bridge
+Multichain,OntologyEVM,Bridge
+Multichain,Optimism,Bridge
+Multichain,Polygon,Bridge
+Multichain,Polygon zkEVM,Bridge
+Multichain,REI,Bridge
+Multichain,RSK,Bridge
+Multichain,Ronin,Bridge
+Multichain,Shiden,Bridge
+Multichain,Syscoin,Bridge
+Multichain,Telos,Bridge
+Multichain,ThunderCore,Bridge
+Multichain,TomoChain,Bridge
+Multichain,Velas,Bridge
+Multichain,smartBCH,Bridge
+Multichain,xDai,Bridge
+Multiplier,Binance,Lending
+Multiplier,Ethereum,Lending
+Mummy Finance,Fantom,Derivatives
+Mummy Finance,Optimism,Derivatives
+Murica,Fantom,Algo-Stables
+Mushrooms Finance,Avalanche,Yield Aggregator
+Mushrooms Finance,Binance,Yield Aggregator
+Mushrooms Finance,Ethereum,Yield Aggregator
+Mushrooms Finance,Fantom,Yield Aggregator
+Mushrooms Finance,Polygon,Yield Aggregator
+Mute.io,zkSync Era,Dexes
+Muuu Finance,Astar,Yield
+MyMetaTrader,Arbitrum,Derivatives
+MyMine,Fantom,Yield
+MyTrade,Moonbeam,Dexes
+MyTrade,Polygon,Dexes
+Mycelium Perpetual Pools,Arbitrum,Derivatives
+Mycelium Perpetual Swaps,Arbitrum,Derivatives
+N3RD Finance,Ethereum,Yield
+NAOS Finance,Binance,RWA
+NAOS Finance,Ethereum,RWA
+NBX,Bitcoin,CEX
+NBX,Cardano,CEX
+NBX,Ethereum,CEX
+NEOPIN Pool,Ethereum,Dexes
+NEOPIN Pool,Klaytn,Dexes
+NEOPIN Pool,Polygon,Dexes
+NEOPIN Staking,Klaytn,Liquid Staking
+NEOPIN Staking,Tron,Liquid Staking
+NEUY,Ethereum,Services
+NEUY,Polygon,Services
+NEX,Aurora,Derivatives
+NEX,Optimism,Derivatives
+NF3 APE,Ethereum,Liquid Staking
+NFT20,Ethereum,NFT Marketplace
+NFT20,Polygon,NFT Marketplace
+NFT360,Kava,NFT Marketplace
+NFTEarth,Ethereum,NFT Marketplace
+NFTX,Arbitrum,NFT Marketplace
+NFTX,Ethereum,NFT Marketplace
+NFTb,Binance,Yield
+NFTfi,Ethereum,NFT Lending
+NUDES,NEO,Liquid Staking
+NULS POCM,Nuls,Services
+NUON Finance,Arbitrum,CDP
+Nacho Finance,Polygon,Yield
+Narwhalswap,Binance,Dexes
+Nasdex,Polygon,Dexes
+Native,Binance,Dexes
+Native,Ethereum,Dexes
+Nava finance,REI,Algo-Stables
+Nearpad,Aurora,Dexes
+Neku,Arbitrum,Lending
+Neku,Binance,Lending
+Neku,Moonriver,Lending
+Nemesis DAO,Binance,Reserve Currency
+NeoBurger,NEO,Liquid Staking
+Neptune Mutual,Arbitrum,Insurance
+Neptune Mutual,Ethereum,Insurance
+Nereus Finance,Avalanche,Lending
+Nerve,Binance,Dexes
+Nerve Staking,Nuls,Dexes
+NerveBridge,Arbitrum,Bridge
+NerveBridge,Avalanche,Bridge
+NerveBridge,Binance,Bridge
+NerveBridge,Cronos,Bridge
+NerveBridge,ENULS,Bridge
+NerveBridge,Ethereum,Bridge
+NerveBridge,EthereumPoW,Bridge
+NerveBridge,Fantom,Bridge
+NerveBridge,Harmony,Bridge
+NerveBridge,Heco,Bridge
+NerveBridge,IoTeX,Bridge
+NerveBridge,Kava,Bridge
+NerveBridge,Klaytn,Bridge
+NerveBridge,Kucoin,Bridge
+NerveBridge,Metis,Bridge
+NerveBridge,Nuls,Bridge
+NerveBridge,OKExChain,Bridge
+NerveBridge,Optimism,Bridge
+NerveBridge,Polygon,Bridge
+NerveBridge,REI,Bridge
+NerveBridge,Tron,Bridge
+NerveBridge,smartBCH,Bridge
+NerveBridge,zkSync Era,Bridge
+NerveSwap,Nuls,Dexes
+Nest Protocol Staking,Binance,Oracle
+Nest Protocol Staking,Ethereum,Oracle
+Nest Protocol Staking,Kucoin,Oracle
+Nest Protocol Staking,Polygon,Oracle
+NestFi,Binance,Derivatives
+NestFi,Ethereum,Derivatives
+Nested,Arbitrum,Services
+Nested,Avalanche,Services
+Nested,Binance,Services
+Nested,Ethereum,Services
+Nested,Optimism,Services
+Nested,Polygon,Services
+NetSwap,Metis,Dexes
+Neuronswap,Klaytn,Dexes
+Neutra Finance,Arbitrum,Yield
+Neutrino,Waves,Indexes
+Neutroswap,EOS EVM,Dexes
+NewDex,EOS,Dexes
+NewSpace Finance,Binance,Farm
+Newland,Ethereum,Yield
+Newland,Heco,Yield
+Nexo,Arbitrum,CEX
+Nexo,Avalanche,CEX
+Nexo,Binance,CEX
+Nexo,Ethereum,CEX
+Nexo,Fantom,CEX
+Nexo,Optimism,CEX
+Nexo,Polygon,CEX
+Nexus Mutual,Ethereum,Insurance
+Nexus Protocol,Terra,Yield
+Nidhi-Dao,Polygon,Reserve Currency
+Nightmare Finance,Fantom,Farm
+NiiFi,Nahmii,Dexes
+Nileriver,Moonriver,Yield
+Niob Finance,Binance,Dexes
+Nirvana,Solana,CDP
+Nitron,Carbon,CDP
+Noah Swap,EOS EVM,Dexes
+NoahArkDAO,Avalanche,Reserve Currency
+NodeDAO,Ethereum,Liquid Staking
+NodeDAO,Filecoin,Liquid Staking
+Nomad,Ethereum,Bridge
+Nomad,Evmos,Bridge
+Nomad,Milkomeda,Bridge
+Nomad,Moonbeam,Bridge
+Nomiswap,Binance,Dexes
+Nord Finance,Avalanche,Yield Aggregator
+Nord Finance,Ethereum,Yield Aggregator
+Nord Finance,Polygon,Yield Aggregator
+North Pole,Avalanche,CDP
+Nostra,Starknet,CDP
+Notiboy,Algorand,Services
+Notional,Ethereum,Lending
+Nouns,Ethereum,Services
+NowSwap,Ethereum,Dexes
+Nsure,Ethereum,Insurance
+Nucleon,Conflux,Liquid Staking
+Nuls,Nuls,Chain
+Numbers Protocol,Binance,Services
+Numbers Protocol,Ethereum,Services
+NumisMe,Ethereum,Yield
+Numoen,Arbitrum,Derivatives
+Numoen,Celo,Derivatives
+Numoen,Polygon,Derivatives
+Nutbox,Binance,Services
+Nutbox,ENULS,Services
+O2 DAO,Avalanche,Reserve Currency
+O3 Swap,Arbitrum,Cross Chain
+O3 Swap,Astar,Cross Chain
+O3 Swap,Avalanche,Cross Chain
+O3 Swap,Binance,Cross Chain
+O3 Swap,Bitgert,Cross Chain
+O3 Swap,Celo,Cross Chain
+O3 Swap,Cube,Cross Chain
+O3 Swap,Ethereum,Cross Chain
+O3 Swap,Fantom,Cross Chain
+O3 Swap,Kucoin,Cross Chain
+O3 Swap,Metis,Cross Chain
+O3 Swap,Optimism,Cross Chain
+O3 Swap,Polygon,Cross Chain
+O3 Swap,xDai,Cross Chain
+OBSwap,EOS,Dexes
+OCP Finance,Binance,Lending
+OCTOplace,Kava,NFT Marketplace
+OCTOplace,Theta,NFT Marketplace
+OGX,EOS,Synthetics
+OHMPOW,EthereumPoW,Dexes
+OKC Liquid Staking,OKExChain,Liquid Staking
+OKCSwap,OKExChain,Dexes
+OKX,Arbitrum,CEX
+OKX,Avalanche,CEX
+OKX,Bitcoin,CEX
+OKX,Ethereum,CEX
+OKX,Optimism,CEX
+OKX,Polygon,CEX
+OKX,Tron,CEX
+OPX Finance,Optimism,Derivatives
+ORA Finance,Aurora,Algo-Stables
+ORIO,Ethereum,Yield
+OSWAP Token,Obyte,Yield
+OVR,Ethereum,Services
+OVR,Polygon,Services
+OakFarm,OKExChain,Yield
+OasisSwap,Arbitrum,Dexes
+Oaswap,Oasis,Dexes
+Obric,Aptos,Dexes
+OccamX,Milkomeda,Dexes
+Ocean One,Mixin,Dexes
+Oceanus,Metis,Algo-Stables
+Octane Finance,Binance,Dexes
+OctoLSD,Ethereum,Yield
+OctoPow Finance,EthereumPoW,Dexes
+Octus Bridge,Avalanche,Bridge
+Octus Bridge,Binance,Bridge
+Octus Bridge,Ethereum,Bridge
+Octus Bridge,Everscale,Bridge
+Octus Bridge,Fantom,Bridge
+Octus Bridge,Milkomeda,Bridge
+Octus Bridge,Polygon,Bridge
+Oddz,Avalanche,Options
+Oddz,Binance,Options
+Oh Finance,Avalanche,Yield
+Oh Finance,Ethereum,Yield
+Oh Finance,Metis,Yield
+Oh Finance,Moonriver,Yield
+Oin Finance,Ethereum,Algo-Stables
+Oin Finance,Harmony,Algo-Stables
+Oin Finance,Near,Algo-Stables
+Olive,Arbitrum,Options Vault
+Olive,Ethereum,Options Vault
+Olive,Polygon,Options Vault
+Olive Cash,Avalanche,Yield
+Olive Cash,Binance,Yield
+Olive Cash,Fantom,Yield
+OliveDAO,Polygon,Yield
+Olympus DAO,Ethereum,Reserve Currency
+Olympus Finance,Fantom,Algo-Stables
+Omax Swap,Omax,Dexes
+Omicron,Arbitrum,Reserve Currency
+Omm,Icon,Lending
+Omni Protocol,Ethereum,Lending
+OmniDex Perpetuals,Telos,Derivatives
+OmniDex Swap,Telos,Dexes
+Omnidex Lend,Telos,Lending
+OnX Finance,Avalanche,Yield Aggregator
+OnX Finance,Ethereum,Yield Aggregator
+OnX Finance,Fantom,Yield Aggregator
+OnX Finance,Polygon,Yield Aggregator
+Onchain Trade,zkSync Era,Derivatives
+Ondo Finance,Ethereum,RWA
+Ondo v1 (Legacy),Ethereum,Yield
+One Cash,Ethereum,Yield
+OneDAO Finance,Harmony,Reserve Currency
+OnePunchSwap,Binance,Dexes
+OneRing,Fantom,Yield
+OneRing,Polygon,Yield
+OneSwap,Binance,Dexes
+OneSwap,CSC,Dexes
+OneSwap,Ethereum,Dexes
+OneSwap,Tron,Dexes
+Oni Exchange,Binance,Dexes
+Only1,Solana,NFT Marketplace
+Onsen Swap,zkSync Era,Dexes
+Onyx Protocol,Ethereum,Lending
+OnyxDAO,Arbitrum,Farm
+Ooki,Arbitrum,Lending
+Ooki,Binance,Lending
+Ooki,Ethereum,Lending
+Ooki,Optimism,Lending
+Ooki,Polygon,Lending
+OolongSwap,Boba,Dexes
+OortSwap,REI,Dexes
+OpenBiSea,Aurora,Dexes
+OpenBiSea,Binance,Dexes
+OpenBiSea,Kava,Dexes
+OpenBiSea,Polygon,Dexes
+OpenBook,Solana,Dexes
+OpenDAO,Binance,Algo-Stables
+OpenDAO,Ethereum,Algo-Stables
+OpenLeverage,Arbitrum,Dexes
+OpenLeverage,Binance,Dexes
+OpenLeverage,Ethereum,Dexes
+OpenLeverage,Kucoin,Dexes
+OpenOcean,Avalanche,Dexes
+OpenOcean,Binance,Dexes
+OpenOcean,Ethereum,Dexes
+OpenOcean,Kava,Dexes
+OpenOcean,Polygon,Dexes
+OpenSea V1,Ethereum,NFT Marketplace
+OpenSea V2,Ethereum,NFT Marketplace
+OpenSky Finance,Ethereum,NFT Lending
+OpenSwap,Harmony,Dexes
+OpenXswap,Optimism,Dexes
+Opensea Seaport,Ethereum,NFT Marketplace
+Opium,Arbitrum,Options
+Opium,Binance,Options
+Opium,Ethereum,Options
+Opium,Polygon,Options
+OptiFi,Solana,Options
+OptiNyan,Optimism,Yield
+Optidoge,Optimism,Yield
+Optim Finance,Cardano,Lending
+Optimism Foundation,Optimism,Services
+Optimus,Icon,Yield
+Option Dance,Mixin,Options
+Optitude Finance,Optimism,Yield Aggregator
+Optyfi,Ethereum,Yield Aggregator
+Optyfi,Polygon,Yield Aggregator
+Opyn Convexity,Ethereum,Options
+Opyn Gamma,Avalanche,Options
+Opyn Gamma,Ethereum,Options
+Opyn Gamma,Polygon,Options
+Opyn Squeeth,Ethereum,Derivatives
+Oracle Swap,Songbird,Dexes
+OraiChain,Binance,Yield
+OraiChain,Ethereum,Yield
+OraiDEX,Orai,Dexes
+Orbit,Polygon,Services
+Orbit Bridge,Binance,Bridge
+Orbit Bridge,Celo,Bridge
+Orbit Bridge,Ethereum,Bridge
+Orbit Bridge,Heco,Bridge
+Orbit Bridge,Klaytn,Bridge
+Orbit Bridge,Meta,Bridge
+Orbit Bridge,Polygon,Bridge
+Orbit Bridge,Ripple,Bridge
+Orbit Bridge,TON,Bridge
+Orbit Bridge,WEMIX,Bridge
+OrbitalSwap,Binance,Dexes
+Orca,Solana,Dexes
+OrcaDAO,Avalanche,Lending
+Orcus Finance,Astar,Algo-Stables
+OrderNChaos,Arbitrum,Algo-Stables
+OrderNChaos,Avalanche,Algo-Stables
+OrderNChaos,Binance,Algo-Stables
+OrderNChaos,Kava,Algo-Stables
+OrderNChaos,zkSync Era,Algo-Stables
+Orderly Network,Near,Dexes
+OreoSwap,Arbitrum,Dexes
+Origin Dollar,Ethereum,Yield Aggregator
+Origin Ether,Ethereum,Yield Aggregator
+Orion Money,Ethereum,Yield
+Orion Protocol,Binance,Dexes
+Orion Protocol,Ethereum,Dexes
+Osmosis DEX,Osmosis,Dexes
+Ostable,Obyte,Algo-Stables
+Oswap AMM,Obyte,Dexes
+Ottopia,Polygon,Yield
+Ouchi Finance,Ethereum,Dexes
+Outcome Finance,Boba,Synthetics
+Outcome Finance,Ethereum,Synthetics
+Outcome Finance,Polygon,Synthetics
+Overnight DAI+,Arbitrum,CDP
+Overnight DAI+,Optimism,CDP
+Overnight USD+,Arbitrum,CDP
+Overnight USD+,Binance,CDP
+Overnight USD+,Optimism,CDP
+Overnight USD+,Polygon,CDP
+Overnight USD+,zkSync Era,CDP
+Overnight USDT+,Binance,CDP
+Oxygen,Solana,Lending
+PEAKDEFI,Binance,Services
+PEAKDEFI,Ethereum,Services
+PERI Finance,Binance,Synthetics
+PERI Finance,Ethereum,Synthetics
+PERI Finance,Polygon,Synthetics
+PLEXUS,Ethereum,Cross Chain
+POISON FINANCE,Arbitrum,Synthetics
+POISON FINANCE,Binance,Synthetics
+PRDT,Binance,Prediction Market
+PRDT,Polygon,Prediction Market
+PRISM Protocol,Terra,Yield
+PULI,Binance,Gaming
+PYEswap,Binance,Dexes
+Pacoca,Binance,Yield
+Pact,Algorand,Dexes
+PadSwap,Binance,Dexes
+PadSwap,Moonbeam,Dexes
+PadSwap,Moonriver,Dexes
+Paint Swap,Fantom,Dexes
+Pala,Klaytn,Dexes
+Paladin DAO,Binance,Reserve Currency
+Paladin Finance,Ethereum,Lending
+Palma Swap,CORE,Dexes
+PanKUKU,Binance,Dexes
+PancakeSwap AMM,Aptos,Dexes
+PancakeSwap AMM,Binance,Dexes
+PancakeSwap AMM,Ethereum,Dexes
+PancakeSwap AMM V1,Binance,Dexes
+PancakeSwap AMM V3,Binance,Dexes
+PancakeSwap AMM V3,Ethereum,Dexes
+PancakeSwap StableSwap,Binance,Dexes
+Panda Chef,Binance,Farm
+PandaLand,smartBCH,Gaming
+PandaSwap,Binance,Dexes
+Pando Leaf,Mixin,CDP
+Pando Rings,Mixin,Lending
+Pandora,Binance,Dexes
+Pandora Swap,Astar,Dexes
+Pangea Swap,Klaytn,Dexes
+Pangolin,Avalanche,Dexes
+Pangolin,Flare,Dexes
+Pangolin,Hedera,Dexes
+Pangolin,Songbird,Dexes
+PantherSwap,Binance,Dexes
+Papa DAO,Avalanche,Reserve Currency
+PaperDAO,EthereumPoW,Lending
+Paprprintr,Aurora,Algo-Stables
+Paprprintr,Binance,Algo-Stables
+Paprprintr,Fantom,Algo-Stables
+Paprprintr,Kucoin,Algo-Stables
+Paprprintr,Polygon,Algo-Stables
+ParaSpace APE Staking,Ethereum,Yield
+ParaSpace Lending,Arbitrum,NFT Lending
+ParaSpace Lending,Ethereum,NFT Lending
+Parallax,Arbitrum,Yield Aggregator
+Parallel AMM,Heiko,Dexes
+Parallel AMM,Parallel,Dexes
+Parallel DAOfi,Heiko,Payments
+Parallel DAOfi,Parallel,Payments
+Parallel Lending,Heiko,Lending
+Parallel Lending,Parallel,Lending
+Parallel Liquid Crowdloan,Heiko,Liquid Staking
+Parallel Liquid Crowdloan,Parallel,Liquid Staking
+Parallel Liquid Staking,Heiko,Liquid Staking
+Parallel Liquid Staking,Parallel,Liquid Staking
+Paraluni Dex,Binance,Dexes
+Paraluni Masterchef,Binance,Yield
+Parasset,Ethereum,CDP
+Paraswap,Ethereum,Dexes
+Parcl,Solana,Synthetics
+Parrot Defi,Arbitrum,Farm
+Parrot Defi,Harmony,Farm
+Parrot Defi,IoTeX,Farm
+Parrot Defi,Polygon,Farm
+Parrot Protocol,Solana,CDP
+Partial Finance,Fantom,Algo-Stables
+PartySwap,Avalanche,Dexes
+PayCash,EOS,Dexes
+Peak Finance,Metis,Algo-Stables
+Peaky Finance,Binance,Derivatives
+Pear DAO,Binance,Dexes
+PearZap,Binance,Yield
+PearZap,Fantom,Yield
+PearZap,Polygon,Yield
+Peel Defi,Binance,Algo-Stables
+PegaSys,Syscoin,Dexes
+Pegasus Finance,Optimism,Derivatives
+Pegasusdollar,Cronos,Algo-Stables
+PembRock Finance,Near,Yield
+Pendle,Arbitrum,Yield
+Pendle,Avalanche,Yield
+Pendle,Ethereum,Yield
+Penguin,Solana,Dexes
+Penguin Finance,Avalanche,Yield
+Penrose,Polygon,Yield
+PepeTeam Bridge,Binance,Bridge
+PepeTeam Bridge,Ethereum,Bridge
+PepeTeam sWAVES,Waves,Liquid Staking
+Percent Finance,Ethereum,Lending
+Perennial,Arbitrum,Derivatives
+Perennial,Ethereum,Derivatives
+Perion,Ethereum,Gaming
+Perlin,Ethereum,Dexes
+Perp88,Polygon,Derivatives
+Perpetual Protocol,Ethereum,Derivatives
+Perpetual Protocol,Optimism,Derivatives
+Phantom Finance,Fantom,Farm
+PheasantSwap,ENULS,Dexes
+Phemex,Bitcoin,CEX
+Phemex,Ethereum,CEX
+Phenix DEX,Cronos,Dexes
+Phenix DEX,Polygon,Dexes
+Phezzan Protocol,Kava,Dexes
+Philetairus Socius,Fantom,Dexes
+Phission Finance,Ethereum,Derivatives
+Phoenix Bonds,Near,Yield Aggregator
+Phoenix DEX,Terra2,Dexes
+Phoenix Finance,Binance,Options
+Phoenix Finance,Polygon,Options
+Phoenix Finance,Wanchain,Options
+Photon Protocol,Binance,Reserve Currency
+PhotonSwap Finance,Cronos,Dexes
+PhotonSwap Finance,Evmos,Dexes
+PhotonSwap Finance,Kava,Dexes
+Phuture,Avalanche,Indexes
+Phuture,Ethereum,Indexes
+Pickle,Arbitrum,Yield Aggregator
+Pickle,Aurora,Yield Aggregator
+Pickle,Cronos,Yield Aggregator
+Pickle,Ethereum,Yield Aggregator
+Pickle,Harmony,Yield Aggregator
+Pickle,Kava,Yield Aggregator
+Pickle,Metis,Yield Aggregator
+Pickle,Moonbeam,Yield Aggregator
+Pickle,Moonriver,Yield Aggregator
+Pickle,OKExChain,Yield Aggregator
+Pickle,Optimism,Yield Aggregator
+Pickle,Polygon,Yield Aggregator
+Picnic,Polygon,Indexes
+Pidao Finance,Binance,Reserve Currency
+PieDAO,Ethereum,Indexes
+Piggy,Binance,CDP
+Piggy Finance,Avalanche,Yield
+Piggybank DAO,Avalanche,Reserve Currency
+Pika Protocol,Optimism,Derivatives
+Pillar,Zilliqa,Algo-Stables
+Pilot Protocol,Heco,Lending
+Pine Protocol,Ethereum,NFT Lending
+Pine Protocol,Polygon,NFT Lending
+PinkPea Finance,Aurora,Yield Aggregator
+PinkSale,Avalanche,Launchpad
+PinkSale,Binance,Launchpad
+PinkSale,Cronos,Launchpad
+PinkSale,Ethereum,Launchpad
+PinkSale,Fantom,Launchpad
+PinkSale,Polygon,Launchpad
+PinkSwap,Binance,Dexes
+Pinyottas,Ethereum,NFT Marketplace
+Pippi,Heco,Dexes
+PirateDAO,Avalanche,Reserve Currency
+Pirex,Arbitrum,Yield
+Pirex,Ethereum,Yield
+Pizza,EOS,Lending
+Planet Farm,Binance,Yield
+Platinum Finance,Fantom,Algo-Stables
+Platypus Finance,Avalanche,Dexes
+PleasrDAO,Ethereum,Services
+Plenty,Tezos,Dexes
+Pls2e,Binance,Dexes
+Pluto,Waves,Reserve Currency
+PlutusDAO,Arbitrum,Yield
+PoWSwap,EthereumPoW,Dexes
+Pods Finance,Arbitrum,Options
+Pods Finance,Ethereum,Options
+Pods Finance,Polygon,Options
+Pods Yield,Ethereum,Yield
+Polar Bear Finance,Avalanche,Algo-Stables
+Polaris Finance,Aurora,Dexes
+PolkaEx,Astar,Dexes
+PolkaEx,Binance,Dexes
+PolkaEx,Ethereum,Dexes
+PolkaEx,Polygon,Dexes
+PolkaEx,Shiden,Dexes
+Polkamarkets,Ethereum,Prediction Market
+Polkamarkets,Moonbeam,Prediction Market
+Polkamarkets,Moonriver,Prediction Market
+Polkastarter,Binance,Launchpad
+Polkastarter,Ethereum,Launchpad
+Polkaswap,Sora,Dexes
+Polly Finance,Polygon,Indexes
+Poly Network,Aptos,Bridge
+Poly Network,Arbitrum,Bridge
+Poly Network,Astar,Bridge
+Poly Network,Avalanche,Bridge
+Poly Network,Binance,Bridge
+Poly Network,Bitgert,Bridge
+Poly Network,Boba,Bridge
+Poly Network,Bytomsidechain,Bridge
+Poly Network,CLV,Bridge
+Poly Network,Carbon,Bridge
+Poly Network,Celo,Bridge
+Poly Network,Conflux,Bridge
+Poly Network,Dexit,Bridge
+Poly Network,Ethereum,Bridge
+Poly Network,Fantom,Bridge
+Poly Network,Harmony,Bridge
+Poly Network,Heco,Bridge
+Poly Network,Hoo,Bridge
+Poly Network,Kava,Bridge
+Poly Network,Kucoin,Bridge
+Poly Network,Metis,Bridge
+Poly Network,NEO,Bridge
+Poly Network,Neo3,Bridge
+Poly Network,OKExChain,Bridge
+Poly Network,Oasis,Bridge
+Poly Network,Ontology,Bridge
+Poly Network,Optimism,Bridge
+Poly Network,Pallete,Bridge
+Poly Network,Polygon,Bridge
+Poly Network,Starcoin,Bridge
+Poly Network,Zilliqa,Bridge
+Poly Network,xDai,Bridge
+PolyCub,Polygon,Yield
+PolyDEX-Cryption Network,Polygon,Dexes
+PolyQuity,Polygon,CDP
+PolyShield,Polygon,Yield
+PolyYeld Finance,Polygon,Yield
+Polycat,Polygon,Farm
+Polycat Dex,Polygon,Dexes
+Polydex,Polygon,Dexes
+Polygon Bridge & Staking,Polygon,Chain
+PolygonFarm Finance,Polygon,Yield
+Polymarket,Polygon,Prediction Market
+Polynomial Earn,Optimism,Options Vault
+Polynomial Trade,Optimism,Derivatives
+Polyo Exchange,Binance,Dexes
+Polyquail,Polygon,Yield
+Polyroll,Polygon,Yield
+Polytrade,Polygon,Yield
+Polywhale Finance,Polygon,Yield
+Pony Finance,Ethereum,Indexes
+PonySwap,Arbitrum,Dexes
+PonytaSwap,Rangers,Dexes
+Poof Cash,Celo,Lending
+PoolTogether,Avalanche,Services
+PoolTogether,Binance,Services
+PoolTogether,Celo,Services
+PoolTogether,Ethereum,Services
+PoolTogether,Optimism,Services
+PoolTogether,Polygon,Services
+Poopsicle,Fantom,Yield
+Pop Town,Ethereum,Yield
+Popcorn,Arbitrum,Yield
+Popcorn,Binance,Yield
+Popcorn,Ethereum,Yield
+Popcorn,Polygon,Yield
+Popsicle Finance,Binance,Liquidity manager
+Popsicle Finance,Ethereum,Liquidity manager
+Popsicle Finance,Fantom,Liquidity manager
+Port Finance,Solana,Lending
+Portal,Acala,Bridge
+Portal,Algorand,Bridge
+Portal,Aptos,Bridge
+Portal,Aurora,Bridge
+Portal,Avalanche,Bridge
+Portal,Binance,Bridge
+Portal,Celo,Bridge
+Portal,Ethereum,Bridge
+Portal,Fantom,Bridge
+Portal,Karura,Bridge
+Portal,Klaytn,Bridge
+Portal,Moonbeam,Bridge
+Portal,Near,Bridge
+Portal,Oasis,Bridge
+Portal,Polygon,Bridge
+Portal,Solana,Bridge
+Portal,Terra,Bridge
+Portal,Terra2,Bridge
+Position Exchange,Binance,Dexes
+Potluck Protocol,Fantom,Dexes
+PowSea,EthereumPoW,Dexes
+Powaa Protocol,Ethereum,Services
+PowerPool,Binance,Indexes
+PowerPool,Ethereum,Indexes
+PowerSwap,EthereumPoW,Dexes
+Powerbomb Finance,Arbitrum,Yield
+Powerbomb Finance,Optimism,Yield
+Powerbomb Finance,Polygon,Yield
+Predictcoin,Binance,Prediction Market
+Predy Finance,Arbitrum,Derivatives
+Premia,Arbitrum,Options
+Premia,Binance,Options
+Premia,Ethereum,Options
+Premia,Fantom,Options
+Premia,Optimism,Options
+Premio,Celo,Yield
+Premio,Kava,Yield
+Prime Protocol,Arbitrum,Lending
+Prime Protocol,Avalanche,Lending
+Prime Protocol,Ethereum,Lending
+Prime Protocol,Moonbeam,Lending
+Primitive,Ethereum,Dexes
+Printer Financial,Avalanche,Bridge
+Printer Financial,Binance,Bridge
+Printer Financial,Cronos,Bridge
+Printer Financial,Fantom,Bridge
+Printer Financial,Harmony,Bridge
+Printer Financial,Polygon,Bridge
+PrivCash,Kava,Privacy
+Procyon,Cronos,Farm
+ProjectX,Avalanche,Yield
+Proof of Humanity,Ethereum,Services
+Prophet,Obyte,Prediction Market
+Proteo Defi,Elrond,Farm
+ProtoFi,Fantom,Dexes
+Proton Dex,Proton,Dexes
+Proton Loan,Proton,Lending
+Proton Swap,Proton,Dexes
+ProtossDex,Starknet,Dexes
+Proxy,Ethereum,Yield
+Proxy,Polygon,Yield
+PsyOptions,Solana,Options
+PuddingSwap,Hoo,Dexes
+Pulsar Swap,Arbitrum,Dexes
+Pulsar Swap,Ethereum,Dexes
+Pulse DAO,Fantom,Algo-Stables
+PulseX,Pulse,Dexes
+Pumpkin DAO,Fantom,Reserve Currency
+PureFi,Binance,Yield
+PureFi,Ethereum,Yield
+PureFi,Polygon,Yield
+PureSwap,Binance,Dexes
+Purple Bridge DEX,Polygon,Dexes
+Puzzle Lend,Waves,Lending
+Puzzle Swap,Waves,Dexes
+Pylon Protocol,Terra,Yield
+QAO,Ethereum,Indexes
+QIAN,Ethereum,Synthetics
+QiDao,Arbitrum,CDP
+QiDao,Avalanche,CDP
+QiDao,Binance,CDP
+QiDao,Ethereum,CDP
+QiDao,Fantom,CDP
+QiDao,Harmony,CDP
+QiDao,Metis,CDP
+QiDao,Moonbeam,CDP
+QiDao,Moonriver,CDP
+QiDao,Optimism,CDP
+QiDao,Polygon,CDP
+QiDao,xDai,CDP
+Qilin,Ethereum,Dexes
+Quadrat,Arbitrum,Liquidity manager
+Quadrat,Binance,Liquidity manager
+Quadrat,Ethereum,Liquidity manager
+Quadrat,Optimism,Liquidity manager
+Quadrat,Polygon,Liquidity manager
+QuantumX Network,Elrond,Services
+Quarry,Solana,Yield
+QuasarSwap,Nova Network,Dexes
+Qubit,Binance,Lending
+Qubit,Klaytn,Lending
+QuickPerps,Polygon zkEVM,Derivatives
+Quicksilver Protocol,Quicksilver,Liquid Staking
+Quickswap Dex,Polygon,Dexes
+Quickswap Lend,Polygon,Lending
+Quickswap V3,Dogechain,Dexes
+Quickswap V3,Polygon,Dexes
+Quickswap V3,Polygon zkEVM,Dexes
+QuipuSwap,Tezos,Dexes
+Quoll,Binance,Yield
+R U Generous,Avalanche,Reserve Currency
+RAIDSHIFT Marketplace,Tron,Dexes
+RBX,Binance,Dexes
+RBX,Ethereum,Dexes
+RCPswap,Arbitrum Nova,Dexes
+REX Staking,Telos,Lending
+RFOX,Binance,Yield
+RHEA DAO,Klaytn,Reserve Currency
+RaDao,Binance,Reserve Currency
+Rabbit Finance,Binance,Lending
+RabbitX,Ethereum,Derivatives
+Radial,Fantom,Yield
+Radiant V1,Arbitrum,Lending
+Radiant V2,Arbitrum,Lending
+Radiant V2,Binance,Lending
+RadioShack,Avalanche,Dexes
+RadioShack,Binance,Dexes
+RadioShack,Cronos,Dexes
+RadioShack,Dogechain,Dexes
+RadioShack,Ethereum,Dexes
+RadioShack,Fantom,Dexes
+RadioShack,Optimism,Dexes
+RadioShack,Polygon,Dexes
+Rage Trade,Arbitrum,Yield
+RagnarokDAO,Avalanche,Reserve Currency
+Railgun,Arbitrum,Privacy
+Railgun,Binance,Privacy
+Railgun,Ethereum,Privacy
+Railgun,Polygon,Privacy
+Ram Protocol,ThunderCore,Lending
+Ramp,Avalanche,CDP
+Ramp,Binance,CDP
+Ramp,Ethereum,CDP
+Ramp,Polygon,CDP
+Ramses Exchange,Arbitrum,Dexes
+Rari Capital,Arbitrum,Yield Aggregator
+Rari Capital,Ethereum,Yield Aggregator
+Rarible,Ethereum,Services
+Rarify,xDai,Yield
+Ratio Finance,Solana,CDP
+Ravcube Finance,Milkomeda,Algo-Stables
+Raven,Fantom,Yield
+Raydium,Solana,Dexes
+ReHold,Arbitrum,Yield
+ReHold,Avalanche,Yield
+ReHold,Binance,Yield
+ReHold,Fantom,Yield
+ReHold,Optimism,Yield
+ReHold,Polygon,Yield
+ReactorFusion,zkSync Era,Lending
+Real Protocol,EthereumPoW,CDP
+RealT RMM Marketplace,xDai,Lending
+RealT Tokens,xDai,RWA
+Reaper Farm,Arbitrum,Yield Aggregator
+Reaper Farm,Binance,Yield Aggregator
+Reaper Farm,Fantom,Yield Aggregator
+Reaper Farm,Optimism,Yield Aggregator
+Redacted Protocol,Ethereum,Yield
+Redemption,Fantom,Dexes
+Ref Finance,Near,Dexes
+Reflexer,Ethereum,CDP
+RelayChain,Arbitrum,Bridge
+RelayChain,Avalanche,Bridge
+RelayChain,Binance,Bridge
+RelayChain,Cronos,Bridge
+RelayChain,Ethereum,Bridge
+RelayChain,Fantom,Bridge
+RelayChain,Harmony,Bridge
+RelayChain,Heco,Bridge
+RelayChain,IoTeX,Bridge
+RelayChain,Metis,Bridge
+RelayChain,Moonriver,Bridge
+RelayChain,Optimism,Bridge
+RelayChain,Polygon,Bridge
+RenVM,Arbitrum,Bridge
+RenVM,Avalanche,Bridge
+RenVM,Binance,Bridge
+RenVM,Ethereum,Bridge
+RenVM,Fantom,Bridge
+RenVM,Kava,Bridge
+RenVM,Optimism,Bridge
+RenVM,Polygon,Bridge
+RenVM,Solana,Bridge
+Reserve,Ethereum,CDP
+Retreeb,Fantom,Payments
+RetroDefi,Binance,Yield
+RetroDefi,Polygon,Yield
+Revault,Binance,Yield
+Reverse,Harmony,Reserve Currency
+Revert Compoundor,Arbitrum,Services
+Revert Compoundor,Binance,Services
+Revert Compoundor,Ethereum,Services
+Revert Compoundor,Optimism,Services
+Revert Compoundor,Polygon,Services
+Revert V3 Staker,Polygon,Liquid Staking
+Revest Finance,Avalanche,NFT Lending
+Revest Finance,Ethereum,NFT Lending
+Revest Finance,Fantom,NFT Lending
+Revest Finance,Polygon,NFT Lending
+Revoluzion,Binance,Services
+Revuto,Cardano,Services
+Rhino.fi,Arbitrum,Dexes
+Rhino.fi,Ethereum,Dexes
+Rhino.fi,Polygon,Dexes
+Ribbon,Avalanche,Options Vault
+Ribbon,Binance,Options Vault
+Ribbon,Ethereum,Options Vault
+Ribbon,Solana,Options Vault
+Ribbon Earn,Ethereum,Options
+Ribbon Lend,Ethereum,Uncollateralized Lending
+Rift Finance,Aurora,Yield
+Rift Finance,Ethereum,Yield
+Rigoblock,Arbitrum,Services
+Rigoblock,Ethereum,Services
+Rigoblock,Optimism,Services
+Rigoblock,Polygon,Services
+Rikkei Finance,Binance,Lending
+RingFi,Binance,Yield
+Ripae,Arbitrum,Algo-Stables
+Ripae,Avalanche,Algo-Stables
+Ripae,Binance,Algo-Stables
+Ripae,Cronos,Algo-Stables
+Ripae,Fantom,Algo-Stables
+Ripae,Optimism,Algo-Stables
+Ripae,Polygon,Algo-Stables
+Rising Undead,Kava,Gaming
+Risk Harbor,Arbitrum,Insurance
+Risk Harbor,Aurora,Insurance
+Risk Harbor,Avalanche,Insurance
+Risk Harbor,Ethereum,Insurance
+Risk Harbor,Fantom,Insurance
+Risk Harbor,Optimism,Insurance
+Risk Harbor,Terra,Insurance
+Risk Harbor,Terra2,Insurance
+Risq Protocol,Binance,Options
+RivrKitty,Moonriver,Yield
+Roaring Lion,Binance,Algo-Stables
+RobiniaSwap,Binance,Dexes
+Robo-Advisor for Yield,Ethereum,Yield
+Robo-Vault,Avalanche,Yield
+Robo-Vault,Fantom,Yield
+RociFi V1,Polygon,Lending
+RociFi V2,Polygon,Lending
+RociFi V2,zkSync Era,Lending
+Rocket Pool,Ethereum,Liquid Staking
+RocketSwap,Lamden,Dexes
+Rodeo,Arbitrum,Yield
+Roe Finance,Arbitrum,Lending
+Roe Finance,Ethereum,Lending
+Roe Finance,Polygon,Lending
+Roketo,Near,Payments
+Rollup Finance,zkSync Era,Derivatives
+Rook,Ethereum,Dexes
+Rose,Aurora,Dexes
+Router Protocol,Arbitrum,Cross Chain
+Router Protocol,Aurora,Cross Chain
+Router Protocol,Avalanche,Cross Chain
+Router Protocol,Binance,Cross Chain
+Router Protocol,Cronos,Cross Chain
+Router Protocol,Ethereum,Cross Chain
+Router Protocol,Fantom,Cross Chain
+Router Protocol,Harmony,Cross Chain
+Router Protocol,Kava,Cross Chain
+Router Protocol,Optimism,Cross Chain
+Router Protocol,Polygon,Cross Chain
+RskSwap,RSK,Dexes
+Rubic,Binance,Cross Chain
+Rubic,Kava,Cross Chain
+Rubicon,Optimism,Dexes
+Rubik Finance,Fantom,Algo-Stables
+RubikFarm,Binance,Farm
+Ruby Finance,Kava,Algo-Stables
+Ruby.Exchange Stable,Europa,Dexes
+Ruby.Exchange Yield,Europa,Yield
+RubyDex,Arbitrum,Derivatives
+Ruler,Ethereum,Lending
+Rysk Finance,Arbitrum,Options
+S Finance,Ethereum,Dexes
+SFT Protocol,Filecoin,Liquid Staking
+SMBSwap V2,Binance,Dexes
+SMBSwap V3,Binance,Dexes
+SPL Governance,Solana,Services
+SSAP,CLV,Lending
+SSAP,Oasis,Lending
+STFIL,Filecoin,Liquid Staking
+STON.fi,TON,Dexes
+STRX Finance,Tron,Liquid Staking
+SUN.io,Tron,Dexes
+SUNSwap V1,Tron,Dexes
+SUNSwap V2,Tron,Dexes
+SWAPP,Cronos,Dexes
+SWFT,Binance,Bridge
+SWFT,Ethereum,Bridge
+SWFT,Fantom,Bridge
+SWFT,Heco,Bridge
+SWFT,Kava,Bridge
+SWFT,OKExChain,Bridge
+SWFT,Polygon,Bridge
+SYNC Network,Ethereum,NFT Lending
+Saber,Solana,Dexes
+Sablier Finance,Ethereum,Payments
+Saddle Finance,Arbitrum,Dexes
+Saddle Finance,Aurora,Dexes
+Saddle Finance,Ethereum,Dexes
+Saddle Finance,Evmos,Dexes
+Saddle Finance,Fantom,Dexes
+Saddle Finance,Kava,Dexes
+Saddle Finance,Optimism,Dexes
+SafeOHM,Binance,Reserve Currency
+SafeSwap,Ethereum,Dexes
+SafeSwap,Polygon,Dexes
+Saffron Finance,Ethereum,Yield
+SageBet,Arbitrum,Prediction Market
+Sahara Exchange,Oasis,Dexes
+SaharaDAO,Cronos,Algo-Stables
+SaitaSwap,Binance,Dexes
+SaitaSwap,Ethereum,Dexes
+Sakai Vault,Binance,Derivatives
+SakePerp,Binance,Dexes
+SakePerp,Ethereum,Dexes
+Salem Finance,Cronos,Yield
+Salem Finance,Fantom,Yield
+Salem Finance,Polygon,Yield
+SamoDAO,Binance,Reserve Currency
+SandClock,Ethereum,Services
+Sapphire Defi,Fantom,Yield
+Sapphire Mine,Polygon,Yield
+Saros,Solana,Dexes
+SashimiDAO,Avalanche,Reserve Currency
+SashimiSwap,Binance,Dexes
+SashimiSwap,Ethereum,Dexes
+SashimiSwap,Heco,Dexes
+Satin Exchange,Polygon,Dexes
+Satori Finance,Polygon zkEVM,Derivatives
+SatoshiCoreSwap,CORE,Dexes
+SaucerSwap,Hedera,Dexes
+Savanna Finance,Cronos,Algo-Stables
+Scallop,Solana,Yield
+Scarab Finance,Fantom,Algo-Stables
+ScareCrow Finance,Fantom,Yield
+ScarySwap,Fantom,Dexes
+Scientix,Binance,Synthetics
+Scion Finance,Fantom,Yield Aggregator
+Scion Finance,Moonriver,Yield Aggregator
+Scranton Finance,Fantom,Yield
+Scream,Fantom,Lending
+Scrub,Cronos,Algo-Stables
+Scrub,Kava,Algo-Stables
+Scrub Invest,Kava,Yield
+Sculptor Finance,Binance,Lending
+SeaDex,Moonriver,Dexes
+SeaLightSwap,Polygon,Dexes
+Seashell,Arbitrum,Yield
+Secret Network,Secret,Chain
+SecretSwap,Secret,Dexes
+Sector Finance,Arbitrum,Yield
+Sector Finance,Ethereum,Yield
+Sector Finance,Moonriver,Yield
+Sector Finance,Optimism,Yield
+SecureDAO,Fantom,Reserve Currency
+Securo Finance,Aurora,Indexes
+Securo Finance,Avalanche,Indexes
+Securo Finance,Binance,Indexes
+Securo Finance,Polygon,Indexes
+Seeder Finance,Binance,Yield
+Seedify,Binance,Launchpad
+Selfex,Kava,Dexes
+SenpaiSwap,Boba,Reserve Currency
+Sense,Ethereum,Yield
+Sentiment,Arbitrum,Leveraged Farming
+Sentre,Solana,Dexes
+Serum,Solana,Dexes
+Serum Swap,Solana,Dexes
+Set Protocol,Ethereum,Indexes
+Shade Protocol,Secret,Dexes
+ShadeCash,Fantom,Privacy
+ShadowSwap,CORE,Dexes
+ShapeShift,Ethereum,Dexes
+SharedStake,Ethereum,Liquid Staking
+SharkSwap,SXnetwork,Dexes
+Sharky,Solana,NFT Lending
+Sharky Swap,Arbitrum,Dexes
+Sharpe Magnum,Ethereum,Yield
+SheepDex,Binance,Dexes
+Sheesha Finance,Binance,Yield
+Shell Protocol,Arbitrum,Dexes
+Sherlock,Ethereum,Insurance
+Sherpa Cash,Avalanche,Privacy
+Shiba Fantom,Fantom,Dexes
+ShibaSwap,Ethereum,Dexes
+Shibance,Binance,Dexes
+Shibance,Kucoin,Dexes
+Shibui DAO,Boba,NFT Marketplace
+Shield,Binance,Options
+ShiftDollar,Cronos,Algo-Stables
+Shinobi,Ubiq,Dexes
+ShiroSwap,Binance,Dexes
+Shoebill Finance,Klaytn,Lending
+ShrikePerps,Polygon zkEVM,Derivatives
+SiO2 Finance,Astar,Lending
+SideShift,Ethereum,Liquid Staking
+Sienna Network,Secret,Privacy
+Sierra,Avalanche,Reserve Currency
+Sifchain,Sifchain,Dexes
+Sigmausd,Ergo,Algo-Stables
+Silo Finance,Arbitrum,Lending
+Silo Finance,Ethereum,Lending
+Silo Protocol,Algorand,Options Vault
+Single Finance,Arbitrum,Yield
+Single Finance,Cronos,Yield
+Single Finance,Fantom,Yield
+Singular Farm,Avalanche,Yield
+Singular Farm,Binance,Yield
+Singular Farm,Fantom,Yield
+Singular Farm,Polygon,Yield
+SingularityDAO,Binance,Yield
+SingularityDAO,Ethereum,Yield
+Siren,Ethereum,Options
+Siren,Polygon,Options
+Sirius Finance,Astar,Dexes
+SithSwap,Starknet,Dexes
+Skeleton Finance,Fantom,Yield
+SkullSwap V2,Fantom,Dexes
+SkullSwap V3,Fantom,Dexes
+SleepEarn Finance,Kardia,Yield
+SmarDex,Ethereum,Dexes
+SmartCoin,Avalanche,Yield
+SmartCredit,Ethereum,Lending
+SmartDEX,Polygon,Dexes
+SmartDEXBCH,smartBCH,Dexes
+SmartPad,Aurora,Launchpad
+SmartPad,Ethereum,Launchpad
+SmartPad,Polygon,Launchpad
+SmolSwap,Cronos,Dexes
+Smoothy,Binance,Dexes
+Smoothy,Ethereum,Dexes
+Snark Launch,zkSync Era,Launchpad
+SnowCatDAO,Avalanche,Reserve Currency
+SnowSwap,Ethereum,Dexes
+SnowSwap,Polygon,Dexes
+SnowSwap AMM,Crab,Dexes
+Snowball,Avalanche,Yield
+Snowbank,Avalanche,Reserve Currency
+Snowdog,Avalanche,Reserve Currency
+Snowflake Exchange,Binance,Dexes
+Snowflake Exchange,Polygon,Dexes
+Snowtomb,Avalanche,Algo-Stables
+Snowyowl,Avalanche,Algo-Stables
+Socean,Solana,Liquid Staking
+SocialSwap,Tron,Dexes
+Soda Protocol,Solana,Lending
+Sohei,Arbitrum,Lending
+Solace,Aurora,Insurance
+Solace,Ethereum,Insurance
+Solace,Polygon,Insurance
+Solana Farm,Binance,Dexes
+Solanax,Solana,Dexes
+Solarbeam,Moonriver,Dexes
+Solarflare,Moonbeam,Dexes
+Solend,Solana,Lending
+SoliSnek Finance,Avalanche,Dexes
+SolidLizard,Arbitrum,Dexes
+Solidex,Fantom,Yield Aggregator
+Solidly,Fantom,Dexes
+Solidly V2,Ethereum,Dexes
+Solily Protocol,Solana,Yield
+Solo Top,Binance,Yield
+Solo Top,Heco,Yield
+Solo Top,OKExChain,Yield
+Solo Top,Polygon,Yield
+Solrise Finance,Solana,Indexes
+Soluna,Terra,Yield
+Solunea,Arbitrum,Dexes
+Solunea,zkSync Era,Dexes
+Solv Protocol,Arbitrum,NFT Marketplace
+Solv Protocol,Binance,NFT Marketplace
+Solv Protocol,Ethereum,NFT Marketplace
+Solv Protocol,Polygon,NFT Marketplace
+Solyard,Solana,Yield
+Sommelier,Ethereum,Yield Aggregator
+Sonic,ICP,Dexes
+SonicSwap,Harmony,Dexes
+Sonne Finance,Optimism,Lending
+SoulSwap,Avalanche,Dexes
+SoulSwap,Fantom,Dexes
+Sovryn Dex,RSK,Dexes
+Sovryn Lend,RSK,Lending
+Sovryn Zero,RSK,CDP
+Soy Finance,Binance,Dexes
+Soy Finance,Bittorrent,Dexes
+Soy Finance,Callisto,Dexes
+Soy Finance,EthereumClassic,Dexes
+SpaceDex,Arbitrum,Derivatives
+SpaceDex,Binance,Derivatives
+SpaceFi,Evmos,Dexes
+SpaceFi,zkSync Era,Dexes
+Spade Finance,Fantom,Farm
+Spark,Ethereum,Lending
+Spartacus,Fantom,Reserve Currency
+Spartacus Exchange,Fantom,Dexes
+Spartan,Binance,Dexes
+Specter Finance,Fantom,Algo-Stables
+SpectreFi,Fantom,Farm
+Spectrum Finance,Ergo,Dexes
+Spectrum Protocol,Terra,Yield
+Spectrum Protocol,Terra2,Yield
+Spectrumswap,Binance,Farm
+Sperax Demeter,Arbitrum,Farm
+Sperax USD,Arbitrum,Algo-Stables
+Sperax USD,Ethereum,Algo-Stables
+Sphere Finance,Polygon,Yield
+Spherium,Arbitrum,Cross Chain
+Spherium,Aurora,Cross Chain
+Spherium,Avalanche,Cross Chain
+Spherium,Binance,Cross Chain
+Spherium,Cronos,Cross Chain
+Spherium,Ethereum,Cross Chain
+Spherium,Fantom,Cross Chain
+Spherium,Kucoin,Cross Chain
+Spherium,Moonbeam,Cross Chain
+Spherium,Moonriver,Cross Chain
+Spherium,OKExChain,Cross Chain
+Spherium,Optimism,Cross Chain
+Spherium,Polygon,Cross Chain
+Sphynx,Binance,Dexes
+Sphynx,Bitgert,Dexes
+Sphynx,Cronos,Dexes
+Sphynx,Loop,Dexes
+Spice Finance,Ethereum,Yield Aggregator
+Spice Trade,Avalanche,Algo-Stables
+Spice Trade,Binance,Algo-Stables
+Spice Trade,Ethereum,Algo-Stables
+Spice Trade,Polygon,Algo-Stables
+Spicy DAO,Avalanche,Reserve Currency
+SpicySwap,Tezos,Dexes
+Spin DOV,Near,Options Vault
+Spin Perps,Near,Derivatives
+Spin Spot,Near,Dexes
+Spiral Fi Mixer,Polygon zkEVM,Privacy
+Spiral Fi Mixer,zkSync Era,Privacy
+Spiral Finance,Fantom,Yield Aggregator
+SpiralDao,Ethereum,Yield
+SpiritDAO,Avalanche,Reserve Currency
+SpiritSwap AMM,Fantom,Dexes
+SpiritSwap Lending,Fantom,Lending
+SpookySwap,Fantom,Dexes
+Spool Protocol,Arbitrum,Yield Aggregator
+Spool Protocol,Ethereum,Yield Aggregator
+Spoon Exchange,CORE,Dexes
+SportBet,EOS,Prediction Market
+Squid Stake,Binance,Yield
+Squid-Defi,Fantom,Farm
+SquidDao,Ethereum,Reserve Currency
+Stabilize,Avalanche,CDP
+Stabl.fi,Polygon,Yield
+StableDoin,Dogechain,Dexes
+StableKoi,Godwoken,Dexes
+StableKoi,GodwokenV1,Dexes
+Stablz,Ethereum,Yield
+StackSwap,Stacks,Dexes
+Stacker Ventures,Ethereum,Yield
+Stacks Staking,Stacks,Chain
+Stader,Binance,Liquid Staking
+Stader,Ethereum,Liquid Staking
+Stader,Fantom,Liquid Staking
+Stader,Hedera,Liquid Staking
+Stader,Near,Liquid Staking
+Stader,Terra2,Liquid Staking
+Stafi,Binance,Liquid Staking
+Stafi,Cosmos,Liquid Staking
+Stafi,Ethereum,Liquid Staking
+Stafi,Polygon,Liquid Staking
+Stafi,Solana,Liquid Staking
+Stafi,Stafi,Liquid Staking
+Stake.ly,Klaytn,Liquid Staking
+Stake1,Fantom,Lending
+StakeDAO,Avalanche,Yield
+StakeDAO,Binance,Yield
+StakeDAO,Ethereum,Yield
+StakeDAO,Polygon,Yield
+StakeEasy,Juno,Liquid Staking
+StakeEasy,Secret,Liquid Staking
+StakeHound,Ethereum,Liquid Staking
+StakeSteak,Fantom,Yield
+StakeWise,Ethereum,Liquid Staking
+StakeWise,xDai,Liquid Staking
+Stakehouse,Ethereum,Liquid Staking
+Stakerz,Kava,Yield Aggregator
+Stand Cash,Ethereum,Yield
+Standard Protocol,Ethereum,Dexes
+Standard Protocol,Metis,Dexes
+Standard Protocol,Shiden,Dexes
+StarCrazy,IoTeX,Gaming
+StarSwap,Astar,Dexes
+Starbank,Astar,Dexes
+Starfish Finance,Astar,Lending
+Starfish Liquid Staking,Astar,Liquid Staking
+Stargate,Arbitrum,Cross Chain
+Stargate,Avalanche,Cross Chain
+Stargate,Binance,Cross Chain
+Stargate,Ethereum,Cross Chain
+Stargate,Fantom,Cross Chain
+Stargate,Goerli,Cross Chain
+Stargate,Metis,Cross Chain
+Stargate,Optimism,Cross Chain
+Stargate,Polygon,Cross Chain
+Stargate Finance,Binance,Reserve Currency
+Stargaze,Stargaze,NFT Marketplace
+StarkEx,Starknet,Dexes
+Starlay Finance,Astar,Lending
+Starmaker,zkSync Era,Dexes
+Starswap Starcoin,Starcoin,Dexes
+Starterra,Terra,Launchpad
+Steadefi,Arbitrum,Leveraged Farming
+Steadefi,Avalanche,Leveraged Farming
+Steak,Terra,Liquid Staking
+SteakBank Finance,Binance,Liquid Staking
+SteakHut,Avalanche,Farm
+SteakHut Liquidity,Arbitrum,Liquidity manager
+SteakHut Liquidity,Avalanche,Liquidity manager
+StellaSwap,Moonbeam,Dexes
+StellaSwap V3,Moonbeam,Dexes
+StellarX,Stellar,Dexes
+Step Exchange,Step,Dexes
+Sterling Finance,Arbitrum,Dexes
+Steroids,Ethereum,Yield
+Stipend,Kava,Yield
+StoneDefi,Avalanche,Yield Aggregator
+StoneDefi,Binance,Yield Aggregator
+StoneDefi,Ethereum,Yield Aggregator
+StoneDefi,Polygon,Yield Aggregator
+StormSwap,Avalanche,Yield
+StormSwap,Cronos,Yield
+StrategyX Finance,Fantom,Farm
+Stream Finance,Ethereum,RWA
+Streamflow,Aptos,Payments
+Streamflow,Binance,Payments
+Streamflow,Ethereum,Payments
+Streamflow,Polygon,Payments
+Streamflow,Solana,Payments
+Stride,Stride,Liquid Staking
+Strike,Ethereum,Lending
+StrikeX,Binance,Dexes
+Strips Finance,Arbitrum,Derivatives
+Stronghands,Binance,Dexes
+Stronghands,Cronos,Dexes
+Stronghands,Polygon,Dexes
+Structured LSD,Ethereum,Yield
+Strudel Finance,Ethereum,Bridge
+Sturdy,Ethereum,Lending
+Sturdy,Fantom,Lending
+Subzero ZSwap,Avalanche,Dexes
+Subzero+,Avalanche,Reserve Currency
+Sudo Inu,Ethereum,Farm
+SudoSwap,Ethereum,NFT Marketplace
+Sugar Swap,zkSync Era,Dexes
+SugarSwap,Arbitrum,Dexes
+SumSwap,Ethereum,Dexes
+Summit Defi,Fantom,Yield
+SunFlower Finance,Binance,Dexes
+SundaeSwap,Cardano,Dexes
+SunflowerSwap,Moonbeam,Farm
+Sunny,Solana,Yield
+Sunrise Gaming,Ethereum,Prediction Market
+SuperBots,Binance,Services
+SuperBots,Ethereum,Services
+SuperFarm,Ethereum,Services
+SuperLauncher,zkSync Era,Launchpad
+Superfluid,Arbitrum,Payments
+Superfluid,Avalanche,Payments
+Superfluid,Binance,Payments
+Superfluid,Optimism,Payments
+Superfluid,Polygon,Payments
+Superfluid,xDai,Payments
+Superman Swap,Binance,Yield Aggregator
+Surfswap Classic,Kava,Dexes
+Surfswap Stable AMM,Kava,Dexes
+Sushi BentoBox,Arbitrum,Yield
+Sushi BentoBox,Avalanche,Yield
+Sushi BentoBox,Binance,Yield
+Sushi BentoBox,Celo,Yield
+Sushi BentoBox,Ethereum,Yield
+Sushi BentoBox,Fantom,Yield
+Sushi BentoBox,Moonbeam,Yield
+Sushi BentoBox,Moonriver,Yield
+Sushi BentoBox,Optimism,Yield
+Sushi BentoBox,Polygon,Yield
+Sushi BentoBox,xDai,Yield
+Sushi Furo,Arbitrum,Payments
+Sushi Furo,Avalanche,Payments
+Sushi Furo,Binance,Payments
+Sushi Furo,Ethereum,Payments
+Sushi Furo,Fantom,Payments
+Sushi Furo,Harmony,Payments
+Sushi Furo,Moonbeam,Payments
+Sushi Furo,Moonriver,Payments
+Sushi Furo,Optimism,Payments
+Sushi Furo,Polygon,Payments
+Sushi Furo,xDai,Payments
+Sushi Kashi,Arbitrum,Lending
+Sushi Kashi,Avalanche,Lending
+Sushi Kashi,Binance,Lending
+Sushi Kashi,Ethereum,Lending
+Sushi Kashi,Polygon,Lending
+Sushi Trident,Arbitrum,Dexes
+Sushi Trident,Avalanche,Dexes
+Sushi Trident,Binance,Dexes
+Sushi Trident,Bittorrent,Dexes
+Sushi Trident,Kava,Dexes
+Sushi Trident,Metis,Dexes
+Sushi Trident,Optimism,Dexes
+Sushi Trident,Polygon,Dexes
+SushiSwap,Arbitrum,Dexes
+SushiSwap,Arbitrum Nova,Dexes
+SushiSwap,Avalanche,Dexes
+SushiSwap,Binance,Dexes
+SushiSwap,Boba,Dexes
+SushiSwap,Boba_Avax,Dexes
+SushiSwap,Boba_Bnb,Dexes
+SushiSwap,Celo,Dexes
+SushiSwap,Ethereum,Dexes
+SushiSwap,Fantom,Dexes
+SushiSwap,Fuse,Dexes
+SushiSwap,Harmony,Dexes
+SushiSwap,Heco,Dexes
+SushiSwap,Moonriver,Dexes
+SushiSwap,OKExChain,Dexes
+SushiSwap,Palm,Dexes
+SushiSwap,Polygon,Dexes
+SushiSwap,Telos,Dexes
+SushiSwap,xDai,Dexes
+SushiSwap V3,Arbitrum,Dexes
+SushiSwap V3,Arbitrum Nova,Dexes
+SushiSwap V3,Avalanche,Dexes
+SushiSwap V3,Binance,Dexes
+SushiSwap V3,Ethereum,Dexes
+SushiSwap V3,Fantom,Dexes
+SushiSwap V3,Fuse,Dexes
+SushiSwap V3,Moonbeam,Dexes
+SushiSwap V3,Moonriver,Dexes
+SushiSwap V3,Optimism,Dexes
+SushiSwap V3,Polygon,Dexes
+SushiSwap V3,Polygon zkEVM,Dexes
+SushiSwap V3,xDai,Dexes
+Suterusu,Binance,Services
+Suterusu,Ethereum,Services
+Swaap,Polygon,Dexes
+Swamp Finance,Binance,Yield
+SwapFish,Arbitrum,Dexes
+SwapFish,Binance,Dexes
+SwapMatic,Polygon,Dexes
+Swapline,Fantom,Dexes
+Swapline,Optimism,Dexes
+SwapperChan,Boba,Dexes
+Swappi,Conflux,Dexes
+Swapr,Arbitrum,Dexes
+Swapr,Ethereum,Dexes
+Swapr,xDai,Dexes
+Swaprum,Arbitrum,Dexes
+Swapscanner,Klaytn,Dexes
+Swapsicle,Arbitrum,Dexes
+Swapsicle,Avalanche,Dexes
+Swapsicle,Binance,Dexes
+Swapsicle,Ethereum,Dexes
+Swapsicle,Fantom,Dexes
+Swapsicle,Optimism,Dexes
+Swapsicle,Polygon,Dexes
+Swapsicle,Telos,Dexes
+Swarm Markets,Ethereum,Dexes
+Swarm Markets,Polygon,Dexes
+SweetSwap,Dogechain,Dexes
+Swell,Ethereum,Liquid Staking
+Swerve,Ethereum,Dexes
+Swift Finance,Avalanche,Yield
+Swim Protocol,Solana,Cross Chain
+Swing DAO,Avalanche,Reserve Currency
+Swipe,Binance,Dexes
+Swipe,Ethereum,Dexes
+SwissBorg,Binance,CEX
+SwissBorg,Bitcoin,CEX
+SwissBorg,Cardano,CEX
+SwissBorg,Ethereum,CEX
+SwissBorg,Hedera,CEX
+SwissBorg,Near,CEX
+SwissBorg,Polkadot,CEX
+SwissBorg,Ripple,CEX
+SwissBorg,Solana,CEX
+Swivel Finance,Ethereum,Yield
+Swop,Waves,Dexes
+Symbiosis Finance,Arbitrum,Cross Chain
+Symbiosis Finance,Arbitrum Nova,Cross Chain
+Symbiosis Finance,Aurora,Cross Chain
+Symbiosis Finance,Avalanche,Cross Chain
+Symbiosis Finance,Binance,Cross Chain
+Symbiosis Finance,Boba,Cross Chain
+Symbiosis Finance,Boba_Avax,Cross Chain
+Symbiosis Finance,Boba_Bnb,Cross Chain
+Symbiosis Finance,Ethereum,Cross Chain
+Symbiosis Finance,Kava,Cross Chain
+Symbiosis Finance,Optimism,Cross Chain
+Symbiosis Finance,Polygon,Cross Chain
+Symbiosis Finance,Telos,Cross Chain
+Symbiosis Finance,zkSync Era,Cross Chain
+Symblox,Velas,Synthetics
+Symmetric,Celo,Dexes
+Symmetric,Kava,Dexes
+Symmetric,xDai,Dexes
+Symmetry,Solana,Indexes
+Symphony Finance,Avalanche,Dexes
+Symphony Finance,Optimism,Dexes
+Symphony Finance,Polygon,Dexes
+SynFutures,Arbitrum,Derivatives
+SynFutures,Binance,Derivatives
+SynFutures,Ethereum,Derivatives
+SynFutures,Polygon,Derivatives
+SynLev,Ethereum,Synthetics
+Synapse,Arbitrum,Bridge
+Synapse,Aurora,Bridge
+Synapse,Avalanche,Bridge
+Synapse,Binance,Bridge
+Synapse,Boba,Bridge
+Synapse,Canto,Bridge
+Synapse,Cronos,Bridge
+Synapse,Ethereum,Bridge
+Synapse,Fantom,Bridge
+Synapse,Harmony,Bridge
+Synapse,Klaytn,Bridge
+Synapse,Metis,Bridge
+Synapse,Moonbeam,Bridge
+Synapse,Moonriver,Bridge
+Synapse,Optimism,Bridge
+Synapse,Polygon,Bridge
+Synapse,Terra,Bridge
+SyncSwap,zkSync Era,Dexes
+SynthEx,Arbitrum,Synthetics
+Synthetify,Solana,Dexes
+Synthetix,Ethereum,Synthetics
+Synthetix,Optimism,Synthetics
+Syrup Finance,Binance,Derivatives
+TEN Finance,Binance,Yield
+TFM,Terra,Dexes
+THENA FUSION,Binance,Dexes
+THENA V1,Binance,Dexes
+THORSwap,Thorchain,Dexes
+THORWallet DEX,Ethereum,Cross Chain
+TProtocol,Ethereum,CDP
+TTswap,ThunderCore,Dexes
+TWTStake,Binance,Yield
+TaiChi,Binance,Reserve Currency
+Taiga Acala,Acala,Synthetics
+Taiga Protocol,Karura,Synthetics
+Talent Protocol,Celo,Services
+Tangent,Hedera,Dexes
+Tangible,Polygon,RWA
+TangoSwap,smartBCH,Dexes
+Tarina,Avalanche,Dexes
+Tarot,Arbitrum,Lending
+Tarot,Avalanche,Lending
+Tarot,Binance,Lending
+Tarot,Canto,Lending
+Tarot,Ethereum,Lending
+Tarot,Fantom,Lending
+Tarot,Kava,Lending
+Tarot,Optimism,Lending
+Tarot,Polygon,Lending
+Tarot,zkSync Era,Lending
+Tealswap,Oasys,Dexes
+Team Finance,Avalanche,Launchpad
+Team Finance,Binance,Launchpad
+Team Finance,Ethereum,Launchpad
+Team Finance,Kava,Launchpad
+Team Finance,Polygon,Launchpad
+Tectonic,Cronos,Lending
+Teddy Cash,Avalanche,CDP
+Tegisto,Kava,Dexes
+Tegro Finance,TON,Dexes
+Telcoin,Polygon,Payments
+Teller,Ethereum,Lending
+Teller,Polygon,Lending
+Telos Swap,Telos,Dexes
+Templar DAO,Binance,Reserve Currency
+Templar DAO,Harmony,Reserve Currency
+Templar DAO,Moonriver,Reserve Currency
+TempleDAO,Ethereum,Reserve Currency
+TempleDAO Trade,Ethereum,Dexes
+TempoDAO,Avalanche,Reserve Currency
+Tempus Finance,Ethereum,Yield
+Tempus Finance,Fantom,Yield
+Tender Finance,Arbitrum,Lending
+Tenderize,Arbitrum,Liquid Staking
+Tenderize,Ethereum,Liquid Staking
+TendieSwap,Binance,Dexes
+Tenet,Binance,Yield
+Tenet,Ethereum,Yield
+Terra Bridge,Binance,Bridge
+Terra Bridge,Ethereum,Bridge
+Terra Bridge,Harmony,Bridge
+TerraFloki,Terra,Dexes
+Terraswap,Terra,Dexes
+Terraswap,Terra2,Dexes
+Tesseract,Polygon,Yield
+Tethys AMM,Metis,Dexes
+Tethys Perpetual,Metis,Derivatives
+Tetu Earn,Binance,Yield
+Tetu Earn,Ethereum,Yield
+Tetu Earn,Fantom,Yield
+Tetu Earn,Polygon,Yield
+Tetu Swap,Polygon,Yield
+Tezos Liquidity Baking,Tezos,Dexes
+Thala CDP,Aptos,CDP
+ThalaSwap,Aptos,Dexes
+Thales,Arbitrum,Prediction Market
+Thales,Ethereum,Prediction Market
+Thales,Optimism,Prediction Market
+Thales,Polygon,Prediction Market
+The Don Finance,Fantom,Farm
+The Dragon's Lair,Avalanche,Yield
+The Grand Banks,Binance,Yield
+The Grand Banks,Moonriver,Yield
+The Grand Banks,Polygon,Yield
+The Idols,Ethereum,Reserve Currency
+The Open DAO SOS,Ethereum,Services
+The Parallel,Binance,Gaming
+The Sandbox,Ethereum,Gaming
+The Sandbox,Polygon,Gaming
+The Seed Farm,Avalanche,Yield
+The Story of Draco,Fantom,Farm
+The Tokenized Bitcoin,Ethereum,Services
+ThetaCash,Theta,Synthetics
+ThetaSwap,Theta,Dexes
+Thetanuts Finance,Arbitrum,Options Vault
+Thetanuts Finance,Aurora,Options Vault
+Thetanuts Finance,Avalanche,Options Vault
+Thetanuts Finance,Binance,Options Vault
+Thetanuts Finance,Boba,Options Vault
+Thetanuts Finance,Ethereum,Options Vault
+Thetanuts Finance,Fantom,Options Vault
+Thetanuts Finance,Polygon,Options Vault
+Thor Financial,Avalanche,Yield
+Thorchain,Avalanche,Dexes
+Thorchain,Binance,Dexes
+Thorchain,Bitcoin,Dexes
+Thorchain,Bitcoincash,Dexes
+Thorchain,Cosmos,Dexes
+Thorchain,Doge,Dexes
+Thorchain,Ethereum,Dexes
+Thorchain,Litecoin,Dexes
+Thorchain,Thorchain,Dexes
+Thoreum Finance,Binance,Yield
+Thorstarter,Ethereum,Launchpad
+ThorusFi,Avalanche,Dexes
+ThorusFi,Moonbeam,Dexes
+ThunderCore Staking,ThunderCore,Staking Pool
+ThunderPOKT,Polygon,Liquid Staking
+TiFi,Binance,Dexes
+TiPiDao,Binance,Reserve Currency
+Tidal Finance,Polygon,Insurance
+Timeless Finance,Ethereum,Yield
+Timeswap V1,Polygon,Lending
+Timeswap V2,Arbitrum,Lending
+Timeswap V2,Ethereum,Lending
+Timeswap V2,Polygon,Lending
+Timewarp,Binance,Yield
+Timewarp,Ethereum,Yield
+Tinyman,Algorand,Dexes
+Titano Swych,Binance,Dexes
+Tokemak,Ethereum,Yield
+TokenPocket,Ethereum,Services
+Tokenlon,Ethereum,Dexes
+TokensFarm,Avalanche,Yield
+TokensFarm,Binance,Yield
+TokensFarm,Ethereum,Yield
+TokensFarm,Fantom,Yield
+TokensFarm,Polygon,Yield
+Tomb,Fantom,Algo-Stables
+Tomb Swap,Fantom,Dexes
+TomoFinance,TomoChain,CDP
+Tonic,Near,Dexes
+Tonic Cash,Klaytn,Privacy
+Tonic Cash,WEMIX,Privacy
+Tonpound,Ethereum,Lending
+TopShelf,Avalanche,CDP
+TopShelf,Binance,CDP
+TopShelf,Fantom,CDP
+Torches,Kucoin,Lending
+Toreus,Kava,Lending
+Tornadao,Avalanche,Reserve Currency
+Tornado Cash,Arbitrum,Privacy
+Tornado Cash,Avalanche,Privacy
+Tornado Cash,Binance,Privacy
+Tornado Cash,Ethereum,Privacy
+Tornado Cash,Optimism,Privacy
+Tornado Cash,Polygon,Privacy
+Tornado Cash,xDai,Privacy
+Tornado Finance,Binance,Yield
+Tornado Finance,Ethereum,Yield
+Tornado Finance,Polygon,Yield
+Toros,Optimism,Indexes
+Toros,Polygon,Indexes
+Tortuga,Aptos,Liquid Staking
+TotemFi,Binance,Prediction Market
+Toucan Protocol,Celo,RWA
+Toucan Protocol,Polygon,RWA
+Toucan Protocol,Regen,RWA
+ToxicDeer Finance,Cronos,Algo-Stables
+Traddify Arbitrage,Kava,Yield Aggregator
+Trader Joe DEX,Avalanche,Dexes
+Trader Joe DEX,Binance,Dexes
+Trader Joe Lend,Avalanche,Lending
+TrainSwap,Arbitrum,Dexes
+Tranche Finance,Avalanche,Yield
+Tranche Finance,Ethereum,Yield
+Tranche Finance,Fantom,Yield
+Tranche Finance,Polygon,Yield
+Tranchess,Binance,Yield
+Tranchess,Ethereum,Yield
+Tranquil Finance,Harmony,Lending
+Trapeza Protocol,Binance,Reserve Currency
+Trava Finance,Binance,Lending
+Trava Finance,Fantom,Lending
+TreasureDAO,Arbitrum,Yield
+TreeDefi,Binance,Yield
+TreeHouse Finance,Avalanche,Yield
+Trick or Treat Farm,Fantom,Farm
+Trisolaris,Aurora,Dexes
+TronNRG,Tron,Staking Pool
+Tropical Finance,smartBCH,Dexes
+Tropykus Finance,RSK,Lending
+TroyDefi,Binance,Farm
+TruFin,Ethereum,Options Vault
+TrueFeedBack,Celo,Gaming
+TrueFeedBack,Kava,Gaming
+TrueFi,Ethereum,Uncollateralized Lending
+TrustSwap,Ethereum,Services
+Trusted Node,Binance,Liquid Staking
+Trusted Node,Fantom,Liquid Staking
+Tsunami.Finance,Aptos,Derivatives
+Tulip,Oasis,Algo-Stables
+Tulip Protocol,Solana,Yield
+Turbos,Sui,Dexes
+Twindex,Binance,Options
+Typhoon Cash,Ethereum,Privacy
+Typus Finance,Sui,Options Vault
+UNO farm,Aurora,Yield Aggregator
+UNO farm,Avalanche,Yield Aggregator
+UNO farm,Binance,Yield Aggregator
+UNO farm,Polygon,Yield Aggregator
+USDFI Lending,Binance,Lending
+USK,Kujira,CDP
+UWU Protocol,Stacks,CDP
+UXD,Solana,Algo-Stables
+Ubeswap,Celo,Dexes
+Ubiquity DAO,Ethereum,Services
+Ultra Protocol,Binance,Services
+Ultron Staking Hub NFT,Ultron,Staking Pool
+UltronSwap,Ultron,Dexes
+Umami Finance,Arbitrum,Yield
+Umbrella Network,Binance,Oracle
+Umbrella Network,Ethereum,Oracle
+Umbria Network,Ethereum,Cross Chain
+Umbria Network,Polygon,Cross Chain
+Umee,Ethereum,Lending
+Umee,Umee,Lending
+Unagii,Ethereum,Yield
+Unamano,Ethereum,Yield
+Unbanked,Fantom,Yield Aggregator
+Unbound,Ethereum,Derivatives
+Unbound,Polygon,Derivatives
+Undead Finance,Fantom,Yield
+UniCrypt,Avalanche,Launchpad
+UniCrypt,Binance,Launchpad
+UniCrypt,Ethereum,Launchpad
+UniCrypt,Polygon,Launchpad
+UniCrypt,xDai,Launchpad
+UniDex,Binance,Derivatives
+UniDex,Boba,Derivatives
+UniDex,Fantom,Derivatives
+UniDex,Metis,Derivatives
+UniDex,Optimism,Derivatives
+UniDex,zkSync Era,Derivatives
+UniFarm,Binance,Yield
+UniFarm,Ethereum,Yield
+UniFarm,Polygon,Yield
+UniFi,Avalanche,Dexes
+UniFi,Binance,Dexes
+UniFi,Bittorrent,Dexes
+UniFi,Ethereum,Dexes
+UniFi,Fantom,Dexes
+UniFi,Harmony,Dexes
+UniFi,IoTeX,Dexes
+UniFi,OntologyEVM,Dexes
+UniFi,Polygon,Dexes
+UniFi,Tron,Dexes
+UniFi Staking,Harmony,Staking Pool
+UniFi Staking,Icon,Staking Pool
+UniFi Staking,IoTeX,Staking Pool
+UniFi Staking,Ontology,Staking Pool
+UniFi Staking,Tron,Staking Pool
+UniPower,Ethereum,Yield
+UniPower,Polygon,Yield
+UniTrade,Ethereum,Dexes
+UniWswap AMM,EthereumPoW,Dexes
+UniWswap UNIA Farms,Arbitrum,Farm
+UniWswap UNIA Farms,EthereumPoW,Farm
+Unibot V2,Arbitrum,Liquidity manager
+Unibot V2,Polygon,Liquidity manager
+Unicly,Ethereum,Dexes
+Unilend,Binance,Lending
+Unilend,Ethereum,Lending
+Unilend,Polygon,Lending
+Union Protocol,Arbitrum,Uncollateralized Lending
+Union Protocol,Ethereum,Uncollateralized Lending
+Union Protocol,Optimism,Uncollateralized Lending
+Unipilot,Arbitrum,Liquidity manager
+Unipilot,Ethereum,Liquidity manager
+Unipilot,Polygon,Liquidity manager
+Unirex Finance,Fantom,Farm
+Uniswap V1,Ethereum,Dexes
+Uniswap V2,Ethereum,Dexes
+Uniswap V3,Arbitrum,Dexes
+Uniswap V3,Binance,Dexes
+Uniswap V3,Celo,Dexes
+Uniswap V3,Ethereum,Dexes
+Uniswap V3,Optimism,Dexes
+Uniswap V3,Polygon,Dexes
+Unit Protocol,Ethereum,CDP
+Unite Finance,Harmony,Algo-Stables
+Universe Finance,Ethereum,Liquidity manager
+Universe Finance,Polygon,Liquidity manager
+Universe XYZ,Ethereum,Yield
+UniverseFTM,Fantom,Yield
+Uniwhale,Binance,Derivatives
+Unizen,Ethereum,Services
+Unknown,Binance,Yield
+Unlockd,Ethereum,Lending
+UnoRe,Binance,Insurance
+UnoRe,Ethereum,Insurance
+UnoRe,Kava,Insurance
+Unslashed,Ethereum,Insurance
+UnusDao,Binance,Reserve Currency
+Uplift DAO,Binance,Launchpad
+Uswap,Tron,Dexes
+UwU Lend,Ethereum,Lending
+V3S Finance,Cronos,Algo-Stables
+VAX,MultiVAC,Dexes
+VITCSwap,Vite,Dexes
+VVS Finance,Cronos,Dexes
+Vacus Finance,Avalanche,Yield Aggregator
+Valas Finance,Binance,Lending
+Valerian,Astar,Yield
+ValhallaDAO,Avalanche,Reserve Currency
+Valkyrie,Terra,Launchpad
+ValleySwap,Oasis,Dexes
+Value Liquid,Ethereum,Dexes
+ValueDefi,Binance,Dexes
+VampireSwap,Fantom,Dexes
+VanSwap,Vision,Dexes
+Vanilla,Ethereum,Derivatives
+VaporDex,Avalanche,Dexes
+VaporFi,Avalanche,Yield
+Vaporwave,Aurora,Yield Aggregator
+Varen,Ethereum,Dexes
+Vaultka,Arbitrum,Yield
+Vaulty Finance,Binance,Yield
+VeRocket,VeChain,Dexes
+Veax,Near,Dexes
+Vector Finance,Avalanche,Yield
+Vee Finance,Avalanche,Lending
+Vee Finance,Heco,Lending
+Vega Protocol,Ethereum,Derivatives
+Vela Exchange,Arbitrum,Derivatives
+VelasPad,Velas,Launchpad
+VeleroDAO,Velas,CDP
+Velhalla,Velas,Gaming
+Velocimeter V1,Canto,Dexes
+Velocimeter V2,Canto,Dexes
+Velocore,zkSync Era,Dexes
+Velodrome,Optimism,Dexes
+Velvet.Capital,Binance,Indexes
+Vendor V1,Arbitrum,Lending
+Vendor V1,Ethereum,Lending
+Vendor V2,Arbitrum,Lending
+VeniceSwap,Findora,Dexes
+Veno Finance,Cronos,Liquid Staking
+Venus,Binance,Lending
+Verified Credits,Kava,Farm
+Veritable DAO,Polygon,Yield
+Versa Finance,Astar,Dexes
+VersaGames,Cronos,Gaming
+Verse,Ethereum,Dexes
+Verse,smartBCH,Dexes
+Vertex Protocol,Arbitrum,Derivatives
+Vesper,Avalanche,Yield Aggregator
+Vesper,Ethereum,Yield Aggregator
+Vesper,Optimism,Yield Aggregator
+Vesper,Polygon,Yield Aggregator
+Vesq,Polygon,Reserve Currency
+Vesta Finance,Arbitrum,CDP
+Vexchange,VeChain,Dexes
+Vidya,Ethereum,Gaming
+Vigor,EOS,Lending
+VikingsFinance,Avalanche,Reserve Currency
+ViperSwap,Harmony,Dexes
+Vires Finance,Waves,Lending
+ViteX,Vite,Dexes
+Viva,Vite,Yield
+ViveLaBouje,Fantom,Yield
+Void,Fantom,Yield
+Volmex,Arbitrum,Yield
+Volmex,Ethereum,Yield
+Volmex,Polygon,Yield
+VoltSwap,Meter,Dexes
+VoltSwap,Theta,Dexes
+VoltSwap V2,Meter,Dexes
+Volta DAO,Avalanche,Reserve Currency
+Volta DAO,Fantom,Reserve Currency
+Volta Finance,Arbitrum,CDP
+Voltage,Fuse,Dexes
+Voltz,Ethereum,Derivatives
+Vortex DAO,Avalanche,Reserve Currency
+Vortex Protocol,Tezos,Dexes
+Vovo Finance,Arbitrum,Yield
+Voyager,Ethereum,Services
+VultureSwap,Cronos,Dexes
+VyFinance Dex,Cardano,Dexes
+VyFinance Vaults,Cardano,Farm
+W3swap,Binance,Dexes
+WAGMI,Fantom,Dexes
+WAGMI,zkSync Era,Dexes
+WBTC,Ethereum,Bridge
+WEMIX.FI AMM,WEMIX,Dexes
+WEMIX.FI Lend,WEMIX,Lending
+WEMIX.FI Staking,WEMIX,Staking Pool
+WINR Protocol,Arbitrum,Prediction Market
+WOO X,Arbitrum,CEX
+WOO X,Avalanche,CEX
+WOO X,Binance,CEX
+WOO X,Bitcoin,CEX
+WOO X,Ethereum,CEX
+WOO X,Fantom,CEX
+WOO X,Optimism,CEX
+WOO X,Polygon,CEX
+WOO X,Tron,CEX
+WOOFi Earn,Arbitrum,Yield
+WOOFi Earn,Avalanche,Yield
+WOOFi Earn,Binance,Yield
+WOOFi Earn,Fantom,Yield
+WOOFi Earn,Optimism,Yield
+WOOFi Earn,Polygon,Yield
+WOOFi Swap,Arbitrum,Dexes
+WOOFi Swap,Avalanche,Dexes
+WOOFi Swap,Binance,Dexes
+WOOFi Swap,Fantom,Dexes
+WOOFi Swap,Optimism,Dexes
+WOOFi Swap,Polygon,Dexes
+WOOFi Swap,zkSync Era,Dexes
+WOWswap,Avalanche,Dexes
+WOWswap,Binance,Dexes
+WOWswap,Ethereum,Dexes
+WOWswap,Heco,Dexes
+WOWswap,IoTeX,Dexes
+WOWswap,Kava,Dexes
+WOWswap,Metis,Dexes
+WOWswap,Polygon,Dexes
+WTFDOGE,Dogechain,Farm
+WX Network,Waves,Dexes
+WYND DEX,Juno,Dexes
+WYND LSD,Juno,Liquid Staking
+WagmiDAO,Harmony,Reserve Currency
+WagyuSwap,Velas,Dexes
+Waka Finance,Fantom,Dexes
+Wan Bridge,Arbitrum,Bridge
+Wan Bridge,Astar,Bridge
+Wan Bridge,Avalanche,Bridge
+Wan Bridge,Binance,Bridge
+Wan Bridge,Bitcoin,Bridge
+Wan Bridge,Doge,Bridge
+Wan Bridge,Ethereum,Bridge
+Wan Bridge,Fantom,Bridge
+Wan Bridge,Litecoin,Bridge
+Wan Bridge,Moonbeam,Bridge
+Wan Bridge,Moonriver,Bridge
+Wan Bridge,OKExChain,Bridge
+Wan Bridge,Optimism,Bridge
+Wan Bridge,Polkadot,Bridge
+Wan Bridge,Polygon,Bridge
+Wan Bridge,Ripple,Bridge
+Wan Bridge,Tron,Bridge
+Wan Bridge,Wanchain,Bridge
+Wan Bridge,XDC,Bridge
+WanLend,Wanchain,Lending
+WanSwap Dex,Wanchain,Dexes
+WannaSwap,Aurora,Dexes
+WardenSwap,Binance,Dexes
+Warp,Polygon,Reserve Currency
+Warp Protocol,Ethereum,Lending
+Wasabi,Ethereum,Options
+Wasabix,Binance,Yield
+Wasabix,Ethereum,Yield
+Wasabix,Polygon,Yield
+WaterDendy,Arbitrum,Yield
+WaterLoan,CSC,Lending
+WaterLoan,smartBCH,Lending
+Waterfall BSC,Arbitrum,Yield
+Waterfall BSC,Binance,Yield
+Waterfall DEX,Arbitrum,Dexes
+Waterfall DeFi,Avalanche,Yield Aggregator
+Waterfall DeFi,Binance,Yield Aggregator
+Waterfall Finance Yield,Fantom,Yield
+Waterfall WTF,Binance,Algo-Stables
+Wault,Binance,Yield
+Wault,Polygon,Yield
+Wavelength DAO,Velas,Dexes
+WePiggy,Arbitrum,Lending
+WePiggy,Aurora,Lending
+WePiggy,Binance,Lending
+WePiggy,Ethereum,Lending
+WePiggy,Harmony,Lending
+WePiggy,Heco,Lending
+WePiggy,Moonbeam,Lending
+WePiggy,Moonriver,Lending
+WePiggy,OKExChain,Lending
+WePiggy,Oasis,Lending
+WePiggy,Optimism,Lending
+WePiggy,Polygon,Lending
+WeStarter,Heco,Launchpad
+Weld Finance,Kava,Farm
+Welnance,Binance,Chain
+Whale Loans,Binance,Reserve Currency
+WhaleEx,EOS,Dexes
+WhaleSwap,Arbitrum,Dexes
+WhaleSwap,Avalanche,Dexes
+WhaleSwap,Binance,Dexes
+WhaleSwap,Fantom,Dexes
+WhaleSwap,Kava,Dexes
+WhaleSwap,Optimism,Dexes
+WhaleSwap,Polygon,Dexes
+White Whale,Terra,Yield
+Whiteheart,Ethereum,Options
+Whitehole Finance,Arbitrum,Lending
+WigoSwap,Fantom,Dexes
+Wild Credit,Ethereum,Lending
+WinerySwap,Binance,Dexes
+Wing Finance,Binance,Lending
+Wing Finance,Ethereum,Lending
+Wing Finance,OKExChain,Lending
+Wing Finance,Ontology,Lending
+Wing Finance,OntologyEVM,Lending
+WingRiders,Cardano,Dexes
+WingSwap,Fantom,Dexes
+Winkyverse,Binance,Services
+Wisteria Swap,Binance,Yield
+WitSwap,Ethereum,Oracle
+Wojak Finance,Dogechain,Dexes
+Wolf Safe Poor People,Avalanche,Yield
+Wolf Safe Poor People,Binance,Yield
+Wolf Safe Poor People,Kardia,Yield
+Wolf Safe Poor People,Polygon,Yield
+Wombat Exchange,Arbitrum,Dexes
+Wombat Exchange,Binance,Dexes
+Wombex Finance,Arbitrum,Yield
+Wombex Finance,Binance,Yield
+Wonderland,Avalanche,Reserve Currency
+Wonderland,Ethereum,Reserve Currency
+Wonderly Finance,Arbitrum,Algo-Stables
+Wonderly Finance,Fantom,Algo-Stables
+World Mobile Token,Cardano,Services
+WraithSwap,Fantom,Dexes
+Wrap Protocol,Ethereum,Synthetics
+Wrapped,Celo,Cross Chain
+Wrapped,Ethereum,Cross Chain
+Wrapped BNB,Binance,Bridge
+Wrapped ILCOIN,Ethereum,Yield
+X,Ethereum,Services
+X Blue Finance,Arbitrum,Yield
+X2Y2,Ethereum,NFT Lending
+X7 Finance,Ethereum,Dexes
+XCarnival,Ethereum,NFT Lending
+XDeFi,Ethereum,Dexes
+XEUS,Binance,Reserve Currency
+XSwap Protocol,XDC,Dexes
+XUSD Money,Ethereum,Algo-Stables
+XY Finance,Arbitrum,Bridge
+XY Finance,Astar,Bridge
+XY Finance,Avalanche,Bridge
+XY Finance,Binance,Bridge
+XY Finance,Cronos,Bridge
+XY Finance,Ethereum,Bridge
+XY Finance,Fantom,Bridge
+XY Finance,Klaytn,Bridge
+XY Finance,Kucoin,Bridge
+XY Finance,Moonriver,Bridge
+XY Finance,Optimism,Bridge
+XY Finance,Polygon,Bridge
+XY Finance,Polygon zkEVM,Bridge
+XY Finance,ThunderCore,Bridge
+XY Finance,WEMIX,Bridge
+XY Finance,zkSync Era,Bridge
+Xenophon,Binance,Reserve Currency
+Xensa,OKExChain,Lending
+Xmas Past,Fantom,Farm
+Xray Swap,Binance,Yield
+Y2B Finance,Ethereum,Derivatives
+Y2K Finance,Arbitrum,Derivatives
+Y2R,Canto,Yield Aggregator
+YEL Finance,Binance,Yield
+YEL Finance,Ethereum,Yield
+YEL Finance,Fantom,Yield
+YEL Finance,Polygon,Yield
+YFDAI,Ethereum,Services
+YFII,Ethereum,Yield Aggregator
+YSL.IO,Binance,Yield
+Yam Finance,Ethereum,Synthetics
+Yama Finance,Arbitrum,CDP
+Yapeswap,Ethereum,Dexes
+Yearn Finance,Arbitrum,Yield Aggregator
+Yearn Finance,Ethereum,Yield Aggregator
+Yearn Finance,Fantom,Yield Aggregator
+Yearn Finance,Optimism,Yield Aggregator
+Yeti Finance,Avalanche,CDP
+YetiSwap,Avalanche,Dexes
+Yield Protocol,Arbitrum,Lending
+Yield Protocol,Ethereum,Lending
+Yield Yak Aggregator,Avalanche,Yield Aggregator
+Yield Yak Staked Avax,Avalanche,Liquid Staking
+YieldBank,Kava,Yield Aggregator
+YieldFields,Binance,Dexes
+YieldHub Finance,Telos,Yield Aggregator
+YieldWolf,Avalanche,Yield
+YieldWolf,Binance,Yield
+YieldWolf,Celo,Yield
+YieldWolf,Cronos,Yield
+YieldWolf,Fantom,Yield
+YieldWolf,Harmony,Yield
+YieldWolf,Polygon,Yield
+Yieldly,Algorand,Yield
+Yodeswap,Dogechain,Dexes
+Yogi Finance,Binance,Dexes
+Yogi Finance,Polygon,Dexes
+YokaiSwap,Godwoken,Dexes
+YokaiSwap,GodwokenV1,Dexes
+Yoshi Exchange,Binance,Dexes
+Yoshi Exchange,Fantom,Dexes
+YouSwap,Binance,Dexes
+YouSwap,Ethereum,Dexes
+YouSwap,Heco,Dexes
+Youves,Tezos,Synthetics
+Ysmart,Kava,Services
+Yumiswap,Astar,Dexes
+Yup,Ethereum,Services
+Yup,Polygon,Services
+Yupana,Tezos,Lending
+YuzuSwap,Oasis,Dexes
+ZKSwap,Ethereum,Chain
+ZKasino,Arbitrum,Prediction Market
+ZKasino,Binance,Prediction Market
+ZKasino,Fantom,Prediction Market
+ZKasino,Polygon,Prediction Market
+ZORA,Ethereum,NFT Marketplace
+ZYXSwap,ZYX,Dexes
+Zabu Finance,Avalanche,Yield
+Zai Finance,Ethereum,Algo-Stables
+Zappy,Telos,Dexes
+Zencha Finance,Boba,Dexes
+Zeniq Swap,Zeniq,Dexes
+Zenith,Ethereum,Leveraged Farming
+ZenithSwap,Arbitrum,Dexes
+Zenlink AMM,Astar,Dexes
+Zenlink AMM,Moonbeam,Dexes
+Zenlink AMM,Moonriver,Dexes
+ZeroShift,Avalanche,Reserve Currency
+ZeroSwap,Avalanche,Dexes
+ZeroSwap,Binance,Dexes
+ZeroSwap,Ethereum,Dexes
+ZeroSwap,Polygon,Dexes
+Zest Protocol,Fantom,Synthetics
+Zeta,Solana,Options
+Zeus Finance,Fantom,Yield
+Zharta,Ethereum,NFT Lending
+ZigZag,Arbitrum,Dexes
+ZilSwap,Zilliqa,Dexes
+Zinax DAO,Binance,Farm
+ZipSwap,Arbitrum,Dexes
+ZipSwap,Optimism,Dexes
+Zircon Gamma,Binance,Dexes
+Zircon Gamma,Moonriver,Dexes
+Zks Miner,zkSync Era,Yield
+ZodiacDAO,Binance,Reserve Currency
+Zolidly Finance,zkSync Era,Dexes
+Zomb2 Finance,Fantom,Algo-Stables
+Zombi Finance,Fantom,Algo-Stables
+Zombie Network,Klaytn,Yield
+Zomma protocol,zkSync Era,Options
+Zonic,Optimism,NFT Marketplace
+ZooCoin,Fantom,Dexes
+ZooDAO,Moonbeam,Yield
+Zookeeper,Avalanche,Yield
+Zookeeper,Wanchain,Yield
+ZoomSwap,IoTeX,Farm
+Zootopia Finance,Binance,Dexes
+ZukeSwap,Loop,Dexes
+Zunami Protocol,Ethereum,Yield Aggregator
+ZyberSwap Stableswap,Arbitrum,Dexes
+Zyberswap AMM,Arbitrum,Dexes
+Zyberswap V3,Arbitrum,Dexes
+aSOL,Solana,Liquid Staking
+anetaBTC,Cardano,Bridge
+anetaBTC,Ergo,Bridge
+cBridge,Arbitrum,Bridge
+cBridge,Astar,Bridge
+cBridge,Aurora,Bridge
+cBridge,Avalanche,Bridge
+cBridge,Binance,Bridge
+cBridge,Boba,Bridge
+cBridge,CLV,Bridge
+cBridge,Celo,Bridge
+cBridge,Conflux,Bridge
+cBridge,Ethereum,Bridge
+cBridge,Fantom,Bridge
+cBridge,Harmony,Bridge
+cBridge,Heco,Bridge
+cBridge,Metis,Bridge
+cBridge,Milkomeda,Bridge
+cBridge,Moonbeam,Bridge
+cBridge,Moonriver,Bridge
+cBridge,OKExChain,Bridge
+cBridge,Oasis,Bridge
+cBridge,Optimism,Bridge
+cBridge,Polygon,Bridge
+cBridge,REI,Bridge
+cBridge,Shiden,Bridge
+cBridge,Syscoin,Bridge
+cBridge,xDai,Bridge
+cSwap,Comdex,Dexes
+cVault Finance,Ethereum,Yield
+cantOHM,Canto,Reserve Currency
+casinocronos,Cronos,Dexes
+crvUSD,Ethereum,CDP
+dAMM Finance,Ethereum,Uncollateralized Lending
+dForce,Arbitrum,Lending
+dForce,Avalanche,Lending
+dForce,Binance,Lending
+dForce,Ethereum,Lending
+dForce,Kava,Lending
+dForce,Optimism,Lending
+dForce,Polygon,Lending
+dHEDGE,Ethereum,Indexes
+dHEDGE,Optimism,Indexes
+dHEDGE,Polygon,Indexes
+dYdX,Ethereum,Derivatives
+deBridge,Arbitrum,Bridge
+deBridge,Binance,Bridge
+deBridge,Ethereum,Bridge
+deBridge,Heco,Bridge
+deBridge,Polygon,Bridge
+eCurve,EOS,Dexes
+eckoDAO,Kadena,Dexes
+ether.fi,Ethereum,Liquid Staking
+fees.wtf,Ethereum,Services
+forlend,Findora,Lending
+hBTC,Ethereum,Bridge
+handle.fi,Arbitrum,CDP
+handle.fi Perps,Arbitrum,Derivatives
+iTrust Finance,Ethereum,Insurance
+iZUMi LiquidBox,Arbitrum,Yield
+iZUMi LiquidBox,Aurora,Yield
+iZUMi LiquidBox,Binance,Yield
+iZUMi LiquidBox,Cronos,Yield
+iZUMi LiquidBox,Ethereum,Yield
+iZUMi LiquidBox,Polygon,Yield
+iZiSwap,Arbitrum,Dexes
+iZiSwap,Aurora,Dexes
+iZiSwap,Binance,Dexes
+iZiSwap,Cronos,Dexes
+iZiSwap,Ethereum,Dexes
+iZiSwap,EthereumClassic,Dexes
+iZiSwap,Meter,Dexes
+iZiSwap,OntologyEVM,Dexes
+iZiSwap,Polygon,Dexes
+iZiSwap,zkSync Era,Dexes
+insrt finance,Ethereum,Synthetics
+ioTube,Binance,Bridge
+ioTube,Ethereum,Bridge
+ioTube,IoTeX,Bridge
+ioTube,Polygon,Bridge
+kaDefi,Kava,Yield
+ko.one,zkSync Era,Dexes
+mStable CDP,Ethereum,CDP
+mStable CDP,Polygon,CDP
+mStable Yield,Ethereum,Yield
+marginfi,Solana,Lending
+mirrosset,Kava,CDP
+multiverse,Kava,Dexes
+mySwap,Starknet,Dexes
+onAVAX,Avalanche,Dexes
+pDollar,Fantom,Algo-Stables
+pNetwork,Algorand,Cross Chain
+pNetwork,Arbitrum,Cross Chain
+pNetwork,Binance,Cross Chain
+pNetwork,EOS,Cross Chain
+pNetwork,Ethereum,Cross Chain
+pNetwork,LBRY,Cross Chain
+pNetwork,Polygon,Cross Chain
+pNetwork,Telos,Cross Chain
+pNetwork,Ultra,Cross Chain
+pSTAKE Finance,Binance,Liquid Staking
+pSTAKE Finance,Persistence,Liquid Staking
+prePO,Arbitrum,Derivatives
+printyfinance,Avalanche,Dexes
+pxswap,Kava,NFT Marketplace
+sCANTO,Canto,Liquid Staking
+sICX,Icon,Liquid Staking
+sKCS,Kucoin,Liquid Staking
+sTLOS Liquid Staking,Telos,Liquid Staking
+sevenswap,Kava,Dexes
+stCELO,Celo,Liquid Staking
+stETH.win,Ethereum,Services
+stake.link index,Ethereum,Indexes
+stake.link liquid,Ethereum,Liquid Staking
+tBTC,Ethereum,Bridge
+unFederalReserve,Ethereum,Lending
+uniETH,Ethereum,Liquid Staking
+unshETH,Ethereum,Indexes
+veDAO,Fantom,Farm
+veSync,zkSync Era,Dexes
+weBribe DAO,Fantom,Services
+wefi,Polygon,Lending
+xBacked,Algorand,CDP
+xDAI Stake Bridge,Ethereum,Chain
+xDollar,Arbitrum,CDP
+xDollar,Avalanche,CDP
+xDollar,Ethereum,CDP
+xDollar,IoTeX,CDP
+xDollar,Polygon,CDP
+xExchange,Elrond,Dexes
+xSigma,Ethereum,Dexes
+xToken,Arbitrum,Liquidity manager
+xToken,Ethereum,Liquidity manager
+xToken,Optimism,Liquidity manager
+xToken,Polygon,Liquidity manager
+xWeowns,Lachain,Yield
+yAxis,Ethereum,Yield Aggregator
+zLot,Ethereum,Liquid Staking
+zkBob,Optimism,Privacy
+zkBob,Polygon,Privacy
+zkBoost,zkSync Era,Launchpad
+zkDX,zkSync Era,Farm
+zkDefi,Polygon zkEVM,Dexes
+zkEVMSwap,Polygon zkEVM,Dexes
+zkFox,zkSync Era,Leveraged Farming
+zkMoonSwap,Polygon zkEVM,Dexes
+zkSwap Era,zkSync Era,Dexes
