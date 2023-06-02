@@ -29,9 +29,7 @@ try:
         date = tvl["date"]
         date_string = datetime.fromtimestamp(date).strftime("%Y-%m-%d")
         # Create dictionary with date
-        row = {
-            "date": date_string
-        }
+        row = {"date": date_string}
         # Add dictionary with tvl to row
         for chain in chains:
             # loop through the tvl of the current chain
