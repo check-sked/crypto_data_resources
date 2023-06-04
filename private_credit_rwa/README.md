@@ -4,4 +4,4 @@ The protocols covered here include those operating in the real world private cre
 
 Add the values here to your RWA analysis to for a more hollistic look at on-chain RWAs.
 
-See [centrifuge_by_chain_type.py](https://github.com/check-sked/crypto_data_resources/blob/main/alternative_rwa/centrifuge_by_chain_type.py) for comments on individual protocol script functionality.
+See [centrifuge_by_chain_type.py](https://github.com/check-sked/crypto_data_resources/blob/main/private_credit_rwa/centrifuge_by_chain_type.py) for comments on individual protocol script functionality.
