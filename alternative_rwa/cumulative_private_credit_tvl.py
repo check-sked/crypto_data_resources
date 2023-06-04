@@ -8,7 +8,9 @@ def get_protocol_data(endpoint):
     data = response.json()
     chain_tvls = data.get("chainTvls", {})
     ethereum_tvls = chain_tvls.get("Ethereum", {}).get("tvl", [])
-    solana_tvls = chain_tvls.get("Solana", {}).get("tvl", [])
+    solana_tvls = chain_tvls.get("Solana", {}).get(
+        "tvl", []
+    )  # For inconsistent formatting of Credix JSON
 
     liquidity_data = {}  # Dictionary to store liquidity data by date
 
