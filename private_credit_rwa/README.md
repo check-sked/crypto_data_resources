@@ -1,4 +1,4 @@
-# Alternative Real World Asset Protocols
+# Private Credit Real World Asset Protocols
 
 The protocols covered here include those operating in the real world private credit space. They are tracked by DeFiLlama in other categories, but can be considered RWAs depending how you look at it.
 
