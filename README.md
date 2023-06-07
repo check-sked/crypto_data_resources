@@ -14,7 +14,7 @@
 
 ## Description
 
-The crypto-data-resources repository is a data resource for crypto analysts and those curious in understanding crypto on a more granular level. It offers easily manipulatable resources for observing and visualizing the most important facets of the blockchain world and the pieces of infrastructure that comrise it.
+The crypto-data-resources repository is a data resource for crypto analysts and those curious in understanding crypto on a more granular level. It offers easily manipulatable resources for observing and visualizing the most important facets of the blockchain world and the pieces of infrastructure that comprise it.
 
 The repository covers data on:
 
