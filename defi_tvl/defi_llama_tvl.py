@@ -1,18 +1,28 @@
-import csv # For csv file creation
-import requests # For get request
-import datetime  # For date reformat
+import requests
+import csv
+import datetime
 
-# Make a request to the endpoint
-response = requests.get("https://api.llama.fi/charts")
 
-# Parse the JSON response
-data = response.json()
+def save_historical_tvl_to_csv():
+    endpoint = "https://api.llama.fi/v2/historicalChainTvl"
 
-# Write the data to a CSV file
-with open("defi_llama.csv", "w", newline="") as csvfile:
-    fieldnames = data[0].keys()
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    response = requests.get(endpoint)
+    data = response.json()
 
-    writer.writeheader()
-    for entry in data:
-        writer.writerow(entry)
+    csv_file = "historical_tvl.csv"
+
+    with open(csv_file, mode="w", newline="") as file:
+        writer = csv.writer(file)
+        writer.writerow(["Date", "TVL"])
+
+        for item in data:
+            timestamp = item["date"]
+            date = datetime.datetime.fromtimestamp(timestamp).strftime("%Y-%m-%d")
+            tvl = item["tvl"]
+            writer.writerow([date, tvl])
+
+    print(f"Data saved to {csv_file} successfully!")
+
+
+if __name__ == "__main__":
+    save_historical_tvl_to_csv()
