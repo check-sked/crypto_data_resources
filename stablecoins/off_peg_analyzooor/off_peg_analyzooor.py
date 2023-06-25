@@ -48,7 +48,7 @@ def create_stablecoin_prices_csv(stablecoin_name, off_peg_threshold):
         stablecoin_value = STABLECOIN_MAPPING[stablecoin_name]
 
         # Prepare the CSV file name
-        csv_file_name = f"{stablecoin_name}_price.csv"
+        csv_file_name = f"{stablecoin_name}_off_peg.csv"
 
         # Open the CSV file for writing
         with open(csv_file_name, "w", newline="") as csvfile:

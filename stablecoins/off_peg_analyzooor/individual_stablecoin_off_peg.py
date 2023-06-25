@@ -51,7 +51,7 @@ def create_stablecoin_prices_csv(stablecoin_name):
         prev_prices = {}
 
         # Prepare the CSV file name
-        csv_file_name = f"{stablecoin_name}_price.csv"
+        csv_file_name = f"{stablecoin_name}_hist_price_off_peg.csv"
 
         # Open the CSV file for writing
         with open(csv_file_name, "w", newline="") as csvfile:
