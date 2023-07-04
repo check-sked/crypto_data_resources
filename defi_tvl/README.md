@@ -2,7 +2,7 @@
 
 ## Category List
 
-**Copy and paste category names for TVL scripts**
+**TVL Categories Available**
 
 - Algo-Stables
 - Bridge
@@ -38,3 +38,204 @@
 - Uncollateralized Lending
 - Yield
 - Yield Aggregator
+
+## Chain List
+
+**TVL Chains Available**
+
+- Acala
+- Algorand
+- Aptos
+- Arbitrum
+- Arbitrum Nova
+- Astar
+- Aurora
+- Avalanche
+- Bifrost
+- Binance
+- Bitcoin
+- Bitcoincash
+- Bitgert
+- Bitindi
+- Bittorrent
+- Boba
+- Boba_Avax
+- Boba_Bnb
+- Bone
+- Callisto
+- Canto
+- Carbon
+- Cardano
+- Celo
+- Chihuahua
+- CLV
+- Comdex
+- Concordium
+- Conflux
+- CORE
+- Cosmos
+- Coti
+- Crab
+- Crescent
+- Cronos
+- CSC
+- Cube
+- DefiChain
+- Dexit
+- DFK
+- Doge
+- Dogechain
+- Echelon
+- Elastos
+- Elrond
+- Empire
+- Energi
+- EnergyWeb
+- ENULS
+- EOS
+- EOS EVM
+- Equilibrium
+- Ergo
+- Ethereum
+- EthereumClassic
+- EthereumPoW
+- Europa
+- Everscale
+- Evmos
+- Fantom
+- Filecoin
+- Findora
+- Flare
+- Flow
+- FunctionX
+- Fuse
+- Fusion
+- Genshiro
+- GoChain
+- Godwoken
+- GodwokenV1
+- Goerli
+- Grove
+- Harmony
+- Heco
+- Hedera
+- Heiko
+- Hoo
+- HPB
+- Hydra
+- Icon
+- ICP
+- Injective
+- Interlay
+- IoTeX
+- Juno
+- Kadena
+- Kardia
+- Karura
+- Kava
+- Kekchain
+- Kintsugi
+- Klaytn
+- Kucoin
+- Kujira
+- Kusama
+- Lachain
+- Lamden
+- Libre
+- Litecoin
+- Loop
+- Lung
+- Map
+- Meter
+- Metis
+- Migaloop
+- Milkomeda
+- Milkomeda A1
+- Mixin
+- Moonbeam
+- Moonriver
+- MultiVAC
+- MUUCHAIN
+- Nahmii
+- Near
+- NEO
+- Neutron
+- Nova Network
+- Nuls
+- Oasis
+- Oasys
+- Obyte
+- OKExChain
+- Omax
+- Ontology
+- OntologyEVM
+- Onus
+- Optimism
+- Orai
+- Osmosis
+- Palm
+- Parallel
+- Persistence
+- Pokt
+- Polis
+- Polkadot
+- Polygon
+- Polygon zkEVM
+- Proton
+- Pulse
+- Quasar
+- Quicksilver
+- Rangers
+- REI
+- REIchain
+- Rollux
+- Ronin
+- RSK
+- Secret
+- Shiden
+- Sifchain
+- smartBCH
+- Solana
+- Songbird
+- Sora
+- Stacks
+- Stafi
+- Starcoin
+- Stargaze
+- Starknet
+- Stellar
+- Step
+- Stride
+- Sui
+- SXnetwork
+- Syscoin
+- Telos
+- Terra
+- Terra2
+- Tezos
+- Theta
+- Thorchain
+- ThunderCore
+- Tlchain
+- Tombchain
+- TomoChain
+- TON
+- Tron
+- Ubiq
+- Ultron
+- Umee
+- VeChain
+- Velas
+- Vision
+- Vite
+- Wanchain
+- Waves
+- Wax
+- WEMIX
+- xDai
+- XDC
+- XPLA
+- Zeniq
+- Zilliqa
+- zkSync Era
+- ZYX
