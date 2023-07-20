@@ -19,7 +19,13 @@
 
 --
 
-- stablecoin_price
+### stablecoin_price
+
+- Returns historical prices of all available stablecoins.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/stablecoin_prices.csv) for example of file returned.
+
+--
+
 - stablecoin_supply_dominance_by_chain
 - stablecoin_supply_total
 - total_stablecoin_supply_by_chain
