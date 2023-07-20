@@ -6,7 +6,7 @@
 
 - Returns stablecoin supply across each chain individually; Stablecoin ticker is input by user.
 - Refer to map in file or the stablecoin dictionary for acceptable input tickers.
-- See [here]() for example of file returned.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoin_USDT_circulating_by_chain.csv) for example of file returned.
 
 --
 
