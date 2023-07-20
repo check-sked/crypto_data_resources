@@ -1,6 +1,6 @@
 # stablecoins
 
-## Files Overview
+## Files and Folders Overview
 
 ### individual_stablecoin_supply_by_chain.py
 
@@ -11,7 +11,7 @@
 
 --
 
-### stablecoin_dictionary
+### stablecoin_dictionary.py
 
 - Returns list of all available stablecoins, their corresponding ID numbers, and stablecoin type (e.g. pegged to USD).
 - The list of stablecoins and IDs returned by this file can also be found in the maps of applicable Python scripts.
@@ -19,14 +19,14 @@
 
 --
 
-### stablecoin_price
+### stablecoin_price.py
 
 - Returns historical prices of all available stablecoins.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/stablecoin_prices.csv) for example of file returned.
 
 --
 
-### stablecoin_supply_dominance_by_chain
+### stablecoin_supply_dominance_by_chain.py
 
 - Returns historical stablecoin supply dominance by chain.
 - User has the option to choose specific stablecoins and chains through prompts in terminal.
@@ -35,7 +35,7 @@
 
 --
 
-### stablecoin_supply_total
+### stablecoin_supply_total.py
 
 - Returns cumulative historical stablecoin supply.
 - Result includes USD and EUR denominated stablecoins.
@@ -43,4 +43,8 @@
 
 --
 
-- total_stablecoin_supply_by_chain
+### total_stablecoin_supply_by_chain.py
+
+- Returns historical stablecoin supply of a given chain.
+- User has the option to input desired chain through prompts in terminal.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/Arbitrum_stablecoin_supply.csv) for example of file returned.
