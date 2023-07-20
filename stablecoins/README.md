@@ -4,9 +4,9 @@
 
 ### individual_stablecoin_supply_by_chain.py
 
-- Returns stablecoin supply of a given chain; Stablecoin ticker is input by user.
+- Returns stablecoin supply across each chain individually; Stablecoin ticker is input by user.
 - Refer to map in file or the stablecoin dictionary for acceptable input tickers.
-- **CSV file produced contains two colums: 1) Date 2) Stablecoin Supply Value.**
+- See [here]() for example of file returned.
 
 --
 
