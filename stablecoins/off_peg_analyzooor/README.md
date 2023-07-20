@@ -13,9 +13,9 @@
 
 ### off_peg_analyzooor.py
 
-- Returns list of all available stablecoins, their corresponding ID numbers, and stablecoin type (e.g. pegged to USD).
-- The list of stablecoins and IDs returned by this file can also be found in the maps of applicable Python scripts.
-- See [here]() for example of file returned.
+- Returns list of days where stablecoins were +/- off peg by specific thresholds.
+- User has the option to choose a stablecoin ticker and +/- % off peg through prompts in terminal.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/off_peg_analyzooor/USDT_off_peg.csv) for example of file returned.
 
 ## Stablecoins List
 
