@@ -4,10 +4,10 @@
 
 ### individual_stablecoin_off_peg.py
 
-- Returns historical stablecoin supply across each chain individually; Stablecoin ticker is input by user.
-- User has the option to choose between circulating supply and supply minted through prompts in terminal.
-- Refer to map in file or the stablecoin dictionary for acceptable input tickers.
-- See [here]() for example of file returned.
+- Returns historical price of stablecoin and percent difference from its intended peg.
+- User has the option to choose a stablecoin ticker through prompts in terminal.
+- Refer to map in file or the list at the bottom of the README here for acceptable ticker inputs.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/off_peg_analyzooor/USDT_hist_price_off_peg.csv) for example of file returned.
 
 --
 
