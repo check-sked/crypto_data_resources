@@ -35,5 +35,12 @@
 
 --
 
-- stablecoin_supply_total
+### stablecoin_supply_total
+
+- Returns cumulative historical stablecoin supply.
+- Result includes USD and EUR denominated stablecoins.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/total_stablecoins_all_chains.csv) for example of file returned.
+
+--
+
 - total_stablecoin_supply_by_chain
