@@ -4,9 +4,9 @@
 
 ### historical_bridge_data.py
 
-- Returns historical stablecoin supply across each chain individually; Stablecoin ticker is input by user.
-- User has the option to choose between circulating supply and supply minted through prompts in terminal.
-- Refer to map in file or the stablecoin dictionary for acceptable input tickers.
-- See [here]() for example of file returned.
+- Returns historical bridge data including deposit and withdraw volume (in USD) and counts of deposit and withdrawal transactions.
+- User has the option to choose a chain and individual bridge through prompts in terminal.
+- Refer to map in file for acceptable chains.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/bridges/bridge_volume.csv) for example of file returned.
 
 --
