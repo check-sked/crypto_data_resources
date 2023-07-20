@@ -48,3 +48,11 @@
 - Returns historical stablecoin supply of a given chain.
 - User has the option to input desired chain through prompts in terminal.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/Arbitrum_stablecoin_supply.csv) for example of file returned.
+
+--
+
+### off_peg_analyzooor (Folder)
+
+- Folder contains resources for gathering data on stablecoin / Dollar parity.
+- Scripts allow users to observe stablecoin's historical peg fluctuations and choose specific periods of depegging by % disparity.
+- See [here](https://github.com/check-sked/crypto_data_resources/tree/main/stablecoins/off_peg_analyzooor) for folder.
