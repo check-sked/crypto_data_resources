@@ -34,7 +34,7 @@ def save_bridge_volume_to_csv(chain, bridge_name):
     response = requests.get(endpoint)
     data = response.json()
 
-    csv_file = "bridge_volume.csv"
+    csv_file = f"{chain}_{bridge_name}_volume.csv"  # Updated filename format
 
     with open(csv_file, mode="w", newline="") as file:
         writer = csv.writer(file)
