@@ -1,47 +1,17 @@
 # blockchain_com_api
 
-## Description
+## Files and Folders Overview
 
-These Python scripts get cumulative DeFi TVL and DeFi of individual ecosystems. The documentation for the Blockchain.com API used can be found at https://www.blockchain.com/explorer/api.
+### all_blockchain_com_data.py
 
-## Table of Contents
+- Returns any data point in the [_charts section of blockchain.com_](https://www.blockchain.com/explorer/charts).
+- Follow these steps to use the script:
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+1. Choose the chart you want the data of on blockchain.com
+2. Copy the name of the chart from the chart's URL (include the dashes). This can be found at the end of the URL of the desired chart. For example, copy **n-transactions-total** from the [Bitcoin Total Number of Transactions](https://www.blockchain.com/explorer/charts/n-transactions-total) chart to get the historical total # of Bitcoin transactions.
+3. Run the script and paste the chart name (dashes included) into the first prompt.
+4. Choose your timespan. Blockchain.com allows for 3years, 6months, 1year, or all. Note, days are skipped when "all" is selected. This is a limitation imposed by blockchain.com.
 
-## Installation
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/bridges/bridge_volume.csv) for example of file returned.
 
-_Instructions for installation project and setting up the development environment:_
-
-To use the script, you must first install Python if it's not on your machine and install Pandas, Requests, and Six (if applicable) modules. This can all be done from the command line of your Mac by following the steps below.
-
-1. Install Homebrew: `$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
-2. Install Python: `$ brew install python`
-3. Confirm that Python was installed and check your version: `python --version`
-4. Install Pandas: `pip3 install csv`
-5. Install Requests: `pip3 install requests`
-6. Install Binance Client: `pip3 install datetime`
-7. Some users may also have to install the Six module: `pip3 install six`
-
-**Note, if you aren't using Python3 then use the `pip` command instead of `pip3` when installing modules**
-
-## Usage
-
-_How to use the application:_
-
-To use either of the scripts, open the `all_blockchain_com.py` files in your code editor of choice and run it. The .csv file containing the data desired data from Blockchain.com will appear the working directory.
-
-## Contributing
-
-_Take the following steps to contribute to the project._
-
-If you would like to make adjustments or enhancements to the script, clone the repository to your local machine and share with Sked.
-
-## Questions?
-
-Got questions? Reach me through the following channels:
-
-GitHub: [@check-sked](https://api.github.com/users/check-sked)
-
-Twitter: [@Check-Sked](https://twitter.com/Check_Sked)
+--

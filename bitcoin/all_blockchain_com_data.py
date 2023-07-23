@@ -4,8 +4,8 @@ import datetime
 
 
 def main():
-    chart_name = "estimated-transaction-volume"
-    timespan = "3years"
+    chart_name = input("Enter the chart name (don't forget to include the dashes): ")
+    timespan = input("Enter the timespan (Choose 3years, 6months, 1year, or all): ")
 
     try:
         response = requests.get(
@@ -23,7 +23,9 @@ def main():
 
     points = data["values"]
 
-    with open("blockchain.com.csv", "w", newline="") as csvfile:
+    csv_filename = f"blockchain.com_{chart_name}_{timespan}.csv"
+
+    with open(csv_filename, "w", newline="") as csvfile:
         writer = csv.writer(csvfile)
 
         writer.writerow(["date", chart_name])
@@ -34,7 +36,7 @@ def main():
             )
             writer.writerow([date_string, point["y"]])
 
-    print("Data written to blockchain.com.csv")
+    print(f"Data written to {csv_filename}")
 
 
 if __name__ == "__main__":
