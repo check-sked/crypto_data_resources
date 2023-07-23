@@ -7,17 +7,19 @@ import time
 # Link to CoinGecko Docs: https://www.coingecko.com/en/api/documentation
 
 # Input cryptocurrency ID (refer to coin glossary for IDs of all coins on CoinGecko)
-cryptocurrency = 'stellar'
+cryptocurrency = "stellar"
 
 # Input Base Currency of Crypto Pair to Observe
-vs_currency = 'usd'
+vs_currency = "usd"
 
 # Input Time Frame - UTC
-start_date = datetime.datetime(2020, 1, 1, 0, 0, 0) # Year, Month, Day, Hour, Minute, Second
+start_date = datetime.datetime(
+    2020, 1, 1, 0, 0, 0
+)  # Year, Month, Day, Hour, Minute, Second
 end_date = datetime.datetime(2022, 12, 31, 23, 59, 59)
 # Convert to UNIX Format For CoinGecko API
-start_date_unix = (time.mktime(start_date.timetuple()))
-end_date_unix = (time.mktime(end_date.timetuple()))
+start_date_unix = time.mktime(start_date.timetuple())
+end_date_unix = time.mktime(end_date.timetuple())
 
 
 # Set base URL for API endpoint - Example: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1392577232&to=1422577232
@@ -25,7 +27,9 @@ base_url = "https://api.coingecko.com/api/v3/coins"
 
 try:
     # Make API request and get response
-    response = requests.get(f"{base_url}/{cryptocurrency}/market_chart/range?vs_currency={vs_currency}&from={start_date_unix}&to={end_date_unix}")
+    response = requests.get(
+        f"{base_url}/{cryptocurrency}/market_chart/range?vs_currency={vs_currency}&from={start_date_unix}&to={end_date_unix}"
+    )
 
     # Check if the response is successful
     response.raise_for_status()
@@ -41,7 +45,7 @@ try:
         writer.writerow(["date", "volume"])
 
         # Data successfully written message
-        print("data written to asset_prices.csv")
+        print("data written to crypto_volumes.csv")
 
         # Write the data rows
         for datapoint in data["total_volumes"]:
