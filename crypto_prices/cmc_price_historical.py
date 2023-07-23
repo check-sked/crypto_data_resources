@@ -1,5 +1,3 @@
-#FOR HISTORICAL DATA: API SUBSCRIPTION NOT SUPPORTED
-
 import requests
 import openpyxl
 
@@ -9,7 +7,7 @@ params = {
     "slug": "bitcoin,ethereum,cardano",
     "convert": "USD",
     "start": "2022-01-01",  # Start date input
-    "end": "2022-12-31"  # End date input
+    "end": "2022-12-31",  # End date input
 }
 
 # Set base URL for API endpoint
@@ -22,10 +20,17 @@ response = requests.get(base_url, params=params, headers={"X-CMC_PRO_API_KEY": a
 print(response.json())
 print(response.status_code)
 
-# Parse response data and extract relevant information
+# Check if the API response has an error
 data = response.json()
+if "status" in data and "error_code" in data["status"]:
+    error_code = data["status"]["error_code"]
+    error_message = data["status"]["error_message"]
+    print(f"Error: {error_code} - {error_message}")
+    exit()
+
+# Parse response data and extract relevant information
 prices = []
-for currency, info in data["data"].items():
+for currency, info in data.items():
     for date, daily_info in info["quote"]["USD"].items():
         name = info["name"]
         symbol = info["symbol"]
