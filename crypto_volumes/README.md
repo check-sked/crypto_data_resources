@@ -8,4 +8,4 @@
 - User can also input specific time ranges.
 - Both assets and time period require the code to be directly updated. After making updates, _press CTRL + S before running script_. Make sure to keep the ID tags in " " marks; also don't forget to include all dashes and other characters in the assets' IDs.
 - Refer to [coin_glossary.py](https://github.com/check-sked/crypto_data_resources/blob/main/crypto_prices/coin_glossary.py) for available assets and correct ID tags. The ID tags are the values that should be input into the script. For example: To retrieve the historical volume of MATIC, use ID "matic-network" in the script.
-- See [here]() for example of file returned.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/crypto_volumes/crypto_volumes.csv) for example of file returned.
