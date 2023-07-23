@@ -12,6 +12,6 @@
 3. Run the script and paste the chart name (dashes included) into the first prompt.
 4. Choose your timespan. Blockchain.com allows for 3years, 6months, 1year, or all. Note, days are skipped when "all" is selected. This is a limitation imposed by blockchain.com.
 
-- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/bridges/bridge_volume.csv) for example of file returned.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/bitcoin/blockchain.com_n-transactions-total_all.csv) for example of file returned.
 
 --
