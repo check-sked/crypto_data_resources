@@ -35,4 +35,4 @@
 - This script returns historical price data of assets but uses [CoinMarketCap](https://coinmarketcap.com/) as the source.
 - This script also requires direct edits. After making updates, _press CTRL + S before running script_. Make sure asset names are in " " marks and are separated by commas and contain no spaces between asset names.
 - CMC allows you to simply type the name of the asset instead of using ID tags.
-- See [here]() for example of file returned.
+- Retreiving this data from CMC requires an updated subscription I do not. Example of file produced cannot be provided.
