@@ -1,0 +1,210 @@
+name,category
+Arbitrum Exchange V2,Dexes
+Arbitrum Exchange V3,Dexes
+DerpDEX,Dexes
+SmarDex,Dexes
+ABcDeFX,Dexes
+Agni.finance,Dexes
+AirSwap,Dexes
+ApeSwap AMM,Dexes
+Archly Finance,Dexes
+Auragi Finance,Dexes
+BabyDogeSwap,Dexes
+Balancer V1,Dexes
+Balancer V2,Dexes
+BiSwap V2,Dexes
+Camelot V2,Dexes
+Camelot V3,Dexes
+Chronos,Dexes
+Concordex,Dexes
+Covo V2,Derivatives
+Curve DEX,Dexes
+Defi Swap,Dexes
+DODO,Dexes
+Dove Swap V3,Dexes
+E3,Dexes
+El Dorado Exchange,Derivatives
+Elk,Dexes
+EMDX,Derivatives
+Equalizer Exchange,Dexes
+Forge,Dexes
+Frax Swap,Dexes
+Fulcrom,Derivatives
+GMX,Derivatives
+Honeyswap,Dexes
+Hydradex V2,Dexes
+Hydradex V3,Dexes
+Joe V2.1,Dexes
+KPerp Exchange,Derivatives
+Kwenta,Derivatives
+KyberSwap Classic,Dexes
+KyberSwap Elastic,Dexes
+KyotoSwap,Dexes
+Level Finance,Derivatives
+Lifinity,Dexes
+Maia V3,Dexes
+Maverick Protocol,Dexes
+MERLIN DEX,Dexes
+Metavault.Trade,Derivatives
+Mimo,Dexes
+MM Stableswap Polygon,Dexes
+MojitoSwap,Dexes
+MooniSwap,Dexes
+Morphex,Derivatives
+Mummy Finance,Derivatives
+Nomiswap,Dexes
+Osmosis DEX,Dexes
+Pangolin,Dexes
+PearlFi,Dexes
+Pika,Derivatives
+Pinnako,Derivatives
+Plenty,Dexes
+Quickswap Dex,Dexes
+Quickswap V3,Dexes
+RadioShack,Dexes
+Ramses V1,Dexes
+Ramses V2,Dexes
+Raydium,Dexes
+ShibaSwap,Dexes
+Solarbeam,Dexes
+SolidLizard,Dexes
+Solidly V2,Dexes
+SpiritSwap AMM,Dexes
+SpookySwap,Dexes
+StellaSwap V2,Dexes
+SushiSwap,Dexes
+Sushi Trident,Dexes
+SushiSwap V3,Dexes
+Synthetix,Synthetics
+ThalaSwap,Dexes
+Thena V1,Dexes
+THENA FUSION,Dexes
+Trader Joe DEX,Dexes
+Joe V2,Dexes
+Veax,Dexes
+Vela Exchange,Derivatives
+Velodrome,Dexes
+Verse,Dexes
+Voodoo Trade,Derivatives
+VVS Finance,Dexes
+WigoSwap,Dexes
+Wombat Exchange,Dexes
+WOOFi Swap,Dexes
+Y2K V1,Derivatives
+Y2K V2,Derivatives
+Zyberswap AMM,Dexes
+Zyberswap V3,Dexes
+ZyberSwap Stableswap,Dexes
+0vix,Lending
+AAVE V2,Lending
+AAVE V3,Lending
+Abracadabra,CDP
+Across,Cross Chain
+Alchemix,Synthetics
+Angle,CDP
+ApolloX,Derivatives
+Arbitrum,Rollup
+Aura,Yield
+Aurora,Chain
+Avalanche,Chain
+Azuro,Prediction Market
+Benqi Lending,Lending
+BetSwirl,Prediction Market
+Bitcoin,Chain
+Blast API,Services
+BlueMove Staking,NFT Marketplace
+Blur Bids,NFT Marketplace
+BSC,Chain
+Buffer Finance,Options
+Canto,Chain
+Celo,Chain
+Chainlink,Oracle
+Chainlink,Oracle
+Chainlink,Oracle
+Chainlink,Oracle
+Compound,Lending
+Convex Finance,Yield
+CoW Swap,Dexes
+Cronos,Chain
+Cryptex V2,Derivatives
+Doge,Chain
+ENS,Services
+Equilibre,Dexes
+Equity,Derivatives
+Ethereum,Chain
+Fantom,Chain
+Firebird,Dexes
+Foundation,NFT Marketplace
+Frax Ether,Liquid Staking
+Frax FPI,Algo-Stables
+Gains Network,Derivatives
+Gamma,Liquidity manager
+Gearbox,Leveraged Farming
+Geist Finance,Lending
+GET Protocol,Services
+GhostMarket,NFT Marketplace
+GND Protocol,Yield
+Hegic,Options
+Houdini Swap,Dexes
+Junoswap,Dexes
+Lido,Liquid Staking
+LionDEX,Derivatives
+Liquid Bolt,Yield
+Liquity,CDP
+Litecoin,Chain
+Llamalend,NFT Lending
+LooksRare,NFT Marketplace
+Lybra Finance,CDP
+Lyra,Options
+Maestro,Services
+MakerDAO,CDP
+MetaMask,Services
+Moonbeam,Chain
+Moonriver,Chain
+Moonwell Apollo,Lending
+Moonwell Artemis,Lending
+Thala CDP,CDP
+MUX Protocol,Derivatives
+NFTEarth,NFT Marketplace
+OpenSea V1,NFT Marketplace
+OpenSea V2,NFT Marketplace
+Opensea Seaport,NFT Marketplace
+Optimism,Rollup
+Paraswap,Dexes
+Pendle,Yield
+HMX,Derivatives
+PLEXUS,Cross Chain
+Polygon,Chain
+Predy V3.2,Derivatives
+Premia,Options
+Radiant V2,Lending
+Rainbow,Services
+Scatter,NFT Marketplace
+Solana,Chain
+Sonne Finance,Lending
+Stargate,Cross Chain
+Stealcam,NFT Marketplace
+Stride,Liquid Staking
+Synapse,Bridge
+Tarot,Lending
+Tron,Chain
+Unibot,Services
+UniDex,Derivatives
+Unlimited Network,Derivatives
+USDO,CDP
+Valas Finance,Lending
+Vesta Finance,CDP
+Waves,Chain
+X2Y2,NFT Lending
+Gnosis,Chain
+Yield Yak Aggregator,Yield Aggregator
+Zonic,NFT Marketplace
+ZORA,NFT Marketplace
+PancakeSwap AMM,Dexes
+PancakeSwap StableSwap,Dexes
+PancakeSwap AMM V3,Dexes
+SMBSwap V2,Dexes
+SMBSwap V3,Dexes
+Uniswap V1,Dexes
+Uniswap V2,Dexes
+Uniswap V3,Dexes
