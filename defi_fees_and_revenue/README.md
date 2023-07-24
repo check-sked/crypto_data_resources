@@ -35,3 +35,11 @@
 - User inputs desired protocol and can choose between "daily" or "total" revenue. Daily breaks down fees on a 24 hour basis, while total populates out the cumulative fees earned by the protocol.
 - Refer to [protocol_list_fees.py](https://github.com/check-sked/crypto_data_resources/blob/main/defi_fees_and_revenue/protocols_list_fees.py) for available protocols.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/defi_fees_and_revenue/Compound_daily_revenue.csv) for example of file returned.
+
+--
+
+### protocol_list_fees.py
+
+- Returns table of all protocols available to generate fee and revenue data from.
+- This file should be regenerated on a semi-regular basis to capture all new protocols added to the API.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/defi_fees_and_revenue/protocols_list_fees.csv) for example of file returned.
