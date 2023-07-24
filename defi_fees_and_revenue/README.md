@@ -41,5 +41,6 @@
 ### protocol_list_fees.py
 
 - Returns table of all protocols available to generate fee and revenue data from.
+- **Only protocols from this list can be applied to the fees and revenue scripts.**
 - This file should be regenerated on a semi-regular basis to capture all new protocols added to the API.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/defi_fees_and_revenue/protocols_list_fees.csv) for example of file returned.
