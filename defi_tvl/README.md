@@ -43,6 +43,8 @@
 
 **TVL Chains Available**
 
+**A**
+
 - Acala
 - Algorand
 - Aptos
@@ -51,6 +53,9 @@
 - Astar
 - Aurora
 - Avalanche
+
+**B**
+
 - Bifrost
 - Binance
 - Bitcoin
@@ -62,6 +67,9 @@
 - Boba_Avax
 - Boba_Bnb
 - Bone
+
+**C**
+
 - Callisto
 - Canto
 - Carbon
@@ -80,11 +88,17 @@
 - Cronos
 - CSC
 - Cube
+
+**D**
+
 - DefiChain
 - Dexit
 - DFK
 - Doge
 - Dogechain
+
+**E**
+
 - Echelon
 - Elastos
 - Elrond
@@ -102,6 +116,9 @@
 - Europa
 - Everscale
 - Evmos
+
+**F**
+
 - Fantom
 - Filecoin
 - Findora
@@ -110,12 +127,18 @@
 - FunctionX
 - Fuse
 - Fusion
+
+**G**
+
 - Genshiro
 - GoChain
 - Godwoken
 - GodwokenV1
 - Goerli
 - Grove
+
+**H**
+
 - Harmony
 - Heco
 - Hedera
@@ -123,12 +146,21 @@
 - Hoo
 - HPB
 - Hydra
+
+**I**
+
 - Icon
 - ICP
 - Injective
 - Interlay
 - IoTeX
+
+**J**
+
 - Juno
+
+**K**
+
 - Kadena
 - Kardia
 - Karura
@@ -139,12 +171,18 @@
 - Kucoin
 - Kujira
 - Kusama
+
+**L**
+
 - Lachain
 - Lamden
 - Libre
 - Litecoin
 - Loop
 - Lung
+
+**M**
+
 - Map
 - Meter
 - Metis
@@ -156,12 +194,18 @@
 - Moonriver
 - MultiVAC
 - MUUCHAIN
+
+**N**
+
 - Nahmii
 - Near
 - NEO
 - Neutron
 - Nova Network
 - Nuls
+
+**O**
+
 - Oasis
 - Oasys
 - Obyte
@@ -173,6 +217,9 @@
 - Optimism
 - Orai
 - Osmosis
+
+**P**
+
 - Palm
 - Parallel
 - Persistence
@@ -183,14 +230,23 @@
 - Polygon zkEVM
 - Proton
 - Pulse
+
+**Q**
+
 - Quasar
 - Quicksilver
+
+**R**
+
 - Rangers
 - REI
 - REIchain
 - Rollux
 - Ronin
 - RSK
+
+**S**
+
 - Secret
 - Shiden
 - Sifchain
@@ -209,6 +265,9 @@
 - Sui
 - SXnetwork
 - Syscoin
+
+**T**
+
 - Telos
 - Terra
 - Terra2
@@ -221,20 +280,35 @@
 - TomoChain
 - TON
 - Tron
+
+**U**
+
 - Ubiq
 - Ultron
 - Umee
+
+**V**
+
 - VeChain
 - Velas
 - Vision
 - Vite
+
+**W**
+
 - Wanchain
 - Waves
 - Wax
 - WEMIX
+
+**X**
+
 - xDai
 - XDC
 - XPLA
+
+**Z**
+
 - Zeniq
 - Zilliqa
 - zkSync Era
