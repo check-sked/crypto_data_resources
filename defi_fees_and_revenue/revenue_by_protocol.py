@@ -40,7 +40,7 @@ def main():
                     for version in all_versions
                 ]
             )
-            + ["total_fees"]
+            + ["total_revenue"]
         )
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
@@ -48,13 +48,13 @@ def main():
 
         for date, fees_by_chain in breakdown.items():
             row = {"date": date}
-            total_fees = 0
+            total_revenue = 0
             for chain in all_chains:
                 for version in all_versions:
                     key = chain + "_" + version
                     row[key] = fees_by_chain.get(key, 0)
-                    total_fees += fees_by_chain.get(key, 0)
-            row["total_fees"] = total_fees
+                    total_revenue += fees_by_chain.get(key, 0)
+            row["total_revenue"] = total_revenue
             writer.writerow(row)
 
 
