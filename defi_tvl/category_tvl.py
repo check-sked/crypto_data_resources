@@ -15,6 +15,10 @@ def get_protocols(category):
     for item in data:
         if item["category"] == category:
             protocols.append(item["slug"].replace(" ", "-"))
+    if not protocols:
+        print(
+            "Request could not be completed. Consult documentation and enter a valid category."
+        )
     return protocols
 
 
@@ -41,6 +45,8 @@ def main():
     category = input("Enter category: ")
     days = int(input("Enter number of days: "))  # get number of days as input
     protocols = get_protocols(category)
+    if not protocols:
+        return
     failed_protocols = set()
     with open(f"{category}_TVL.csv", "w", newline="") as file:
         writer = csv.DictWriter(file, fieldnames=["date"] + protocols + ["Total"])
