@@ -42,12 +42,26 @@ def get_tvl(protocol_name, chain):
 def main():
     category = input("Enter category: ")
     chain = input("Enter chain: ")
-    protocols = get_protocols(category, chain)
+    days = int(input("Enter number of days: "))  # get number of days as input
+    try:
+        protocols = get_protocols(category, chain)
+        if not protocols:
+            print(
+                "No results produced. Check to make sure you input Category, Chain, and Days correctly. If the problem persists, the chain <> category combination doesn't exist."
+            )
+            return
+    except Exception as e:
+        print(
+            "No results produced. Check to make sure you input Category, Chain, and Days correctly. If the problem persists, the chain <> category combination doesn't exist."
+        )
+        print(f"Error details: {str(e)}")
+        return
+
     failed_protocols = set()
     with open(f"{chain}_{category}_TVL.csv", "w", newline="") as file:
         writer = csv.DictWriter(file, fieldnames=["date"] + protocols + ["Total"])
         writer.writeheader()
-        for i in range(100):
+        for i in range(days):  # use user-specified number of days
             row = {}
             row["date"] = (datetime.today() - timedelta(days=i)).strftime("%Y-%m-%d")
             total = 0
@@ -67,7 +81,12 @@ def main():
                         break
             row["Total"] = "${:,.2f}".format(total)
             writer.writerow(row)
-            print(f"{i+1} days of data have been produced.")
+            progress_percentage = (
+                (i + 1) / days * 100
+            )  # calculate progress percentage based on user input
+            print(
+                f"{i+1} days of data have been produced. Your request is {progress_percentage}% complete."
+            )
     print(f"Data written to {chain}_{category}_TVL.csv!")
 
 
