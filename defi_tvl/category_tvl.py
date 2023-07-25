@@ -1,54 +1,77 @@
 import requests
 import csv
-from datetime import datetime
+from datetime import datetime, timedelta
+from requests.exceptions import ConnectionError, HTTPError, JSONDecodeError
 
 
 def get_protocols(category):
+    try:
+        response = requests.get("https://api.llama.fi/protocols")
+        data = response.json()
+    except ConnectionError as e:
+        print(f"Connection error occurred: {e}")
+        return []
     protocols = []
-    response = requests.get("https://api.llama.fi/protocols")
-    if response.status_code == 200:
-        protocols_data = response.json()
-        for protocol in protocols_data:
-            if protocol["category"] == category:
-                protocols.append(protocol["name"].replace(" ", "-"))
+    for item in data:
+        if item["category"] == category:
+            protocols.append(item["slug"].replace(" ", "-"))
     return protocols
 
 
-def get_protocol_tvl(protocol):
+def get_tvl(protocol_name):
+    try:
+        response = requests.get(f"https://api.llama.fi/protocol/{protocol_name}")
+        response.raise_for_status()  # raise exception if invalid response
+        data = response.json()
+    except (ConnectionError, HTTPError) as e:
+        print(f"Connection or HTTP error occurred for protocol: {protocol_name}. {e}")
+        return None
+    except JSONDecodeError:
+        print(f"No data was returned for protocol: {protocol_name}")
+        return None
+
     tvl = []
-    response = requests.get(f"https://api.llama.fi/protocol/{protocol}")
-    if response.status_code == 200:
-        tvl_data = response.json()["tvl"]
-        for data in tvl_data:
-            date = datetime.fromtimestamp(data["date"]).strftime("%Y-%m-%d")
-            tvl.append({"date": date, "totalLiquidityUSD": data["totalLiquidityUSD"]})
+    for item in data["tvl"]:
+        date = datetime.fromtimestamp(item["date"]).strftime("%Y-%m-%d")
+        tvl.append({"date": date, "totalLiquidityUSD": item["totalLiquidityUSD"]})
     return tvl
 
 
 def main():
-    category = input("Enter a category: ")
+    category = input("Enter category: ")
+    days = int(input("Enter number of days: "))  # get number of days as input
     protocols = get_protocols(category)
-    data = {}
-    for protocol in protocols:
-        data[protocol] = get_protocol_tvl(protocol)
-
-    with open(f"{category}_tvl.csv", "w", newline="") as csvfile:
-        fieldnames = ["date"] + protocols
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    failed_protocols = set()
+    with open(f"{category}_TVL.csv", "w", newline="") as file:
+        writer = csv.DictWriter(file, fieldnames=["date"] + protocols + ["Total"])
         writer.writeheader()
-        dates = set()
-        for protocol in protocols:
-            for d in data[protocol]:
-                dates.add(d["date"])
-        for date in sorted(dates):
-            row = {"date": date}
-            for protocol in protocols:
-                for d in data[protocol]:
-                    if d["date"] == date:
-                        row[protocol] = d["totalLiquidityUSD"]
+        for i in range(days):  # use user-specified number of days
+            row = {}
+            row["date"] = (datetime.today() - timedelta(days=i)).strftime("%Y-%m-%d")
+            total = 0
+            for protocol_name in protocols:
+                if protocol_name in failed_protocols:
+                    continue
+                tvl = get_tvl(protocol_name)
+                if tvl is None:
+                    failed_protocols.add(protocol_name)
+                    continue
+                for item in tvl:
+                    if item["date"] == row["date"]:
+                        row[protocol_name] = "${:,.2f}".format(
+                            item["totalLiquidityUSD"]
+                        )
+                        total += item["totalLiquidityUSD"]
                         break
+            row["Total"] = "${:,.2f}".format(total)
             writer.writerow(row)
-        print(f"Data written to {category}_tvl.csv")
+            progress_percentage = (
+                (i + 1) / days * 100
+            )  # calculate progress percentage based on user input
+            print(
+                f"{i+1} days of data have been produced. Your request is {progress_percentage}% complete."
+            )
+    print(f"Data written to {category}_TVL.csv!")
 
 
 if __name__ == "__main__":
