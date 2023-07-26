@@ -28,7 +28,7 @@
 
 - Returns complete historical TVL of a specified chain from inception to time of request.
 - User inputs desired chain.
-- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/defi_tvl/RWA_TVL.csv) for example of file returned.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/defi_tvl/Solana_tvl.csv) for example of file returned.
 
 --
 
