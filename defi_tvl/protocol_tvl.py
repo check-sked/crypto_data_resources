@@ -6,6 +6,7 @@ import requests
 def main():
     # Set the protocol
     protocol = input("Enter the protocol name: ")
+    print("The script is running. Press CTRL + C to kill operation at any time.")
 
     # Make the API request
     response = requests.get(f"https://api.llama.fi/protocol/{protocol}")
