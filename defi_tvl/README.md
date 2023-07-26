@@ -46,6 +46,16 @@
 
 --
 
+### protocol_tvl_by_token.py
+
+- Returns historical TVL of a specified protocol broken down by token.
+- User inputs desired protocol via in terminal prompt.
+- Refer to [protocols_list.py](https://github.com/check-sked/crypto_data_resources/blob/main/defi_protocols_chains/protocols_list.py) for list of available protocols.
+- See [here]() for example of file returned.
+- **This is a complex request that may take some time to fully render. In terminal messages will guide you through completion."**
+
+--
+
 ## Categories
 
 **TVL Categories Available**
