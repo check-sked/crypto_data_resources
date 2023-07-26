@@ -12,7 +12,8 @@
 
 ### pools_glossary.py
 
-- Returns a CSV file cointaining pools, the assets in them, the project they're connected to, and their IDs that get input in [pool_apy_tvl_historical.py.py](https://github.com/check-sked/crypto_data_resources/blob/main/defi_yields/pool_apy_tvl_historical.py)
+- Returns a CSV file cointaining pools, the assets in them, the project they're connected to, and their IDs that get input in [pool_apy_tvl_historical.py.py](https://github.com/check-sked/crypto_data_resources/blob/main/defi_yields/pool_apy_tvl_historical.py).
+- This file should be regenerated on a semi-regular basis to capture all new chains added to the API.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/defi_yield/pools_glossary.csv) for example of file returned.
 
 --
