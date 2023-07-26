@@ -37,6 +37,15 @@
 - Returns combined historical TVL of all chains from DeFi inception to time of request _(calculated by [DeFiLlama](https://defillama.com/))_.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/defi_tvl/historical_tvl.csv) for example of file returned.
 
+### protocol_tvl_by_chain.py
+
+- Returns historical TVL of a specified protocol broken down by each chain it exists on.
+- User inputs desired protocol via in terminal prompt.
+- Refer to [protocols_list.py](https://github.com/check-sked/crypto_data_resources/blob/main/defi_protocols_chains/protocols_list.py) for list of available protocols.
+- See [here]() for example of file returned.
+
+--
+
 ## Categories
 
 **TVL Categories Available**
