@@ -9,7 +9,7 @@
 - User inputs desired category, chain, and duration of analysis. Note, the dates are sorted in descending order in the file.
 - Refer to [Categories](#categories) and [Chains](#chains) for available sectors and chains.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/defi_tvl/Ethereum_CDP_TVL.csv) for example of file returned.
-- **This is a complex request that uses multiple API endpoints. Some sector - chain combinations may take some time to fully render. In terminal messages will guide you through completion."**
+- **This is a complex request that uses multiple API endpoints. Some sector - chain combinations may take some time to fully render. In terminal messages will guide you through completion.**
 
 --
 
@@ -20,7 +20,7 @@
 - User inputs desired category and duration of analysis. Note, the dates are sorted in descending order in the file.
 - Refer to [Categories](#categories) for available sectors.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/defi_tvl/RWA_TVL.csv) for example of file returned.
-- **This is a complex request that uses multiple API endpoints. Some sector - chain combinations may take some time to fully render. In terminal messages will guide you through completion."**
+- **This is a complex request that uses multiple API endpoints. Some sector - chain combinations may take some time to fully render. In terminal messages will guide you through completion.**
 
 --
 
@@ -52,7 +52,8 @@
 - User inputs desired protocol via in terminal prompt.
 - Refer to [protocols_list.py](https://github.com/check-sked/crypto_data_resources/blob/main/defi_protocols_chains/protocols_list.py) for list of available protocols.
 - See [here]() for example of file returned.
-- **This is a complex request that may take some time to fully render. In terminal messages will guide you through completion."**
+- **This is a complex request that may take some time to fully render. In terminal messages will guide you through completion.**
+- **Note: there are some inconsistencies in the JSON results of DeFiLlama's API endpoint for TVL token data. Some coins produce $ amounts and some do raw token amount. Make sure to confirm results.**
 
 --
 
