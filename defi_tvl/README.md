@@ -64,7 +64,7 @@
 - Returns complete historical TVL of a specified protocol from inception to time of request.
 - User inputs desired protocol.
 - Refer to [protocols_list.py](https://github.com/check-sked/crypto_data_resources/blob/main/defi_protocols_chains/protocols_list.py) for list of available protocols.
-- See [here]() for example of file returned.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/defi_tvl/Radiant_TVL.csv) for example of file returned.
 
 --
 
