@@ -6,6 +6,7 @@ from datetime import datetime
 def main():
     # Input protocol to observe
     Protocol = input("Enter the protocol name: ")
+    print("The script is running. Press CTRL + C to kill operation at any time.")
 
     # Make a request to the endpoint
     try:
