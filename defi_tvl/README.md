@@ -32,6 +32,11 @@
 
 --
 
+### defi_llama_tvl.py
+
+- Returns combined historical TVL of all chains from DeFi inception to time of request _(calculated by [DeFiLlama](https://defillama.com/))_.
+- See [here]() for example of file returned.
+
 ## Categories
 
 **TVL Categories Available**
