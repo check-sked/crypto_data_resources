@@ -12,7 +12,7 @@
 
 ### pools_glossary.py
 
-- Returns a CSV file cointaining pools, the assets in them, the project they're connected to, and their IDs that get input in [pool_apy_tvl_historical.py.py]()
+- Returns a CSV file cointaining pools, the assets in them, the project they're connected to, and their IDs that get input in [pool_apy_tvl_historical.py.py](https://github.com/check-sked/crypto_data_resources/blob/main/defi_yields/pool_apy_tvl_historical.py)
 - See [here]() for example of file returned.
 
 --
@@ -21,4 +21,4 @@
 
 - Folder contains resources for gathering data on stablecoin / Dollar parity.
 - Scripts allow users to observe stablecoin's historical peg fluctuations and choose specific periods of depegging by % disparity.
-- See [here]() for folder.
+- See [here](https://github.com/check-sked/crypto_data_resources/tree/main/defi_yields/yield_huntooor) for folder.

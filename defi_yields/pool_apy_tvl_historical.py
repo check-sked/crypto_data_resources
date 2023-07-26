@@ -11,7 +11,7 @@ def get_pool_data():
     data = response.json()
 
     # Open the file in write mode
-    with open("pool_tvl_apy.csv", mode="w", newline="") as file:
+    with open(f"{Pool_ID}_data.csv", mode="w", newline="") as file:
         # Create a CSV writer
         writer = csv.writer(file)
 
@@ -26,7 +26,7 @@ def get_pool_data():
             tvlUSD = item["tvlUsd"]
             apy = round(item["apy"] / 100, 5)
             writer.writerow([timestamp, tvlUSD, apy])
-        print("Data written to pool_tvl_apy.csv")
+        print(f"Data written to {Pool_ID}_data.csv")
 
 
 if __name__ == "__main__":
