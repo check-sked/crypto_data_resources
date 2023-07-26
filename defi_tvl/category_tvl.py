@@ -44,6 +44,7 @@ def get_tvl(protocol_name):
 def main():
     category = input("Enter category: ")
     days = int(input("Enter number of days: "))  # get number of days as input
+    print("The script is running. Press CTRL + C to kill operation at any time.")
     protocols = get_protocols(category)
     if not protocols:
         return
