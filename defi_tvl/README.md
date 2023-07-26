@@ -71,7 +71,7 @@
 ### tvl_all_chains.py
 
 - Returns complete historical TVL of all chains. Results are sorted by chain.
-- See [here]() for example of file returned.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/defi_tvl/tvl_all_chains.csv) for example of file returned.
 - **This is a complex request that may take some time to fully render. In terminal messages will guide you through completion.**
 
 ## Categories
