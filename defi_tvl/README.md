@@ -20,7 +20,7 @@
 - User inputs desired category and duration of analysis. Note, the dates are sorted in descending order in the file.
 - Refer to [Categories](#categories) for available sectors.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/defi_tvl/RWA_TVL.csv) for example of file returned.
-- **This is a complex request that uses multiple API endpoints. Some sector - chain combinations may take some time to fully render. In terminal messages will guide you through completion.**
+- **This is a complex request that uses multiple API endpoints. Some sectors may take some time to fully render. In terminal messages will guide you through completion.**
 
 --
 
@@ -67,6 +67,12 @@
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/defi_tvl/Radiant_TVL.csv) for example of file returned.
 
 --
+
+### tvl_all_chains.py
+
+- Returns complete historical TVL of all chains. Results are sorted by chain.
+- See [here]() for example of file returned.
+- **This is a complex request that may take some time to fully render. In terminal messages will guide you through completion.**
 
 ## Categories
 
