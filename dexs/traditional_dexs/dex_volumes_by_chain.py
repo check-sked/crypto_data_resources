@@ -1,12 +1,9 @@
 import csv
 import requests
 
-# Input chain name
-chain = "tezos"
 
-
-def write_to_csv(data):
-    with open("dex_volume_by_chain.csv", mode="w") as csv_file:
+def write_to_csv(data, chain):
+    with open(f"{chain}_volume_highlights.csv", mode="w") as csv_file:
         fieldnames = ["name", "total24h", "total7d", "total30d"]
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
@@ -35,7 +32,7 @@ def write_to_csv(data):
         )
 
 
-def get_data():
+def get_data(chain):
     try:
         response = requests.get(
             f"https://api.llama.fi/overview/dexs/{chain}?excludeTotalDataChart=true&excludeTotalDataChartBreakdown=true&dataType=dailyVolume"
@@ -63,6 +60,13 @@ def get_data():
         print("Something went wrong:", err)
 
 
-data = get_data()
-write_to_csv(data)
-print("data written to dex_volume_by_chain.csv")
+def main():
+    chain = input("Enter chain: ")
+    print("The script is running. Press CTRL + C to kill operation at any time.")
+    data = get_data(chain)
+    write_to_csv(data, chain)
+    print(f"Data written to {chain}_volume_highlights.csv")
+
+
+if __name__ == "__main__":
+    main()
