@@ -4,8 +4,8 @@ from datetime import datetime
 
 
 def get_dex_volume():
-    Protocol = input("Enter the name of the dex you want to observe: ")
-    Type = input("Enter the type (daily or total volume): ")
+    Protocol = input("Enter dex name: ")
+    Type = input("Enter granularity type (daily or total volume): ")
     Volume = input("Enter the volume type (Notional or Premium): ")
     print("The script is running. Press CTRL + C to kill operation at any time.")
 
