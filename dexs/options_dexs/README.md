@@ -12,9 +12,8 @@
 
 ### options_dex_volume_by_protocol.py
 
-- Returns historical TVL of a specified DeFi category/ sector across all chains (e.g. historical cumulative TVL of Lending sector).
-- Results are broken down by protocol and summed up for a total TVL value.
-- User inputs desired category and duration of analysis. Note, the dates are sorted in descending order in the file.
+- Returns historical volume of options DEXs.
+- User inputs protocol name, daily or cumulative volume, and volume type via in terminal prompts.
 - Refer to [Protocols](#protocols) for available options DEXs.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/dexs/Premia_daily_Notional_Volume.csv) for example of file returned.
 
