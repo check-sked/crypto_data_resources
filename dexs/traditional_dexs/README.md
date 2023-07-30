@@ -4,21 +4,19 @@
 
 ### dex_names_volume_change.py
 
-- Folder contains resources for gathering volume data on options DEXS.
-- See [here]() for folder.
+-
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/dexs/dex_names_and_volumes.csv) for folder.
 
 --
 
 ### dex_volume_by_protocol.py
 
-- Folder contains resources for gathering volume data on DEXS.
-- Data can be sorted by chain and protocol.
-- See [here]() for folder.
+-
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/dexs/Uniswap_daily_volume.csv) for folder.
 
 --
 
 ### dex_volume_by_chain.py
 
-- Folder contains resources for gathering volume data on DEXS.
-- Data can be sorted by chain and protocol.
-- See [here]() for folder.
+-
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/dexs/Tezos_volume_highlights.csv) for folder.
