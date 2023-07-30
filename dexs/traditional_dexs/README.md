@@ -22,7 +22,7 @@
 
 ### dex_volume_by_chain.py
 
--
+- Returns total volume of a chain by protocol over 24hr, 7-day, and 30-day periods.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/dexs/Tezos_volume_highlights.csv) for example of file returned.
 
 ## Protocols
