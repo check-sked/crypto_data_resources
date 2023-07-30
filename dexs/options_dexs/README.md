@@ -15,7 +15,7 @@
 
 - Returns historical volume of options DEXs.
 - User inputs protocol name, daily or cumulative volume, and volume type via in terminal prompts.
-- Refer to [Protocols](#protocols) for available options DEXs.
+- Refer to [Protocols](#protocols) for available options DEXs or [this file](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/dexs/options_dex_names_volumes.csv).
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/dexs/Premia_daily_Notional_Volume.csv) for example of file returned.
 
 ## Protocols

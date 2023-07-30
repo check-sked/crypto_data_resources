@@ -15,7 +15,7 @@
 
 - Returns historical volume of DEXs.
 - User inputs protocol name and daily or cumulative volume via in terminal prompts.
-- Refer to [Protocols](#protocols) for available options DEXs or [this file](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/dexs/dex_names_and_volumes.csv).
+- Refer to [Protocols](#protocols) for available DEXs or [this file](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/dexs/dex_names_and_volumes.csv).
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/dexs/Uniswap_daily_volume.csv) for example of file returned.
 
 --
