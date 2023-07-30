@@ -6,6 +6,7 @@
 
 - Returns name of options DEX, chain, and change in volume over 1-day, 7-day, and 30-day periods.
 - Change cells represent % change based on time period. For example -32.15 is the equivalent of -32.15% change over the specified period.
+- This file should be regenerated on a semi-regular basis to capture all new options DEXs added to the API.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/dexs/options_dex_names_volumes.csv) for example of file returned.
 
 --
