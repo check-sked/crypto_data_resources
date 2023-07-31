@@ -24,7 +24,7 @@
 - Returns historical stablecoin supply dominance by chain in native units (count of stablecoins in circulation).
 - User has the option to choose specific stablecoins and chains through prompts in terminal.
 - Refer to map in file or the stablecoin dictionary for acceptable input tickers.
-- See [here]() for example of file returned.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/Optimism_USDC_NATIVE_supply_dominance.csv.csv) for example of file returned.
 
 --
 
