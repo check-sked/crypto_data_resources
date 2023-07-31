@@ -39,13 +39,6 @@ See protocols list for Lending protocols
 
 --
 
-### lending_protocol_tvl_by_token.py
-
-- R
-- See [here]() for example of file returned.
-
---
-
 ### lending_protocols_list.py
 
 - R
