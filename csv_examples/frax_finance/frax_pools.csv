@@ -1,0 +1,274 @@
+chain,platform,pool_tokens,pool_rewards,liquidity_locked,apy,apy_max
+ethereum,saddle,"['FRAX', 'USDC', 'alUSD']",['SDL'],$1.01,19405589.49%,48513973.72%
+ethereum,convex,['FRAX'],['FXS'],"$231,066.52",8168744.81%,8169949.09%
+ethereum,convex,['FRAX'],['FXS'],$169.54,1125030.15%,1125035.73%
+ethereum,convex,"['FRAX', 'USDP']","['CRV', 'CVX']","$13,458.51",833824.61%,833824.61%
+ethereum,pickle,"['FRAX', 'alUSD', 'FEI', 'LUSD']","['PICKLE', 'SDL']","$22,958.08",48042.69%,84393.08%
+arbitrum,arbidex,"['FRAX', 'DAI+']",['ARX'],"$5,932.65",17892.49%,17892.49%
+arbitrum,arbidex,"['FRAX', 'WETH']",['ARX'],"$25,646.33",13106.81%,13106.81%
+arbitrum,arbidex,"['FRAX', 'USD+']",['ARX'],"$8,329.56",12743.76%,12743.76%
+ethereum,pickle,"['cvxFXS', 'FXS']",['PICKLE'],"$31,214.83",12360.37%,21637.24%
+ethereum,stakedao,['FRAX'],"['ANGLE', 'SDT']","$41,452.36",12058.88%,12058.88%
+ethereum,saddle,"['FRAX', 'USDC', 'USDT']",['SDL'],$331.01,11732.11%,29330.27%
+arbitrum,arbidex,"['FRAX', 'frxETH']",['ARX'],"$11,873.34",11175.24%,11175.24%
+ethereum,convex,['FRAX'],['FXS'],"$1,230,874.74",10774.86%,11238.89%
+ethereum,convex,"['FRAX', 'USDC', 'cvxCRV']","['CRV', 'CVX']","$1,236,290.80",10669.09%,10669.09%
+optimism,saddle,"['FRAX', 'USDC']",['SDL'],"$5,643.51",9801.14%,23571.91%
+bsc,thena,"['FRAX', 'FXS']",['THE'],$0.00,8966.02%,8966.02%
+optimism,saddle,"['FRAX', 'USDC', 'sUSD']",['SDL'],$885.69,8807.57%,21884.75%
+moonriver,alphadex,"['FRAX', 'USDC']",['ROAR'],"$9,392.79",8349.54%,8349.54%
+ethereum,angle,['FRAX'],"['FRAX', 'ANGLE']","$39,621.93",8274.52%,20686.29%
+ethereum,convex,"['FRAX', 'USDC', 'STG']","['CRV', 'CVX']","$2,252,909.33",8079.32%,8079.32%
+ethereum,convex,['FRAX'],['FXS'],"$2,824,730.78",7030.96%,8583.35%
+ethereum,convex,"['FRAX', 'FPI']","['CRV', 'CVX', 'FXS']","$2,849,962.68",6720.19%,6720.19%
+arbitrum,ramses,"['FRAX', 'AGEUR']",['RAM'],$1.53,6680.14%,16700.36%
+moonriver,alphadex,"['FRAX', 'WMOVR']",['ROAR'],"$13,936.83",5630.96%,5630.96%
+optimism,saddle,"['FRAX', 'USDC', 'USX']",['SDL'],"$1,505.84",5227.17%,12918.77%
+ethereum,saddle,"['FRAX', 'USDC', 'veFRAX-FRAXBP']",['SDL'],$780.60,4974.90%,12437.24%
+arbitrum,saddle,"['FRAX', 'USDC', 'USDs']",['SDL'],"$3,636.01",4624.01%,10976.22%
+ethereum,pickle,"['FRAX', 'USDC']",['FXS'],$159.73,4025.34%,9918.89%
+bsc,thena,"['BNBx', 'FRAX']",['THE'],$0.00,3897.86%,3897.86%
+ethereum,convex,['FRAX'],['FXS'],"$11,402,483.14",3855.52%,6295.09%
+ethereum,convex,"['FXS', 'cvxFXS']","['CRV', 'CVX']","$12,179,453.79",3753.44%,3753.44%
+ethereum,convex,['FRAX'],['FXS'],"$1,019,716.30",3408.06%,3968.84%
+arbitrum,saddle,"['FRAX', 'alUSD', 'USX', 'USDs']","['FXS', 'SDL']","$340,125.80",3325.49%,13301.95%
+ethereum,convex,"['FRAX', 'USDC', 'ALCX']","['CRV', 'CVX']","$1,068,191.88",3268.40%,3268.40%
+ethereum,convex,['FRAX'],['FXS'],"$1,443,441.03",3246.28%,4008.03%
+ethereum,convex,"['FRAX', 'USDC']","['CRV', 'CVX']","$29,405,541.53",3246.18%,3246.18%
+ethereum,convex,['FRAX'],"['FXS', 'CRV', 'CVX']","$976,858.68",3220.05%,15962.29%
+bsc,thena,"['BNBx', 'FRAX']",['THE'],$0.00,3214.33%,3214.33%
+ethereum,convex,['FRAX'],['FXS'],"$104,817.37",3075.34%,4141.03%
+ethereum,convex,"['FRAX', 'USDC', 'msUSD']","['CRV', 'CVX']","$1,556,621.81",3056.27%,3056.27%
+polygon,dystopia,"['FRAX', 'MATIC']",['DYST'],$466.24,2989.32%,7473.29%
+ethereum,convex,['FRAX'],['FXS'],"$9,874,494.68",2915.40%,3452.67%
+ethereum,convex,['FRAX'],['FXS'],"$1,195,369.43",2878.13%,3352.21%
+ethereum,pickle,"['FRAX', 'DAI']",['FXS'],"$1,011.61",2814.58%,6979.91%
+ethereum,convex,"['FRAX', 'USDC', 'TUSD']","['CRV', 'CVX']","$299,339.65",2809.37%,2809.37%
+ethereum,convex,"['FRAX', 'USDC', 'DOLA']","['CRV', 'CVX']","$11,600,424.39",2781.53%,2781.53%
+ethereum,convex,"['FRAX', 'USDC', 'CVX']","['CRV', 'CVX']","$1,204,060.72",2759.98%,2759.98%
+ethereum,stakedao,"['FRAX', 'USDC']","['SDT', 'CRV']","$163,822.31",2680.51%,4201.81%
+arbitrum,ramses,"['FRAX', 'MAI']",['RAM'],"$69,824.77",2542.54%,6356.34%
+bsc,thena,"['HAY', 'FRAX']",['THE'],$0.00,2505.19%,2505.19%
+avalanche,traderjoe,"['FRAX', 'AVAX']",['FXS'],$865.19,2326.22%,2326.22%
+arbitrum,ramses,"['FRAX', 'DOLA']",['RAM'],"$286,241.28",2253.76%,5634.41%
+ethereum,frax,"['FRAX', 'IQ']","['FXS', 'IQ']","$6,374,287.58",2242.13%,4312.44%
+arbitrum,sentiment,['FRAX'],['FXS'],"$456,992.69",2027.49%,4107.43%
+ethereum,convex,"['FRAX', 'USDC', 'USDD']","['CRV', 'CVX']","$40,409.75",2016.21%,2016.21%
+ethereum,convex,['FRAX'],['FXS'],"$40,133.09",2015.90%,2015.98%
+moonriver,solarbeam,"['FRAX', 'MOVR']",['SOLAR'],"$13,746.73",1870.93%,1870.93%
+ethereum,convex,"['FRAX', 'USDC', 'UZD']","['CRV', 'CVX']","$4,735,635.09",1794.90%,1794.90%
+arbitrum,chronos,"['FRAX', 'MAI']",['CHR'],"$993,393.09",1706.00%,3413.00%
+bsc,thena,"['FRAX', 'CUSD']",['THE'],$0.00,1679.08%,1679.08%
+polygon,dystopia,"['FRAX', 'MAI']",['DYST'],$502.11,1662.18%,4155.45%
+ethereum,convex,['FRAX'],['FXS'],"$1,084,040.33",1635.61%,2636.42%
+arbitrum,arbidex,"['frxETH', 'WETH']",['ARX'],"$54,384.89",1626.52%,1626.52%
+ethereum,saddle,"['FRAX', 'USDC', 'sUSD']",['SDL'],"$10,082.96",1527.11%,3817.78%
+arbitrum,saddle,"['FRAX', 'USDC', 'USDT']",['SDL'],"$10,161.49",1524.21%,3797.18%
+ethereum,fpis,['FPIS'],['FPIS'],"$21,792,131.44",1431.25%,5725.00%
+bsc,thena,"['DOLA', 'FRAX']",['THE'],$0.00,1411.76%,1411.76%
+ethereum,convex,['FRAX'],['FXS'],"$50,062.62",1401.15%,2446.01%
+ethereum,convex,"['FRAX', 'USDC', 'eUSD']","['CRV', 'CVX']","$10,179,057.91",1394.32%,1394.32%
+ethereum,convex,"['FRAX', 'USDC', 'SDT']","['CRV', 'CVX']","$1,088,083.59",1385.63%,1385.63%
+ethereum,convex,['FRAX'],['FXS'],"$326,686.51",1304.72%,1305.47%
+ethereum,convex,"['FRAX', 'USDC', 'sUSD']","['CRV', 'CVX']","$326,686.51",1304.62%,1304.62%
+aurora,rose,"['FRAX', 'RoseStablesLP']",['ROSE'],"$27,044.20",1300.00%,1300.00%
+arbitrum,ramses,"['frxETH', 'sfrxETH']",['RAM'],"$74,068.04",1281.41%,3203.52%
+ethereum,stakedao,"['FRAX', 'USDC', 'DAI', 'USDT']","['SDT', 'CRV']","$17,254.77",1259.98%,1259.98%
+ethereum,bunni,"['FRAX', 'USDC']","['FXS', 'oLIT']",$34.34,1233.79%,6168.94%
+optimism,saddle,"['FRAX', 'USDC', 'OptUSD']",['SDL'],"$13,171.65",1220.34%,2973.86%
+fantom,beefy_finance,['FRAX'],['FRAX'],$42.91,1205.00%,1205.00%
+bsc,thena,"['FRAX', 'USDT']",['THE'],$0.00,1186.57%,1186.57%
+arbitrum,ramses,"['FRAX', 'USDC']",['RAM'],"$284,876.19",1182.01%,2955.03%
+ethereum,convex,['FRAX'],['FXS'],"$1,832,192.78",1144.82%,1316.51%
+arbitrum,arbidex,"['FRAX', 'USDCe']",['ARX'],"$232,178.32",1142.98%,1142.98%
+ethereum,convex,"['FRAX', 'USDC', 'ZUSD']","['CRV', 'CVX']","$5,010,222.70",1141.47%,1141.47%
+ethereum,convex,"['FRAX', 'USDC', 'agEUR']","['CRV', 'CVX']","$54,211.15",1140.13%,1140.13%
+polygon,dystopia,"['FRAX', 'FXS']",['DYST'],$721.47,1134.14%,2835.35%
+ethereum,convex,"['FRAX', 'DAI', 'USDC', 'USDT']","['CRV', 'CVX']","$16,809,327.92",1122.06%,1122.06%
+ethereum,yearn,"['FRAX', 'DAI', 'USDC', 'USDT']",['FRAX3CRV-f'],"$684,724.26",1107.13%,1107.13%
+ethereum,convex,"['FRAX', 'USDC', 'cvxFXS']","['CRV', 'CVX']","$1,838,490.75",1100.52%,1100.52%
+ethereum,convex,"['FRAX', 'SILO']","['CRV', 'CVX']","$57,566.91",1077.24%,1077.24%
+moonriver,alphadex,"['FRAX', 'WMOVR']",['BBROAR'],$150.42,1067.70%,1067.70%
+ethereum,stakedao,"['frxETH', 'sfrxETH']","['SDT', 'CRV']","$1,005,133.89",1052.78%,1634.61%
+arbitrum,curve_arbi_vstfrax,"['FRAX', 'VST']","['FXS', 'VSTA']","$4,011,990.97",1042.13%,3126.38%
+ethereum,convex,['FRAX'],"['FXS', 'CRV', 'CVX']","$2,800,714.51",980.09%,4335.09%
+ethereum,stakedao,['FXS'],"['FXS', 'SDT']","$1,732,951.75",931.84%,1958.31%
+ethereum,frax,"['FRAX', 'pitchFXS']","['FXS', 'PITCH']","$2,653,540.78",916.67%,4454.54%
+bsc,thena,"['FRAX', 'MAI']",['THE'],$0.00,906.83%,906.83%
+bsc,thena,"['frxETH', 'wBETH']",['THE'],$0.00,893.80%,893.80%
+ethereum,saddle,"['FRAX', 'USDC', 'sUSD']",['SDL'],"$121,567.89",887.06%,2235.50%
+ethereum,frax,"['FRAX', 'FXS']",['FXS'],"$5,782,678.65",882.97%,1299.75%
+ethereum,convex,['FRAX'],['FXS'],"$44,639,973.03",874.77%,1015.78%
+ethereum,convex,['FRAX'],['FXS'],"$1,424,376.25",845.96%,3671.15%
+ethereum,convex,"['FRAX', 'USDC', 'alUSD']","['CRV', 'CVX']","$45,672,339.30",839.64%,839.64%
+bsc,thena,"['FRAX', 'BUSD']",['THE'],$0.00,830.92%,830.92%
+ethereum,frax,"['FRAX', 'SYN']","['FXS', 'SYN']","$174,753.88",811.39%,2497.88%
+ethereum,convex,['FRAX'],['FXS'],"$1,405,349.39",797.13%,1286.63%
+ethereum,convex,"['FRAX', 'USDC', 'STG']","['CRV', 'CVX']","$3,270,633.13",776.80%,776.80%
+ethereum,convex,['FRAX'],['FXS'],"$4,813,940.80",767.13%,1283.06%
+arbitrum,saddle,"['FRAX', 'USDC', 'USX']",['SDL'],$122.24,755.60%,1811.90%
+ethereum,frax,['FRAX'],['FXS'],"$2,652,530.95",745.66%,1262.07%
+ethereum,convex,['FRAX'],"['FXS', 'CRV', 'CVX']","$6,695,921.31",737.23%,2523.09%
+arbitrum,ramses,"['frxETH', 'ETH']",['RAM'],"$323,762.08",732.95%,1832.37%
+fantom,spiritswap,['FRAX'],['FRAX'],"$26,581.43",732.37%,732.37%
+optimism,beefy_finance,['FRAX'],['FRAX'],"$619,848.66",721.17%,7057.33%
+ethereum,convex,['FRAX'],['FXS'],"$69,071,099.24",714.21%,1179.21%
+ethereum,stakedao,"['cvxFXS', 'FXS']","['SDT', 'CRV']",$2.14,689.01%,689.01%
+arbitrum,chronos,"['FRAX', 'USD+']",['CHR'],"$240,387.49",685.00%,1370.00%
+ethereum,convex,['FRAX'],['FXS'],"$277,870.14",683.85%,1009.42%
+ethereum,convex,"['FRAX', 'USDC', 'BADGER']","['CRV', 'CVX']","$1,406,920.88",674.28%,674.28%
+ethereum,convex,['FRAX'],['FXS'],"$87,417.86",666.21%,3068.14%
+ethereum,convex,"['FRAX', 'USDC', 'XAI']","['CRV', 'CVX']","$4,816,976.61",638.24%,638.24%
+bsc,thena,"['sfrxETH', 'frxETH']",['THE'],$0.00,630.36%,630.36%
+avalanche,beefy_finance,['FRAX'],['FRAX'],"$9,390.09",627.07%,1019.36%
+arbitrum,chronos,"['frxETH', 'sfrxETH']",['CHR'],"$198,255.83",627.00%,1253.00%
+ethereum,convex,"['FRAX', 'USDC', 'clevUSD']","['CRV', 'CVX']","$3,255,515.60",602.56%,602.56%
+ethereum,convex,"['ETH', 'frxETH']","['CRV', 'CVX']","$71,815,210.14",597.81%,597.81%
+ethereum,convex,['FRAX'],['FXS'],"$1,497,773.23",567.61%,1608.45%
+ethereum,bunni,"['frxETH', 'WETH']","['FXS', 'oLIT']",$3.76,549.19%,2745.93%
+ethereum,convex,['FRAX'],['FXS'],"$87,287.80",506.41%,2434.24%
+optimism,saddle,"['FRAX', 'USDC', 'USDT']",['SDL'],$89.94,503.41%,1258.52%
+polygon,balancer,"['frxETH', 'WETH']","['FXS', 'BAL']","$17,839.39",485.99%,1943.95%
+ethereum,balancer,"['sfrxETH', 'wstETH', 'rETH']",['BAL'],"$36,330.00",475.00%,475.00%
+ethereum,convex,"['FXS', 'ETH']","['CRV', 'CVX']","$577,927.24",437.19%,437.19%
+ethereum,stakedao,"['sdFXS', 'FXS']","['SDT', 'CRV']","$25,463.23",423.18%,423.18%
+bsc,thena,"['frxETH', 'ETH']",['THE'],$0.00,422.69%,422.69%
+ethereum,convex,['FRAX'],['FXS'],"$73,222.12",388.48%,1927.98%
+ethereum,convex,['FRAX'],['FXS'],"$7,070,568.19",385.45%,1748.02%
+ethereum,convex,['FRAX'],"['FXS', 'CRV', 'CVX']","$170,202.16",382.41%,1775.00%
+ethereum,frax,"['FRAX', 'FPIS']","['FXS', 'FPIS']","$2,707,792.43",381.06%,1279.18%
+ethereum,convex,['FRAX'],['FXS'],"$50,139.78",371.57%,371.62%
+ethereum,convex,"['FRAX', 'USDC', 'GUSD']","['CRV', 'CVX']","$59,566.29",371.55%,371.55%
+ethereum,convex,"['FRAX', 'USDC', 'OHM']","['CRV', 'CVX']","$1,504,287.11",307.34%,307.34%
+moonriver,alphadex,"['FRAX', 'USDC']",['BBROAR'],"$3,920.35",300.20%,300.20%
+ethereum,frax,"['FRAX', 'OHM']","['FXS', 'OHM']","$496,063.72",295.70%,1478.51%
+ethereum,convex,['FRAX'],['FXS'],"$674,330.87",290.34%,452.70%
+arbitrum,saddle,"['FRAX', 'USDC', 'USDT']",['SDL'],$44.03,246.08%,246.08%
+fantom,spiritswap,"['FRAX', 'USDC']",['SPIRIT'],"$97,153.07",241.80%,241.80%
+ethereum,convex,['FRAX'],['FXS'],$0.05,223.44%,223.44%
+arbitrum,ramses,"['FRAX', 'FXS']",['RAM'],"$1,821.56",219.18%,547.96%
+arbitrum,chronos,"['frxETH', 'WETH']",['CHR'],"$253,664.16",212.00%,425.00%
+ethereum,convex,['FRAX'],['FXS'],$186.41,209.09%,214.14%
+moonbeam,stellaswap,"['FRAX', 'axlUSDC', 'USDT', 'BUSD', 'USDC']","['STELLA', 'GLMR']",$100.80,208.62%,208.62%
+ethereum,convex,['FRAX'],['FXS'],"$698,142.69",207.44%,414.96%
+arbitrum,dforce,['FRAX'],"['FRAX', 'DFORCE']",$429.71,206.63%,206.63%
+bsc,wombat,['FRAX'],['WOM'],"$81,740.88",202.28%,226.33%
+fantom,spiritswap,"['FRAX', 'FTM']",['SPIRIT'],"$540,795.33",189.83%,189.83%
+ethereum,tokemak,['FRAX'],['TOKE'],"$531,591.73",181.42%,181.42%
+bsc,apeswap,"['FRAX', 'BUSD']",['BANANA'],"$12,380.34",161.56%,161.56%
+ethereum,convex,['FRAX'],"['FXS', 'CRV', 'CVX']",$0.76,141.34%,141.34%
+ethereum,convex,['FRAX'],['FXS'],"$1,088,579.47",140.68%,140.68%
+ethereum,convex,"['FRAX', 'USDC', 'RSR']","['CRV', 'CVX']","$1,100,492.85",140.68%,140.68%
+bsc,wombat,['frxETH'],['WOM'],"$58,352.80",138.58%,199.38%
+ethereum,aave,['aFRAX'],"['FXS', 'stkAAVE']","$510,653.93",128.15%,264.29%
+avalanche,traderjoe,"['FXS', 'AVAX']",['JOE'],"$1,349.65",127.07%,127.07%
+avalanche,traderjoe,"['FRAX', 'gOHM']",['gOHM'],"$5,351.29",117.11%,117.11%
+arbitrum,saddle,"['FRAX', 'USDC']",['SDL'],"$1,212,720.08",116.74%,206.57%
+ethereum,templedao,['FRAX'],"['FXS', 'TEMPLE']","$4,229,381.62",111.56%,557.78%
+ethereum,convex,"['FRAX', 'USDC', 'LUSD']","['CRV', 'CVX']","$259,375.79",86.63%,86.63%
+ethereum,convex,['FRAX'],['FXS'],$0.00,86.63%,86.63%
+moonriver,beefy_finance,['FRAX'],['FRAX'],"$31,409.66",76.67%,76.67%
+moonbeam,moonwell,['FRAX'],['FRAX'],"$488,389.18",67.61%,67.61%
+moonriver,moonwell,['FRAX'],['FRAX'],"$488,389.18",67.61%,67.61%
+ethereum,convex,"['FRAX', 'USDC', 'BUSD']","['CRV', 'CVX']","$90,429.19",65.72%,65.72%
+ethereum,convex,['FRAX'],['FXS'],"$1,154.04",61.30%,235.75%
+ethereum,pickle,['FXS'],['FXS'],"$12,210.07",59.00%,59.00%
+ethereum,stakedao,"['sfrxETH', 'wstETH', 'rETH']","['SDT', 'BAL']",$24.85,58.39%,58.39%
+ethereum,uniswap_v3,"['FRAX', 'USDC']","['FXS', 'FRAX', 'USDC']","$89,915,590.11",49.92%,181.07%
+ethereum,stakedao,"['FRAX', 'DAI', 'USDC', 'USDT']","['FXS', 'SDT']","$1,169,692.90",45.66%,228.32%
+ethereum,convex,['FRAX'],['FXS'],"$613,385.65",42.69%,144.96%
+ethereum,convex,"['FRAX', 'FEI', 'alUSD']","['CRV', 'CVX']","$1,542.37",40.28%,40.28%
+ethereum,uniswap_v3,"['FRAX', 'DAI']","['FXS', 'FRAX', 'DAI']","$16,904,138.61",36.07%,58.36%
+ethereum,tokemak,['FXS'],['TOKE'],"$4,032,640.83",34.55%,34.55%
+ethereum,convex,['FRAX'],"['FXS', 'CRV', 'CVX']",$0.00,34.48%,34.48%
+ethereum,vesper,['FRAX'],"['FXS', 'VSP']","$3,821,936.58",29.98%,149.92%
+moonbeam,stellaswap,"['FRAX', 'USDT', 'BUSD', 'USDC']","['STELLA', 'GLMR']","$9,606.98",28.91%,28.91%
+ethereum,convex,['FRAX'],"['FXS', 'CRV', 'CVX']",$0.00,26.42%,26.42%
+avalanche,echidna,"['FRAX', 'USDC']",['ECD'],"$1,806.55",21.10%,84.41%
+avalanche,platypus,"['FRAX', 'USDC']",['PTP'],"$1,806.55",21.10%,84.41%
+avalanche,vector,"['FRAX', 'USDC']",['PTP'],"$1,806.55",21.10%,84.41%
+ethereum,frax,['FXS'],['FXS'],"$230,644,959.09",18.59%,74.36%
+ethereum,fxs,['FXS'],['FXS'],"$230,644,959.06",18.50%,74.00%
+ethereum,convex,"['FRAX', 'USDC', 'pUSD']","['CRV', 'CVX']","$1,154.04",17.68%,17.68%
+ethereum,stakedao,"['FRAX', 'DAI', 'USDC', 'USDT']","['FXS', 'SDT']","$4,745,559.02",17.45%,87.27%
+ethereum,convex,"['FRAX', 'USDC', 'apeUSD']","['CRV', 'CVX']","$614,995.25",17.12%,17.12%
+ethereum,gelato,"['FRAX', 'DAI']",['FXS'],"$2,393,766.13",16.07%,80.37%
+ethereum,gearbox,['FRAX'],['GEAR'],"$1,301,322.43",15.80%,15.80%
+ethereum,convex,['FRAX'],['FXS'],$499.94,8.98%,8.98%
+avalanche,echidna,['FRAX'],['ECD'],"$14,145.19",7.39%,29.58%
+avalanche,platypus,['FRAX'],['PTP'],"$14,145.19",7.39%,29.58%
+avalanche,vector,['FRAX'],['PTP'],"$14,145.19",7.39%,29.58%
+moonbeam,stellaswap,"['FRAX', 'MAI', 'USDT', 'BUSD', 'USDC']",['STELLA'],$371.43,6.88%,6.88%
+ethereum,convex,['FRAX'],['FXS'],"$2,178,213.85",2.84%,2.84%
+ethereum,convex,"['FRAX', 'USDC', 'MAI']","['CRV', 'CVX']","$2,278,342.48",2.84%,2.84%
+polygon,mstable,"['FRAX', 'mUSD']","['FXS', 'MTA']","$1,473,077.77",1.49%,4.47%
+ethereum,dforce,['FRAX'],"['FRAX', 'DFORCE']",$100.34,1.20%,1.20%
+bsc,thena,"['FRAX', 'frxETH']",['THE'],$0.00,1.14%,1.14%
+bsc,beefy_finance,['FRAX'],['BANANA'],"$303,431.79",1.04%,1373.83%
+ethereum,sushiswap,"['FRAX', 'SUSHI']","['FXS', 'SUSHI']","$43,018.57",0.06%,0.28%
+fantom,yearn,['FRAX'],['FRAX'],"$38,729.87",0.00%,0.00%
+arbitrum,hundred,['FRAX'],"['FRAX', 'HND']",$0.00,0.00%,0.00%
+arbitrum,olympus,['FRAX'],['IQ'],$0.00,0.00%,0.00%
+arbitrum,stargate,['FRAX'],['STG'],"$699,642.43",0.00%,0.00%
+avalanche,arable,['FRAX'],['ACRE'],$101.89,0.00%,0.00%
+avalanche,stargate,['FRAX'],['STG'],"$887,295.09",0.00%,0.00%
+bsc,thena,"['frxETH', 'sfrxETH']",['THE'],$0.00,0.00%,0.00%
+bsc,thena,"['FRAX', 'BNBx']",['THE'],$0.00,0.00%,0.00%
+ethereum,angle,['FRAX'],"['FRAX', 'ANGLE']","$7,632.97",0.00%,0.00%
+ethereum,curve,"['FRAX', 'USDC']",['CRV'],$0.00,0.00%,0.00%
+ethereum,curve,"['FRAX', 'DAI', 'USDC', 'USDT']",['CRV'],$0.00,0.00%,0.00%
+ethereum,fluxfinance,['FRAX'],['FRAX'],$0.00,0.00%,0.00%
+ethereum,frax,['FRAX'],['FRAX'],$0.00,0.00%,0.00%
+ethereum,monolith,"['FRAX', 'USDT']","['FXS', 'SOLID']","$3,214.66",0.00%,0.00%
+ethereum,monolith,"['frxETH', 'WETH']","['FXS', 'SOLID']","$1,539,806.85",0.00%,0.00%
+ethereum,monolith,"['FXS', 'frxETH']",['SOLID'],$296.81,0.00%,0.00%
+ethereum,saddle,"['FRAX', 'USDC', 'USDT']",['SDL'],$98.58,0.00%,0.00%
+ethereum,smartcredit,['FRAX'],['FRAX'],$0.00,0.00%,0.00%
+ethereum,solidly,"['FRAX', 'USDC']","['SOLID', 'FXS']",$66.15,0.00%,0.00%
+ethereum,solidly,"['FRAX', 'USDT']","['SOLID', 'FXS']","$3,214.66",0.00%,0.00%
+ethereum,solidly,"['frxETH', 'WETH']","['SOLID', 'FXS']","$1,539,806.85",0.00%,0.00%
+ethereum,solidly,"['FRAX', 'frxETH']",['SOLID'],$38.53,0.00%,0.00%
+ethereum,solidly,"['FXS', 'frxETH']",['SOLID'],$296.81,0.00%,0.00%
+ethereum,stargate,['FRAX'],['STG'],"$207,682.40",0.00%,0.00%
+fantom,hundred,['FRAX'],"['FRAX', 'HND']",$0.00,0.00%,0.00%
+moonbeam,beefy_finance,['FRAX'],['FRAX'],$0.00,0.00%,0.00%
+moonbeam,stellaswap,"['FRAX', 'athUSD', 'USDT', 'BUSD', 'USDC']","['STELLA', 'ATH']","$44,296.71",0.00%,0.00%
+moonriver,hundred,['FRAX'],"['FRAX', 'HND']",$0.00,0.00%,0.00%
+moonriver,sushiswap,"['FRAX', 'USDC']","['SUSHI', 'MOVR']","$237,865.88",0.00%,0.00%
+optimism,hundred,['FRAX'],"['FRAX', 'HND']",$0.00,0.00%,0.00%
+optimism,stargate,['FRAX'],['STG'],"$824,081.12",0.00%,0.00%
+optimism,velodrome,"['alETH', 'frxETH']",['VELO'],$0.00,0.00%,0.00%
+optimism,velodrome,"['FRAX', 'alUSD']",['VELO'],$0.00,0.00%,0.00%
+optimism,velodrome,"['FRAX', 'DOLA']",['VELO'],$0.00,0.00%,0.00%
+optimism,velodrome,"['FRAX', 'MAI']",['VELO'],$0.00,0.00%,0.00%
+optimism,velodrome,"['FRAX', 'sUSD']",['VELO'],$0.00,0.00%,0.00%
+optimism,velodrome,"['FRAX', 'USD+']",['VELO'],$0.00,0.00%,0.00%
+optimism,velodrome,"['FRAX', 'USDC']",['VELO'],$0.00,0.00%,0.00%
+optimism,velodrome,"['frxETH', 'sfrxETH']",['VELO'],$0.00,0.00%,0.00%
+optimism,velodrome,"['frxETH', 'WETH']",['VELO'],$0.00,0.00%,0.00%
+optimism,velodrome,"['FRAX', 'FXS']",['VELO'],$0.00,0.00%,0.00%
+optimism,velodrome,"['FRAX', 'OP']",['VELO'],$0.00,0.00%,0.00%
+optimism,velodrome,"['FRAX', 'USDC']",['VELO'],$0.00,0.00%,0.00%
+polygon,beefy_finance,['FRAX'],['FRAX'],$0.00,0.00%,0.00%
+polygon,dystopia,"['FRAX', 'DYST']",['DYST'],$6.81,0.00%,0.00%
+polygon,idex,"['FRAX', 'USDC']",['IDEX'],$18.72,0.00%,0.00%
+polygon,idex,"['FXS', 'USDC']",['IDEX'],$126.10,0.00%,0.00%
+polygon,marketxyz,['FRAX'],['FRAX'],"$22,698.33",0.00%,0.00%
+ethereum,frax,"['FRAX', 'IQ']","['FXS', 'IQ']",$23.31,0.00%,0.00%
+ethereum,frax,"['FRAX', 'IQ']","['FXS', 'IQ']",$2.77,0.00%,0.00%
+ethereum,frax,"['FRAX', 'IQ']","['FXS', 'IQ']","$9,921.53",0.00%,0.00%
+ethereum,frax,"['FRAX', 'pitchFXS']","['FXS', 'PITCH']",$0.00,0.00%,0.00%
+ethereum,frax,"['FRAX', 'pitchFXS']","['FXS', 'PITCH']",$3.75,0.00%,0.00%
+ethereum,frax,"['FRAX', 'pitchFXS']","['FXS', 'PITCH']","$7,217.63",0.00%,0.00%
+ethereum,frax,"['FRAX', 'SYN']","['FXS', 'SYN']","$3,000.98",0.00%,0.00%
+ethereum,frax,"['FRAX', 'SDL']","['FXS', 'SDL']",$0.00,0.00%,0.00%
+ethereum,frax,"['FRAX', 'ZZ']","['FXS', 'ZZ']","$2,724.71",0.00%,0.00%
+ethereum,rari,['FRAX'],['FRAX'],$0.00,0.00%,0.00%
+ethereum,saddle,"['FRAX', 'alUSD', 'FEI', 'LUSD']","['FXS', 'TRIBE', 'ALCX', 'LQTY']","$40,400.27",0.00%,0.00%
+ethereum,uniswap,"['FRAX', 'FXS']",['FXS'],"$12,375,658.81",0.00%,0.00%
+ethereum,uniswap,"['FRAX', 'IQ']","['FXS', 'IQ']",$869.53,0.00%,0.00%
+ethereum,uniswap,"['FRAX', 'OHM']","['FXS', 'OHM']",$802.23,0.00%,0.00%
+ethereum,uniswap,"['FRAX', 'USDC']",['FXS'],"$49,364.83",0.00%,0.00%
+ethereum,uniswap,"['FRAX', 'WETH']",['FXS'],"$8,170.44",0.00%,0.00%
+ethereum,uniswap_v3,"['FRAX', 'agEUR']","['FXS', 'FRAX', 'agEUR']","$11,515.27",0.00%,0.00%
+polygon,dystopia,"['FRAX', 'USDC']",['DYST'],$0.00,0.00%,0.00%
