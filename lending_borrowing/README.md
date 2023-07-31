@@ -7,7 +7,7 @@ See protocols list for Lending protocols
 ### current_assets_borrowed_by_protocol_chain.py
 
 - R
-- See [here]() for example of file returned.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/lending_borrowing/Compound_assets_borrowed_by_chain.csv) for example of file returned.
 
 --
 
