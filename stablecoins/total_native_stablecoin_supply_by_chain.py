@@ -13,7 +13,7 @@ def save_stablecoin_supply_csv(chain):
         data = response.json()
 
         # Open a CSV file for writing
-        with open(f"{chain}_native_stablecoin_supply.csv", "w", newline="") as csv_file:
+        with open(f"{chain}_NATIVE_stablecoin_supply.csv", "w", newline="") as csv_file:
             # Create a CSV writer object
             writer = csv.writer(csv_file)
 
