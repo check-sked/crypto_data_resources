@@ -7,7 +7,7 @@
 - Returns historical TVL of a specified DeFi category/ sector of a specific chain (e.g. historical TVL of Lending sector on Ethereum).
 - Results are broken down by protocol and summed up for a total TVL value.
 - User inputs desired category, chain, and duration of analysis. Note, the dates are sorted in descending order in the file.
-- Refer to [Categories](#categories) and [Chains](#chains) for available sectors and chains.
+- Refer to [Categories](#categories) and [Chains](#chains) for available sectors and chains. Also refer to [chain_list.py](https://github.com/check-sked/crypto_data_resources/blob/main/defi_protocols_chains/chain_list.py) for additional new chains added to API.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/defi_tvl/Ethereum_CDP_TVL.csv) for example of file returned.
 - **This is a complex request that uses multiple API endpoints. Some sector - chain combinations may take some time to fully render. In terminal messages will guide you through completion.**
 
