@@ -29,8 +29,8 @@ def save_total_stablecoins_all_chains_csv():
             date = datetime.datetime.fromtimestamp(timestamp).strftime(
                 "%Y-%m-%d"
             )  # format timestamp as human-readable date
-            peggedUSD = item["totalCirculating"]["peggedUSD"]
-            peggedEUR = item["totalCirculating"]["peggedEUR"]
+            peggedUSD = item["totalCirculatingUSD"]["peggedUSD"]
+            peggedEUR = item["totalCirculatingUSD"]["peggedEUR"]
 
             writer.writerow([date, peggedUSD, peggedEUR])
 
