@@ -174,7 +174,7 @@ def save_stablecoin_supply_dominance_csv(chain, stablecoin):
             row.append("N/A")
 
     # Write the data to a CSV file
-    filename = f"stablecoin_supply_dominance_{chain}_{stablecoin}.csv"
+    filename = f"{chain}_{stablecoin}_NATIVE_supply_dominance.csv.csv"
     with open(filename, "w", newline="") as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(
