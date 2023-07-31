@@ -3,7 +3,7 @@ import requests
 import datetime
 
 
-def save_total_stablecoins_all_chains_csv():
+def get_all_stables():
     # Send GET request to the endpoint
     response = requests.get("https://stablecoins.llama.fi/stablecoincharts/all")
 
@@ -21,7 +21,9 @@ def save_total_stablecoins_all_chains_csv():
         writer = csv.writer(csvfile)
 
         # Write the header row
-        writer.writerow(["Date", "peggedUSD", "peggedEUR"])
+        writer.writerow(
+            ["Date", "Total Circulating ($)", "Total Circulating (Stablecoin Units)"]
+        )
 
         # Write the data rows
         for item in data:
@@ -29,13 +31,15 @@ def save_total_stablecoins_all_chains_csv():
             date = datetime.datetime.fromtimestamp(timestamp).strftime(
                 "%Y-%m-%d"
             )  # format timestamp as human-readable date
-            peggedUSD = item["totalCirculatingUSD"]["peggedUSD"]
-            peggedEUR = item["totalCirculatingUSD"]["peggedEUR"]
+            total_circulating_usd = item["totalCirculatingUSD"]["peggedUSD"]
+            total_circulating_stablecoin_units = item["totalCirculating"]["peggedUSD"]
 
-            writer.writerow([date, peggedUSD, peggedEUR])
+            writer.writerow(
+                [date, total_circulating_usd, total_circulating_stablecoin_units]
+            )
 
     print("Data written to total_stablecoins_all_chains.csv")
 
 
 if __name__ == "__main__":
-    save_total_stablecoins_all_chains_csv()
+    get_all_stables()

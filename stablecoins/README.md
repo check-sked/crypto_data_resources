@@ -38,7 +38,7 @@
 ### stablecoin_supply_total.py
 
 - Returns cumulative historical stablecoin supply.
-- Result includes USD and EUR denominated stablecoins.
+- Result includes the USD denominated value of all stablecoins and the number of native stablecoin units in circulation..
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/total_stablecoins_all_chains.csv) for example of file returned.
 
 --
