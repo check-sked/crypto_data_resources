@@ -1,7 +1,5 @@
 # lending_and_borrowing
 
-See protocols list for Lending protocols
-
 ## Files and Folders Overview
 
 ### current_assets_borrowed_by_protocol_chain.py
