@@ -13,7 +13,7 @@ def save_stablecoin_supply_csv(chain):
         data = response.json()
 
         # Open a CSV file for writing
-        with open(f"{chain}_stablecoin_supply.csv", "w", newline="") as csv_file:
+        with open(f"{chain}_USD_stablecoin_supply.csv", "w", newline="") as csv_file:
             # Create a CSV writer object
             writer = csv.writer(csv_file)
 
@@ -26,7 +26,7 @@ def save_stablecoin_supply_csv(chain):
                     "total_bridged_to_usd",
                 ]
             )
-            print(f"Data written to {chain}_stablecoin_supply.csv")
+            print(f"Data written to {chain}_USD_stablecoin_supply.csv")
 
             # Loop through the elements of the data list
             for element in data:
