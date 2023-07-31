@@ -31,13 +31,13 @@
 ### stablecoin_price.py
 
 - Returns historical prices of all available stablecoins.
-- See [here]() for example of file returned.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/stablecoin_prices.csv) for example of file returned.
 
 --
 
 ### stablecoin_supply_total.py
 
-- Returns cumulative historical stablecoin supply.
+- Returns cumulative historical Dollar stablecoin supply.
 - Result includes the USD denominated value of all stablecoins and the number of native stablecoin units in circulation..
 - See [here]() for example of file returned.
 
