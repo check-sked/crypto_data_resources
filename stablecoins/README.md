@@ -2,7 +2,7 @@
 
 ## Files and Folders Overview
 
-### individual_stablecoin_supply_by_chain.py
+### individual_stablecoin_supply_chain_sorted.py
 
 - Returns historical stablecoin supply in USD across each chain individually; Stablecoin ticker is input by user.
 - User has the option to choose between circulating supply and supply minted through prompts in terminal.
