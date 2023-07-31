@@ -4,7 +4,7 @@
 
 ### individual_stablecoin_supply_by_chain.py
 
-- Returns historical stablecoin supply across each chain individually; Stablecoin ticker is input by user.
+- Returns historical stablecoin supply in USD across each chain individually; Stablecoin ticker is input by user.
 - User has the option to choose between circulating supply and supply minted through prompts in terminal.
 - Refer to map in file or the stablecoin dictionary for acceptable input tickers.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/stablecoin_USDT_circulating_by_chain.csv) for example of file returned.
@@ -19,19 +19,19 @@
 
 --
 
+### stablecoin_native_supply_dominance_by_chain.py
+
+- Returns historical stablecoin supply dominance by chain in native units (count of stablecoins in circulation).
+- User has the option to choose specific stablecoins and chains through prompts in terminal.
+- Refer to map in file or the stablecoin dictionary for acceptable input tickers.
+- See [here]() for example of file returned.
+
+--
+
 ### stablecoin_price.py
 
 - Returns historical prices of all available stablecoins.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/stablecoin_prices.csv) for example of file returned.
-
---
-
-### stablecoin_supply_dominance_by_chain.py
-
-- Returns historical stablecoin supply dominance by chain.
-- User has the option to choose specific stablecoins and chains through prompts in terminal.
-- Refer to map in file or the stablecoin dictionary for acceptable input tickers.
-- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/stablecoin_supply_dominance_Arbitrum_USDT.csv) for example of file returned.
 
 --
 
@@ -40,6 +40,15 @@
 - Returns cumulative historical stablecoin supply.
 - Result includes the USD denominated value of all stablecoins and the number of native stablecoin units in circulation..
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/total_stablecoins_all_chains.csv) for example of file returned.
+
+--
+
+### stablecoin_native_supply_dominance_by_chain.py
+
+- Returns historical stablecoin supply dominance by chain denominated in USD (USD value of stablecoins in circulation).
+- User has the option to choose specific stablecoins and chains through prompts in terminal.
+- Refer to map in file or the stablecoin dictionary for acceptable input tickers.
+- See [here]() for example of file returned.
 
 --
 
