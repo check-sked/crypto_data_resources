@@ -64,7 +64,7 @@
 
 - Returns historical stablecoin supply of a given chain (measured in USD denominated value).
 - User has the option to input desired chain through prompts in terminal.
-- See [here]() for example of file returned.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/Ethereum_USD_stablecoin_supply.csv) for example of file returned.
 
 --
 
