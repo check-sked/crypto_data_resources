@@ -1,7 +1,19 @@
 # Private Credit Real World Asset Protocols
 
-The protocols covered here include those operating in the real world private credit space. They are tracked by DeFiLlama in other categories, but can be considered RWAs depending how you look at it.
+## Files and Folders Overview
 
-Add the values here to your RWA analysis to for a more hollistic look at on-chain RWAs.
+### **[PROTOCOL]\_by_chain_type**.py
 
-See [centrifuge_by_chain_type.py](https://github.com/check-sked/crypto_data_resources/blob/main/private_credit_rwa/centrifuge_by_chain_type.py) for comments on individual protocol script functionality.
+- Files return TVL, borrow, staking, etc. data for each protocol sorted by chain.
+- All values are in USD ($).
+- See [here](https://github.com/check-sked/crypto_data_resources/tree/main/csv_examples/private_credit_rwa) for example of files returned.
+
+--
+
+### cumulative_private_credit_tvl.py
+
+- File returns TVL of each of the private credit RWA protocols in observance.
+- All values are in USD ($).
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/private_credit_rwa/alt_rwa_protocol_data.csv) for example of file returned.
+
+--
