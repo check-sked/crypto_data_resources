@@ -2,6 +2,13 @@
 
 ## Files and Folders Overview
 
+### bridge_id.py
+
+- Returns table with bridges, their corresponding IDs, and the chains they are available on.
+- See [here]() for example of file returned.
+
+--
+
 ### historical_bridge_data.py
 
 - Returns historical bridge data including deposit and withdraw volume (in USD) and counts of deposit and withdrawal transactions.
