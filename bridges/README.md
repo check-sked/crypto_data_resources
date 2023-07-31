@@ -5,6 +5,7 @@
 ### bridge_id.py
 
 - Returns table with bridges, their corresponding IDs, and the chains they are available on.
+- This file should be regenerated semi-regularly to capture new bridges and chains added to the API.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/bridges/bridges.csv) for example of file returned.
 
 --
