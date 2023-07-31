@@ -1,0 +1,449 @@
+Name,Chain,Category
+0vix,Polygon,Lending
+0vix,Polygon zkEVM,Lending
+0xLend,Kucoin,Lending
+88mph,Avalanche,Lending
+88mph,Ethereum,Lending
+88mph,Fantom,Lending
+88mph,Polygon,Lending
+AAVE V1,Ethereum,Lending
+AAVE V2,Avalanche,Lending
+AAVE V2,Ethereum,Lending
+AAVE V2,Polygon,Lending
+AAVE V3,Arbitrum,Lending
+AAVE V3,Avalanche,Lending
+AAVE V3,Ethereum,Lending
+AAVE V3,Fantom,Lending
+AAVE V3,Harmony,Lending
+AAVE V3,Metis,Lending
+AAVE V3,Optimism,Lending
+AAVE V3,Polygon,Lending
+ABEL Finance,Aptos,Lending
+Aada,Cardano,Lending
+Aave Arc,Ethereum,Lending
+Acumen,Solana,Lending
+Agave,xDai,Lending
+Agile Finance,Cronos,Lending
+Agora,Metis,Lending
+Ajna,Ethereum,Lending
+Algofi Lend,Algorand,Lending
+Alkemi,Ethereum,Lending
+Alpaca Finance 2.0,Binance,Lending
+Amy Finance,Arbitrum,Lending
+Anchor,Avalanche,Lending
+Anchor,Terra,Lending
+Annex,Binance,Lending
+Annex,Cronos,Lending
+Annex,Kava,Lending
+Ape Finance,Ethereum,Lending
+ApeSwap Lending,Binance,Lending
+Apricot Finance,Solana,Lending
+Aptin Finance,Aptos,Lending
+Arbor Finance,Ethereum,Lending
+Aries Markets,Aptos,Lending
+Atlantis Loans,Avalanche,Lending
+Atlantis Loans,Binance,Lending
+Atlantis Loans,Dogechain,Lending
+Atlantis Loans,Polygon,Lending
+Augmented Finance,Avalanche,Lending
+Augmented Finance,Binance,Lending
+Augmented Finance,Ethereum,Lending
+Augmented Finance,xDai,Lending
+Aurigami,Aurora,Lending
+B.Protocol,Arbitrum,Lending
+B.Protocol,Ethereum,Lending
+B.Protocol,Fantom,Lending
+B.Protocol,Polygon,Lending
+BAO Markets,Ethereum,Lending
+BFly Finance,Starcoin,Lending
+BNPL Pay,Ethereum,Lending
+BaksDAO,Binance,Lending
+Bank of Cronos Loans,Cronos,Lending
+Basilisk,zkSync Era,Lending
+Bastion,Aurora,Lending
+BencuFi,Metis,Lending
+Benqi Lending,Avalanche,Lending
+Beta Finance,Avalanche,Lending
+Beta Finance,Ethereum,Lending
+BiFi,Avalanche,Lending
+BiFi,Binance,Lending
+BiFi,Bitcoin,Lending
+BiFi,Ethereum,Lending
+BiFi,Klaytn,Lending
+Bitlend,Bittorrent,Lending
+Blizz Finance,Avalanche,Lending
+Bodh Finance,Boba,Lending
+BondAppetit,Ethereum,Lending
+BonqDAO,Polygon,Lending
+Brainiac Finance,GodwokenV1,Lending
+Burrow,Near,Lending
+CHFRY Finance,Ethereum,Lending
+CREAM Lending,Arbitrum,Lending
+CREAM Lending,Binance,Lending
+CREAM Lending,Ethereum,Lending
+CREAM Lending,Polygon,Lending
+Canto Lending,Canto,Lending
+CashCow Finance,Binance,Lending
+Cat in a Box,Ethereum,Lending
+Channels Finance,Arbitrum,Lending
+Channels Finance,Binance,Lending
+Channels Finance,Heco,Lending
+Chee Finance,Binance,Lending
+Chee Finance,Celo,Lending
+Chee Finance,Meter,Lending
+Chintai,EOS,Lending
+Commodo,Comdex,Lending
+Compound,Ethereum,Lending
+Compound V3,Arbitrum,Lending
+Compound V3,Ethereum,Lending
+Compound V3,Polygon,Lending
+Coslend,Evmos,Lending
+CroLend Finance,Cronos,Lending
+DAOLama,TON,Lending
+DeFIL,Binance,Lending
+DeFIL,Ethereum,Lending
+DeFiner,Ethereum,Lending
+DeFiner,OKExChain,Lending
+DeFiner,Polygon,Lending
+DebtDAO,Ethereum,Lending
+DeerFi,Ethereum,Lending
+Demeter,Binance,Lending
+Demeter,Heco,Lending
+Dolomite,Arbitrum,Lending
+EOS REX,EOS,Lending
+EcoDeFi,Binance,Lending
+Edge Protocol,Terra,Lending
+Equilibrium Lending,Equilibrium,Lending
+EraLend,zkSync Era,Lending
+EthicHub,Celo,Lending
+EthicHub,Ethereum,Lending
+Euler,Ethereum,Lending
+Everlend,Solana,Lending
+Evolve,Cronos,Lending
+Exactly,Ethereum,Lending
+Exactly,Optimism,Lending
+Fenrir Finance,Binance,Lending
+FilDA,Arbitrum,Lending
+FilDA,Binance,Lending
+FilDA,Bittorrent,Lending
+FilDA,Elastos,Lending
+FilDA,Heco,Lending
+FilDA,IoTeX,Lending
+FilDA,Kava,Lending
+FilDA,Polygon,Lending
+FilDA,REI,Lending
+FluidTokens,Cardano,Lending
+Flux Finance,Ethereum,Lending
+Flux Protocol,Arbitrum,Lending
+Flux Protocol,Binance,Lending
+Flux Protocol,Conflux,Lending
+Flux Protocol,Ethereum,Lending
+Flux Protocol,OKExChain,Lending
+Flux Protocol,Polygon,Lending
+Folks Finance Lending,Algorand,Lending
+ForTube,Binance,Lending
+ForTube,Ethereum,Lending
+ForTube,IoTeX,Lending
+ForTube,OKExChain,Lending
+ForTube,Polygon,Lending
+Fortress Loans,Binance,Lending
+Fountain Protocol,Oasis,Lending
+Fraxlend,Ethereum,Lending
+FreeLiquid,Ethereum,Lending
+Fringe,Ethereum,Lending
+Fuji V1,Arbitrum,Lending
+Fuji V1,Ethereum,Lending
+Fuji V1,Fantom,Lending
+Fuji V1,Optimism,Lending
+Fuji V1,Polygon,Lending
+Fuji V2,Arbitrum,Lending
+Fuji V2,Ethereum,Lending
+Fuji V2,Optimism,Lending
+Fuji V2,Polygon,Lending
+Fuji V2,xDai,Lending
+Geist Finance,Fantom,Lending
+Genshiro,Genshiro,Lending
+Ghost,Kujira,Lending
+Goldbank Finance,Arbitrum,Lending
+Goledo,Conflux,Lending
+Granary Finance,Arbitrum,Lending
+Granary Finance,Avalanche,Lending
+Granary Finance,Binance,Lending
+Granary Finance,Ethereum,Lending
+Granary Finance,Fantom,Lending
+Granary Finance,Metis,Lending
+Granary Finance,Optimism,Lending
+Green Planet,Binance,Lending
+Hadouken Lend,GodwokenV1,Lending
+Hatom Lending,Elrond,Lending
+Hector Lending,Fantom,Lending
+Hodltree,Ethereum,Lending
+Hodltree,Polygon,Lending
+Huckleberry Lending,Moonriver,Lending
+Hundred Finance,Arbitrum,Lending
+Hundred Finance,Ethereum,Lending
+Hundred Finance,Fantom,Lending
+Hundred Finance,Harmony,Lending
+Hundred Finance,Moonriver,Lending
+Hundred Finance,Optimism,Lending
+Hundred Finance,Polygon,Lending
+Hundred Finance,xDai,Lending
+Illuminate,Ethereum,Lending
+Increment Lending,Flow,Lending
+Iron Bank,Avalanche,Lending
+Iron Bank,Ethereum,Lending
+Iron Bank,Fantom,Lending
+Iron Bank,Optimism,Lending
+Jet Fixed Term,Solana,Lending
+Jet Margin,Solana,Lending
+Jet V1,Solana,Lending
+JustLend,Tron,Lending
+KLend,Binance,Lending
+KLend,OKExChain,Lending
+Karura Dollar (kUSD),Karura,Lending
+Kava Lend,Kava,Lending
+Kinza Finance,Binance,Lending
+Klap,Klaytn,Lending
+KlayBank,Klaytn,Lending
+Kokomo Finance,Arbitrum,Lending
+Kokomo Finance,Optimism,Lending
+L2FINANCE,Arbitrum,Lending
+Larix,Solana,Lending
+LendFlare,Ethereum,Lending
+LendHub,Heco,Lending
+LendeXe Finance,Ethereum,Lending
+Lending Pond,Cardano,Lending
+Lendle,Mantle,Lending
+Lenen,Vision,Lending
+LineaBank,Linea,Lending
+Liqee,Binance,Lending
+Liqee,Ethereum,Lending
+Liqwid,Cardano,Lending
+Lodestar V0,Arbitrum,Lending
+Lodestar V1,Arbitrum,Lending
+MANTRA DAO,Binance,Lending
+MANTRA DAO,Ethereum,Lending
+MANTRA DAO,Polygon,Lending
+MYSO,Arbitrum,Lending
+MYSO,Ethereum,Lending
+MahaLend,Arbitrum,Lending
+MahaLend,Ethereum,Lending
+Mango Markets V3,Solana,Lending
+Mango Markets V4,Solana,Lending
+Mare Finance V1,Kava,Lending
+Mare Finance V2,Kava,Lending
+Market,Fantom,Lending
+Market,Polygon,Lending
+Mars Protocol,Osmosis,Lending
+Mars Protocol,Terra,Lending
+Meld,Cardano,Lending
+Mensa Protocol,Fantom,Lending
+Mesher,Ethereum,Lending
+Mesher,Klaytn,Lending
+MetaStreet V1,Ethereum,Lending
+Metapoly,Ethereum,Lending
+Metapoly,Kava,Lending
+Midas Capital,Arbitrum,Lending
+Midas Capital,Binance,Lending
+Midas Capital,Moonbeam,Lending
+Midas Capital,Polygon,Lending
+MilkyWay,Milkomeda,Lending
+Mimas Finance,Cronos,Lending
+MochiFi,Ethereum,Lending
+MoneyOnChain,RSK,Lending
+MonoLend,Polygon,Lending
+Moola Market,Celo,Lending
+Moonwell Apollo,Moonriver,Lending
+Moonwell Artemis,Moonbeam,Lending
+Moremoney,Avalanche,Lending
+Morpho Aave,Ethereum,Lending
+Morpho AaveV3,Ethereum,Lending
+Morpho Compound,Ethereum,Lending
+Multiplier,Binance,Lending
+Multiplier,Ethereum,Lending
+Neku,Arbitrum,Lending
+Neku,Binance,Lending
+Neku,Moonriver,Lending
+Nereus Finance,Avalanche,Lending
+Notional,Ethereum,Lending
+OCP Finance,Binance,Lending
+Omm,Icon,Lending
+Omni Protocol,Ethereum,Lending
+Omnidex Lend,Telos,Lending
+Onyx Protocol,Ethereum,Lending
+Ooki,Arbitrum,Lending
+Ooki,Binance,Lending
+Ooki,Ethereum,Lending
+Ooki,Optimism,Lending
+Ooki,Polygon,Lending
+Optim Finance,Cardano,Lending
+Orbiter One,Moonbeam,Lending
+OrcaDAO,Avalanche,Lending
+Owna,Polygon zkEVM,Lending
+Oxygen,Solana,Lending
+Paladin Vote,Ethereum,Lending
+Pando Rings,Mixin,Lending
+PaperDAO,EthereumPoW,Lending
+Parallel Lending,Heiko,Lending
+Parallel Lending,Parallel,Lending
+Paribus,Arbitrum,Lending
+Percent Finance,Ethereum,Lending
+Pilot Protocol,Heco,Lending
+Pinjam Labs,Kava,Lending
+Pizza,EOS,Lending
+Poof Cash,Celo,Lending
+Port Finance,Solana,Lending
+Prime Protocol,Arbitrum,Lending
+Prime Protocol,Avalanche,Lending
+Prime Protocol,Binance,Lending
+Prime Protocol,Ethereum,Lending
+Prime Protocol,Moonbeam,Lending
+Prime Protocol,Polygon,Lending
+Proton Loan,Proton,Lending
+Puzzle Lend,Waves,Lending
+Qubit,Binance,Lending
+Qubit,Klaytn,Lending
+Quickswap Lend,Polygon,Lending
+REX Staking,Telos,Lending
+Rabbit Finance,Binance,Lending
+Radiant V1,Arbitrum,Lending
+Radiant V2,Arbitrum,Lending
+Radiant V2,Binance,Lending
+Ram Protocol,ThunderCore,Lending
+ReactorFusion,zkSync Era,Lending
+RealT RMM Marketplace,xDai,Lending
+Reax Lending,Mantle,Lending
+Rikkei Finance,Binance,Lending
+RociFi V1,Polygon,Lending
+RociFi V2,Polygon,Lending
+RociFi V2,zkSync Era,Lending
+Roe Finance,Arbitrum,Lending
+Roe Finance,Ethereum,Lending
+Roe Finance,Polygon,Lending
+Ruler,Ethereum,Lending
+SSAP,CLV,Lending
+SSAP,Oasis,Lending
+Scallop,Solana,Lending
+Scallop,Sui,Lending
+Scream,Fantom,Lending
+Sculptor Finance,Binance,Lending
+ShadeLend,Secret,Lending
+Shoebill Finance,Kava,Lending
+Shoebill Finance,Klaytn,Lending
+SiO2 Finance,Astar,Lending
+SigmaFi,Ergo,Lending
+Silo Finance,Arbitrum,Lending
+Silo Finance,Ethereum,Lending
+SmartCredit,Ethereum,Lending
+Soda Protocol,Solana,Lending
+Sohei,Arbitrum,Lending
+Solend,Solana,Lending
+Sonne Finance,Optimism,Lending
+Sovryn Lend,RSK,Lending
+Spark,Ethereum,Lending
+SpiritSwap Lending,Fantom,Lending
+Stake1,Fantom,Lending
+Starfish Finance,Astar,Lending
+Starlay Finance,Astar,Lending
+Strike,Ethereum,Lending
+Sturdy,Ethereum,Lending
+Sturdy,Fantom,Lending
+Surge,Arbitrum,Lending
+Sushi Kashi,Arbitrum,Lending
+Sushi Kashi,Avalanche,Lending
+Sushi Kashi,Binance,Lending
+Sushi Kashi,Ethereum,Lending
+Sushi Kashi,Polygon,Lending
+SwirlLend,Linea,Lending
+Tarot,Arbitrum,Lending
+Tarot,Avalanche,Lending
+Tarot,Binance,Lending
+Tarot,Canto,Lending
+Tarot,Ethereum,Lending
+Tarot,Fantom,Lending
+Tarot,Kava,Lending
+Tarot,Optimism,Lending
+Tarot,Polygon,Lending
+Tarot,zkSync Era,Lending
+Tashi,Evmos,Lending
+Tectonic,Cronos,Lending
+Teller,Ethereum,Lending
+Teller,Polygon,Lending
+Tender Finance,Arbitrum,Lending
+Themis Protocol,Arbitrum,Lending
+Timeswap V1,Polygon,Lending
+Timeswap V2,Arbitrum,Lending
+Timeswap V2,Ethereum,Lending
+Timeswap V2,Mantle,Lending
+Timeswap V2,Polygon,Lending
+Timeswap V2,Polygon zkEVM,Lending
+Tonpound,Ethereum,Lending
+Torches,Kucoin,Lending
+Toreus,Kava,Lending
+Trader Joe Lend,Avalanche,Lending
+Tranquil Finance,Harmony,Lending
+Trava Finance,Binance,Lending
+Trava Finance,Fantom,Lending
+Tropykus RSK,RSK,Lending
+Tropykus zkEVM,Polygon zkEVM,Lending
+USDFI Lending,Binance,Lending
+Umee,Ethereum,Lending
+Umee,Umee,Lending
+Unilend,Binance,Lending
+Unilend,Ethereum,Lending
+Unilend,Polygon,Lending
+Unlockd,Ethereum,Lending
+UwU Lend,Ethereum,Lending
+Valas Finance,Binance,Lending
+Vee Finance,Avalanche,Lending
+Vee Finance,Heco,Lending
+Vendor V1,Arbitrum,Lending
+Vendor V1,Ethereum,Lending
+Vendor V2,Arbitrum,Lending
+Venus,Binance,Lending
+Venus Isolated Pools,Binance,Lending
+Vigor,EOS,Lending
+Vires Finance,Waves,Lending
+WEMIX.FI Lend,WEMIX,Lending
+WanLend,Wanchain,Lending
+Warp Protocol,Ethereum,Lending
+WaterLoan,CSC,Lending
+WaterLoan,smartBCH,Lending
+WePiggy,Arbitrum,Lending
+WePiggy,Aurora,Lending
+WePiggy,Binance,Lending
+WePiggy,Ethereum,Lending
+WePiggy,Harmony,Lending
+WePiggy,Heco,Lending
+WePiggy,Moonbeam,Lending
+WePiggy,Moonriver,Lending
+WePiggy,OKExChain,Lending
+WePiggy,Oasis,Lending
+WePiggy,Optimism,Lending
+WePiggy,Polygon,Lending
+Whitehole Finance,Arbitrum,Lending
+Wild Credit,Ethereum,Lending
+Wing Finance,Binance,Lending
+Wing Finance,Ethereum,Lending
+Wing Finance,OKExChain,Lending
+Wing Finance,Ontology,Lending
+Wing Finance,OntologyEVM,Lending
+Xensa,OKExChain,Lending
+Yield Protocol,Arbitrum,Lending
+Yield Protocol,Ethereum,Lending
+Yupana,Tezos,Lending
+ZeroLend,zkSync Era,Lending
+dForce,Arbitrum,Lending
+dForce,Avalanche,Lending
+dForce,Binance,Lending
+dForce,Conflux,Lending
+dForce,Ethereum,Lending
+dForce,Kava,Lending
+dForce,Optimism,Lending
+dForce,Polygon,Lending
+forlend,Findora,Lending
+marginfi,Solana,Lending
+unFederalReserve,Ethereum,Lending
+wefi,Polygon,Lending
+xBank Finance,zkSync Era,Lending
+zkLend,Starknet,Lending
