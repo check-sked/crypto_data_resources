@@ -15,7 +15,7 @@
 
 - Returns list of all available stablecoins, their corresponding ID numbers, and stablecoin type (e.g. pegged to USD).
 - The list of stablecoins and IDs returned by this file can also be found in the maps of applicable Python scripts.
-- See [here]() for example of file returned.
+- See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/stablecoins.csv) for example of file returned.
 
 --
 
