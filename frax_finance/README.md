@@ -6,6 +6,7 @@
 
 - Returns information for all pools where Frax assets (FRX, frxETH, FXS) can be found.
 - Results include the protocol and chain the pool can be found on, in addition to the pool's TVL, APY, and reward tokens.
+- Results are sorted by APY in descending order.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/frax_finance/frax_pools.csv) for example of file returned.
 
 --
