@@ -54,7 +54,7 @@
 
 ### total_native_stablecoin_supply_by_chain.py
 
-- Returns historical stablecoin supply of a given chain (measured in native).
+- Returns historical stablecoin supply of a given chain (measured in native units).
 - User has the option to input desired chain through prompts in terminal.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/Ethereum_native_stablecoin_supply.csv) for example of file returned.
 
