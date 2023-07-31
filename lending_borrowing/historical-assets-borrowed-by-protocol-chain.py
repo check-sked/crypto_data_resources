@@ -1,27 +1,63 @@
 import requests
 import pandas as pd
+from datetime import datetime
 
-# input chain (check chain_list.py for all chains)
-chain = input("Enter chain (Ethereum, Optimism, Aptos, etc.): ")
 
-# input protocol name (check protocols_list.py for all protocols)
-Protocol_Name = input("Enter lending protocol (Aave, Compound, Venus, etc.): ")
+def main():
+    # Input protocol name
+    Protocol_Name = input("Enter lending protocol (Aave, Compound, Venus, etc.): ")
 
-# make a GET request to the API endpoint
-response = requests.get(f"https://api.llama.fi/protocol/{Protocol_Name}")
+    # Input chain
+    chain = input("Enter chain (Ethereum, Optimism, Aptos, etc.): ")
 
-# convert the response to a dictionary
-data = response.json()
+    print("The script is running. Press CTRL + C to kill operation at any time.")
 
-# get all of the borrowed keys
-borrowed_keys = [key for key in data['chainTvls'].keys() if chain in key]
+    # Make a GET request to the API endpoint
+    response = requests.get(f"https://api.llama.fi/protocol/{Protocol_Name}")
 
-# create a dictionary of dataframes, with each key representing a borrowed key
-dfs = {key: pd.DataFrame(data['chainTvls'][key]['tvl']) for key in borrowed_keys}
+    # Convert the response to a dictionary
+    data = response.json()
 
-# merge all of the dataframes into a single dataframe
-result = pd.concat(dfs, axis=1)
+    # Prepare dictionary to hold final data
+    final_data = {}
 
-# write the resulting dataframe to a csv file
-result.to_csv(f'historical_{Protocol_Name}_{chain}_borrowed_tvl.csv'.format(chain), index=False)
-print(f"data written to historical_{Protocol_Name}_{chain}_borrowed_tvl.csv!")
+    # Get TVL data
+    tvl_data = data["chainTvls"].get(chain, {}).get("tvl", [])
+
+    # Get borrowed data
+    borrowed_data = data["chainTvls"].get(f"{chain}-borrowed", {}).get("tvl", [])
+
+    # Process TVL data
+    for item in tvl_data:
+        date = datetime.utcfromtimestamp(item["date"]).strftime("%Y/%m/%d")
+        if date not in final_data:
+            final_data[date] = {"date": date}
+        final_data[date][f"{chain}_TVL"] = "${:,.2f}".format(item["totalLiquidityUSD"])
+
+    # Process borrowed data
+    for item in borrowed_data:
+        date = datetime.utcfromtimestamp(item["date"]).strftime("%Y/%m/%d")
+        if date not in final_data:
+            final_data[date] = {"date": date}
+        final_data[date][f"{chain}_borrowed"] = "${:,.2f}".format(
+            item["totalLiquidityUSD"]
+        )
+
+    # Create DataFrame from final data
+    df = pd.DataFrame(final_data.values())
+
+    # Write the resulting dataframe to a csv file
+    df.to_csv(
+        f"{Protocol_Name}_{chain}_borrowed_tvl.csv",
+        index=False,
+        columns=[
+            "date",
+            f"{chain}_borrowed",
+            f"{chain}_TVL",
+        ],  # ensure the correct column order
+    )
+    print(f"data written to {Protocol_Name}_{chain}_borrowed_tvl.csv!")
+
+
+if __name__ == "__main__":
+    main()
