@@ -170,8 +170,10 @@ def save_stablecoin_data_to_csv(stablecoin_id, value_type):
 if __name__ == "__main__":
     stablecoin_name = input("Enter the stablecoin name: ")
     value_type = ""
-    while value_type.lower() not in ["circulating", "minted"]:
-        value_type = input("Choose between 'Circulating' and 'Minted': ")
+    while value_type.lower() not in ["circulating", "minted", "unreleased"]:
+        value_type = input("Choose between 'Circulating', 'Minted', and 'Unreleased: ")
+
+    print("The script is running. Press CTRL + C to kill operation at any time.")
 
     if stablecoin_name in STABLECOIN_MAPPING:
         stablecoin_id = STABLECOIN_MAPPING[stablecoin_name]

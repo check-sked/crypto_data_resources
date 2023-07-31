@@ -5,7 +5,7 @@
 ### individual_stablecoin_supply_chain_sorted.py
 
 - Returns historical stablecoin supply in USD across each chain individually; Stablecoin ticker is input by user.
-- User has the option to choose between circulating supply and supply minted through prompts in terminal.
+- User has the option to choose between circulating supply, supply minted, and unreleased supply through prompts in terminal.
 - Refer to map in file or the stablecoin dictionary for acceptable input tickers.
 - See [here](https://github.com/check-sked/crypto_data_resources/blob/main/csv_examples/stablecoins/stablecoin_USDC_circulating_by_chain.csv) for example of file returned.
 
