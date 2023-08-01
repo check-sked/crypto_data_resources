@@ -33,6 +33,10 @@ def main():
     category = input("Enter a category: ")
     print("The script is running. Press CTRL + C to kill the operation at any time.")
     protocols = get_protocols(category)
+    if not protocols:
+        print("Category not recognized. Check README in folder for list of categories.")
+        return
+
     data = {}
     for protocol in protocols:
         data[protocol] = get_protocol_tvl(protocol)
